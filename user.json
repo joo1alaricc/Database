@@ -34,5 +34,11 @@
     "owner": "6283878301449",
     "status": "Offline: Unknown (403)",
     "version": "5.1.0"
+  },
+  {
+    "user": "256712613369",
+    "owner": "6283878301449",
+    "status": "Offline: restartRequired",
+    "version": "5.1.0"
   }
 ]
