@@ -1,4 +1,5 @@
-[
+{
+  "result": [
 {"question":"Apa singkatan dari AI?","answer":"Artificial Intelligence","desc":"Teknologi kecerdasan buatan pada komputer."},
 {"question":"Apa singkatan dari CEO?","answer":"Chief Executive Officer","desc":"Pemimpin tertinggi dalam sebuah perusahaan."},
 {"question":"Apa singkatan dari CFO?","answer":"Chief Financial Officer","desc":"Direktur yang bertanggung jawab pada keuangan perusahaan."},
@@ -185,3 +186,4 @@
 {"question":"Apa singkatan dari OLED?","answer":"Organic Light Emitting Diode","desc":"Teknologi layar modern."},
 {"question":"Apa singkatan dari DSLR?","answer":"Digital Single Lens Reflex","desc":"Jenis kamera digital profesional."}
 ] 
+}
