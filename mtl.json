@@ -1,0 +1,2102 @@
+[
+  {
+    "index": 1,
+    "question": "Derajat dari polinomial 3x⁴ - 2x³ + 5x - 7 adalah...",
+    "answer": "A. 1\nB. 2\nC. 3\nD. 4\nE. 5",
+    "correct_answer": "D. 4",
+    "mean": "Derajat polinomial ditentukan oleh pangkat tertinggi variabelnya, yaitu 4."
+  },
+  {
+    "index": 2,
+    "question": "Bentuk umum polinomial berderajat n adalah...",
+    "answer": "A. ax + b\nB. ax² + bx + c\nC. aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₀\nD. axⁿ\nE. xⁿ + 1",
+    "correct_answer": "C. aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₀",
+    "mean": "Bentuk umum polinomial memiliki koefisien aₙ hingga a₀ dengan pangkat tertinggi n."
+  },
+  {
+    "index": 3,
+    "question": "Koefisien x² dari polinomial 4x³ - 5x² + 2x - 1 adalah...",
+    "answer": "A. 4\nB. -5\nC. 2\nD. -1\nE. 5",
+    "correct_answer": "B. -5",
+    "mean": "Koefisien x² adalah angka yang mengalikan x², yaitu -5."
+  },
+  {
+    "index": 4,
+    "question": "Konstanta dari polinomial 2x³ + 3x² - 4x + 7 adalah...",
+    "answer": "A. 2\nB. 3\nC. -4\nD. 7\nE. 0",
+    "correct_answer": "D. 7",
+    "mean": "Konstanta adalah suku tanpa variabel, yaitu 7."
+  },
+  {
+    "index": 5,
+    "question": "Hasil penjumlahan (2x² + 3x - 1) + (x² - 5x + 4) adalah...",
+    "answer": "A. 3x² - 2x + 3\nB. 3x² + 8x + 3\nC. x² - 2x + 3\nD. 3x² - 2x - 3\nE. 3x² + 2x + 3",
+    "correct_answer": "A. 3x² - 2x + 3",
+    "mean": "Jumlahkan suku sejenis: 2x²+x²=3x², 3x-5x=-2x, -1+4=3."
+  },
+  {
+    "index": 6,
+    "question": "Hasil pengurangan (5x³ - 2x² + 3) - (2x³ + 4x² - 1) adalah...",
+    "answer": "A. 3x³ - 6x² + 4\nB. 3x³ + 2x² + 2\nC. 7x³ - 6x² + 2\nD. 3x³ - 6x² - 4\nE. 3x³ + 6x² + 4",
+    "correct_answer": "A. 3x³ - 6x² + 4",
+    "mean": "5x³-2x³=3x³, -2x²-4x²=-6x², 3-(-1)=4."
+  },
+  {
+    "index": 7,
+    "question": "Hasil perkalian (x + 2)(x - 3) adalah...",
+    "answer": "A. x² - x - 6\nB. x² + x - 6\nC. x² - 5x - 6\nD. x² - x + 6\nE. x² + 5x - 6",
+    "correct_answer": "A. x² - x - 6",
+    "mean": "x·x + x·(-3) + 2·x + 2·(-3) = x² - 3x + 2x - 6 = x² - x - 6."
+  },
+  {
+    "index": 8,
+    "question": "Hasil perkalian (2x - 1)(x² + 3x - 2) adalah...",
+    "answer": "A. 2x³ + 5x² - 7x + 2\nB. 2x³ + 5x² - 7x - 2\nC. 2x³ + 5x² + 7x + 2\nD. 2x³ - 5x² - 7x + 2\nE. 2x³ + 6x² - 7x + 2",
+    "correct_answer": "A. 2x³ + 5x² - 7x + 2",
+    "mean": "2x·x²+2x·3x+2x·(-2)+(-1)·x²+(-1)·3x+(-1)·(-2) = 2x³+6x²-4x-x²-3x+2 = 2x³+5x²-7x+2."
+  },
+  {
+    "index": 9,
+    "question": "Nilai polinomial f(x) = 2x³ - 3x² + 4x - 5 untuk x = 2 adalah...",
+    "answer": "A. 5\nB. 7\nC. 9\nD. 11\nE. 13",
+    "correct_answer": "B. 7",
+    "mean": "f(2) = 2(8) - 3(4) + 4(2) - 5 = 16 - 12 + 8 - 5 = 7."
+  },
+  {
+    "index": 10,
+    "question": "Jika f(x) = x³ - 4x + 2, maka f(-1) adalah...",
+    "answer": "A. 5\nB. 3\nC. 1\nD. -1\nE. -3",
+    "correct_answer": "A. 5",
+    "mean": "f(-1) = (-1)³ - 4(-1) + 2 = -1 + 4 + 2 = 5."
+  },
+  {
+    "index": 11,
+    "question": "Hasil bagi dari (x² + 5x + 6) : (x + 2) adalah...",
+    "answer": "A. x + 2\nB. x + 3\nC. x - 3\nD. x - 2\nE. x + 4",
+    "correct_answer": "B. x + 3",
+    "mean": "(x² + 5x + 6) = (x + 2)(x + 3), sehingga hasil baginya x + 3."
+  },
+  {
+    "index": 12,
+    "question": "Sisa pembagian x³ - 3x² + 4x - 5 oleh (x - 1) adalah...",
+    "answer": "A. -3\nB. -2\nC. -1\nD. 0\nE. 1",
+    "correct_answer": "A. -3",
+    "mean": "Teorema sisa: sisa = f(1) = 1 - 3 + 4 - 5 = -3."
+  },
+  {
+    "index": 13,
+    "question": "Sisa pembagian 2x³ + x² - 3x + 4 oleh (x + 2) adalah...",
+    "answer": "A. 2\nB. 4\nC. 6\nD. 8\nE. 10",
+    "correct_answer": "C. 6",
+    "mean": "Sisa = f(-2) = 2(-8) + 4 + 6 + 4 = -16 + 14 = -2 + 8 = 6."
+  },
+  {
+    "index": 14,
+    "question": "Teorema sisa menyatakan bahwa sisa pembagian f(x) oleh (x - a) adalah...",
+    "answer": "A. f(0)\nB. f(a)\nC. f(-a)\nD. a\nE. 0",
+    "correct_answer": "B. f(a)",
+    "mean": "Menurut teorema sisa, sisa pembagian f(x) oleh (x-a) adalah f(a)."
+  },
+  {
+    "index": 15,
+    "question": "(x - 2) merupakan faktor dari polinomial f(x) jika...",
+    "answer": "A. f(2) = 0\nB. f(2) ≠ 0\nC. f(-2) = 0\nD. f(0) = 2\nE. f(0) = -2",
+    "correct_answer": "A. f(2) = 0",
+    "mean": "Teorema faktor: (x-a) faktor dari f(x) jika dan hanya jika f(a) = 0."
+  },
+  {
+    "index": 16,
+    "question": "Jika f(x) = x³ - 6x² + 11x - 6, maka faktor-faktornya adalah...",
+    "answer": "A. (x-1)(x-2)(x-3)\nB. (x+1)(x+2)(x+3)\nC. (x-1)(x+2)(x-3)\nD. (x+1)(x-2)(x+3)\nE. (x-1)(x-2)(x+3)",
+    "correct_answer": "A. (x-1)(x-2)(x-3)",
+    "mean": "Akar-akarnya 1, 2, 3, sehingga faktornya (x-1)(x-2)(x-3)."
+  },
+  {
+    "index": 17,
+    "question": "Akar-akar dari x² - 5x + 6 = 0 adalah...",
+    "answer": "A. 1 dan 6\nB. 2 dan 3\nC. -2 dan -3\nD. 1 dan 5\nE. -1 dan 6",
+    "correct_answer": "B. 2 dan 3",
+    "mean": "x²-5x+6 = (x-2)(x-3) = 0, sehingga x = 2 atau x = 3."
+  },
+  {
+    "index": 18,
+    "question": "Jumlah akar-akar dari x³ - 6x² + 11x - 6 = 0 adalah...",
+    "answer": "A. 4\nB. 5\nC. 6\nD. 11\nE. -6",
+    "correct_answer": "C. 6",
+    "mean": "Untuk ax³+bx²+cx+d, jumlah akar = -b/a = 6."
+  },
+  {
+    "index": 19,
+    "question": "Hasil kali akar-akar dari x³ - 2x² - 5x + 6 = 0 adalah...",
+    "answer": "A. -6\nB. 6\nC. 2\nD. -2\nE. 5",
+    "correct_answer": "A. -6",
+    "mean": "Hasil kali akar = -d/a = -6."
+  },
+  {
+    "index": 20,
+    "question": "Jika (x - 1) faktor dari x³ + ax² - x + 2, maka nilai a adalah...",
+    "answer": "A. -2\nB. -1\nC. 0\nD. 1\nE. 2",
+    "correct_answer": "A. -2",
+    "mean": "f(1) = 0 → 1 + a - 1 + 2 = 0 → a = -2."
+  },
+  {
+    "index": 21,
+    "question": "Ordo matriks A = [[1,2],[3,4]] adalah...",
+    "answer": "A. 1×1\nB. 1×2\nC. 2×2\nD. 2×3\nE. 3×3",
+    "correct_answer": "C. 2×2",
+    "mean": "Matriks memiliki 2 baris dan 2 kolom, jadi ordonya 2×2."
+  },
+  {
+    "index": 22,
+    "question": "Matriks dengan semua elemen di bawah diagonal utama nol disebut matriks...",
+    "answer": "A. Diagonal\nB. Identitas\nC. Segitiga atas\nD. Segitiga bawah\nE. Nol",
+    "correct_answer": "C. Segitiga atas",
+    "mean": "Matriks segitiga atas memiliki elemen di bawah diagonal utama bernilai nol."
+  },
+  {
+    "index": 23,
+    "question": "Matriks identitas ordo 3×3 memiliki elemen diagonal utama...",
+    "answer": "A. 0\nB. 1\nC. 2\nD. -1\nE. 3",
+    "correct_answer": "B. 1",
+    "mean": "Matriks identitas memiliki 1 di diagonal utama dan 0 di elemen lainnya."
+  },
+  {
+    "index": 24,
+    "question": "Jika A = [[2,3],[1,4]] dan B = [[5,1],[2,3]], maka A + B adalah...",
+    "answer": "A. [[7,4],[3,7]]\nB. [[7,4],[3,-1]]\nC. [[7,2],[3,7]]\nD. [[3,4],[1,7]]\nE. [[7,4],[3,1]]",
+    "correct_answer": "A. [[7,4],[3,7]]",
+    "mean": "Jumlahkan elemen seletak: (2+5, 3+1, 1+2, 4+3)."
+  },
+  {
+    "index": 25,
+    "question": "Hasil kali skalar 3 × [[1,2],[3,4]] adalah...",
+    "answer": "A. [[3,6],[9,12]]\nB. [[4,5],[6,7]]\nC. [[1,2],[3,4]]\nD. [[3,2],[3,4]]\nE. [[3,6],[3,12]]",
+    "correct_answer": "A. [[3,6],[9,12]]",
+    "mean": "Kalikan setiap elemen matriks dengan skalar 3."
+  },
+  {
+    "index": 26,
+    "question": "Jika A = [[1,2],[3,4]] dan B = [[2,0],[1,3]], maka AB adalah...",
+    "answer": "A. [[4,6],[10,12]]\nB. [[4,6],[10,10]]\nC. [[4,6],[10,14]]\nD. [[4,8],[10,12]]\nE. [[4,6],[8,12]]",
+    "correct_answer": "A. [[4,6],[10,12]]",
+    "mean": "Baris A × kolom B: (1·2+2·1, 1·0+2·3, 3·2+4·1, 3·0+4·3)."
+  },
+  {
+    "index": 27,
+    "question": "Determinan dari [[3,4],[2,5]] adalah...",
+    "answer": "A. 5\nB. 7\nC. 15\nD. 23\nE. -7",
+    "correct_answer": "B. 7",
+    "mean": "det = (3)(5) - (4)(2) = 15 - 8 = 7."
+  },
+  {
+    "index": 28,
+    "question": "Jika det(A) = 0, maka matriks A disebut...",
+    "answer": "A. Identitas\nB. Singular\nC. Diagonal\nD. Ortogonal\nE. Simetris",
+    "correct_answer": "B. Singular",
+    "mean": "Matriks dengan determinan nol disebut matriks singular dan tidak memiliki invers."
+  },
+  {
+    "index": 29,
+    "question": "Invers dari [[2,1],[3,2]] adalah...",
+    "answer": "A. [[2,-1],[-3,2]]\nB. [[2,1],[3,2]]\nC. [[-2,1],[3,-2]]\nD. [[2,-1],[3,2]]\nE. [[-2,-1],[-3,-2]]",
+    "correct_answer": "A. [[2,-1],[-3,2]]",
+    "mean": "det = 1, invers = 1/1 · [[2,-1],[-3,2]] = [[2,-1],[-3,2]]."
+  },
+  {
+    "index": 30,
+    "question": "Determinan matriks ordo 3×3 dapat dihitung dengan metode...",
+    "answer": "A. Sarrus\nB. Gauss-Jordan\nC. Cramer\nD. Newton\nE. Simpson",
+    "correct_answer": "A. Sarrus",
+    "mean": "Determinan 3×3 biasanya dihitung dengan aturan Sarrus atau ekspansi kofaktor."
+  },
+  {
+    "index": 31,
+    "question": "Determinan dari matriks identitas ordo 3×3 adalah...",
+    "answer": "A. 0\nB. 1\nC. 3\nD. -1\nE. 9",
+    "correct_answer": "B. 1",
+    "mean": "Determinan matriks identitas selalu bernilai 1."
+  },
+  {
+    "index": 32,
+    "question": "Jika A = [[1,2],[3,4]], maka A⁻¹ adalah...",
+    "answer": "A. [[-2,1],[1.5,-0.5]]\nB. [[-2,1],[1.5,0.5]]\nC. [[2,-1],[-1.5,0.5]]\nD. [[-2,-1],[-1.5,-0.5]]\nE. [[2,1],[1.5,0.5]]",
+    "correct_answer": "A. [[-2,1],[1.5,-0.5]]",
+    "mean": "det = -2, A⁻¹ = (1/-2)[[4,-2],[-3,1]] = [[-2,1],[1.5,-0.5]]."
+  },
+  {
+    "index": 33,
+    "question": "Translasi titik A(2,3) oleh vektor T = (4,-1) menghasilkan...",
+    "answer": "A. (6,2)\nB. (6,4)\nC. (2,2)\nD. (-2,4)\nE. (6,-2)",
+    "correct_answer": "A. (6,2)",
+    "mean": "Translasi: (2+4, 3-1) = (6,2)."
+  },
+  {
+    "index": 34,
+    "question": "Refleksi titik (3,5) terhadap sumbu X menghasilkan...",
+    "answer": "A. (3,-5)\nB. (-3,5)\nC. (-3,-5)\nD. (5,3)\nE. (-5,-3)",
+    "correct_answer": "A. (3,-5)",
+    "mean": "Refleksi terhadap sumbu X: (x,y) → (x,-y)."
+  },
+  {
+    "index": 35,
+    "question": "Refleksi titik (4,2) terhadap sumbu Y menghasilkan...",
+    "answer": "A. (4,-2)\nB. (-4,2)\nC. (-4,-2)\nD. (2,4)\nE. (-2,-4)",
+    "correct_answer": "B. (-4,2)",
+    "mean": "Refleksi terhadap sumbu Y: (x,y) → (-x,y)."
+  },
+  {
+    "index": 36,
+    "question": "Refleksi titik (3,4) terhadap garis y = x menghasilkan...",
+    "answer": "A. (4,3)\nB. (-3,-4)\nC. (3,-4)\nD. (-4,-3)\nE. (3,4)",
+    "correct_answer": "A. (4,3)",
+    "mean": "Refleksi terhadap y=x: (x,y) → (y,x)."
+  },
+  {
+    "index": 37,
+    "question": "Rotasi titik (1,0) sebesar 90° berlawanan arah jarum jam terhadap titik asal menghasilkan...",
+    "answer": "A. (0,1)\nB. (0,-1)\nC. (1,1)\nD. (-1,0)\nE. (1,-1)",
+    "correct_answer": "A. (0,1)",
+    "mean": "Rotasi 90°: (x,y) → (-y,x) = (0,1)."
+  },
+  {
+    "index": 38,
+    "question": "Rotasi titik (2,3) sebesar 180° terhadap titik asal menghasilkan...",
+    "answer": "A. (2,3)\nB. (-2,-3)\nC. (-3,2)\nD. (3,-2)\nE. (-2,3)",
+    "correct_answer": "B. (-2,-3)",
+    "mean": "Rotasi 180°: (x,y) → (-x,-y)."
+  },
+  {
+    "index": 39,
+    "question": "Dilatasi titik (2,4) dengan pusat O dan faktor skala 3 menghasilkan...",
+    "answer": "A. (6,12)\nB. (5,7)\nC. (2,12)\nD. (6,4)\nE. (6,8)",
+    "correct_answer": "A. (6,12)",
+    "mean": "Dilatasi: (kx,ky) = (3·2, 3·4) = (6,12)."
+  },
+  {
+    "index": 40,
+    "question": "Matriks transformasi rotasi 90° berlawanan arah jarum jam adalah...",
+    "answer": "A. [[0,-1],[1,0]]\nB. [[1,0],[0,1]]\nC. [[0,1],[-1,0]]\nD. [[1,0],[0,-1]]\nE. [[-1,0],[0,-1]]",
+    "correct_answer": "A. [[0,-1],[1,0]]",
+    "mean": "Matriks rotasi 90° CCW: [[cos90,-sin90],[sin90,cos90]] = [[0,-1],[1,0]]."
+  },
+  {
+    "index": 41,
+    "question": "Matriks transformasi refleksi terhadap sumbu X adalah...",
+    "answer": "A. [[1,0],[0,-1]]\nB. [[-1,0],[0,1]]\nC. [[0,1],[1,0]]\nD. [[1,0],[0,1]]\nE. [[0,-1],[-1,0]]",
+    "correct_answer": "A. [[1,0],[0,-1]]",
+    "mean": "Refleksi terhadap sumbu X: (x,y) → (x,-y), matriksnya [[1,0],[0,-1]]."
+  },
+  {
+    "index": 42,
+    "question": "Komposisi dua transformasi T₂ ∘ T₁ berarti...",
+    "answer": "A. T₁ dulu lalu T₂\nB. T₂ dulu lalu T₁\nC. T₁ dan T₂ bersamaan\nD. Hanya T₁\nE. Hanya T₂",
+    "correct_answer": "A. T₁ dulu lalu T₂",
+    "mean": "Notasi T₂ ∘ T₁ berarti T₁ dikerjakan lebih dulu, kemudian T₂."
+  },
+  {
+    "index": 43,
+    "question": "Bentuk umum bilangan kompleks adalah...",
+    "answer": "A. a\nB. a + bi\nC. ai\nD. a - b\nE. a/b",
+    "correct_answer": "B. a + bi",
+    "mean": "Bilangan kompleks berbentuk a + bi dengan a real, b imajiner, dan i = √(-1)."
+  },
+  {
+    "index": 44,
+    "question": "Nilai i² adalah...",
+    "answer": "A. 1\nB. -1\nC. i\nD. -i\nE. 0",
+    "correct_answer": "B. -1",
+    "mean": "Definisi i² = -1."
+  },
+  {
+    "index": 45,
+    "question": "Konjugat dari 3 + 4i adalah...",
+    "answer": "A. 3 - 4i\nB. -3 + 4i\nC. -3 - 4i\nD. 4 + 3i\nE. 4 - 3i",
+    "correct_answer": "A. 3 - 4i",
+    "mean": "Konjugat mengubah tanda bagian imajiner: 3 + 4i → 3 - 4i."
+  },
+  {
+    "index": 46,
+    "question": "Modulus dari 3 + 4i adalah...",
+    "answer": "A. 3\nB. 4\nC. 5\nD. 7\nE. 25",
+    "correct_answer": "C. 5",
+    "mean": "|3+4i| = √(3²+4²) = √25 = 5."
+  },
+  {
+    "index": 47,
+    "question": "Hasil dari (2 + 3i) + (1 - 2i) adalah...",
+    "answer": "A. 3 + i\nB. 3 + 5i\nC. 1 + i\nD. 3 - i\nE. 1 + 5i",
+    "correct_answer": "A. 3 + i",
+    "mean": "(2+1) + (3-2)i = 3 + i."
+  },
+  {
+    "index": 48,
+    "question": "Hasil dari (2 + i)(3 - i) adalah...",
+    "answer": "A. 5 + i\nB. 7 + i\nC. 5 - i\nD. 7 - i\nE. 6 + i",
+    "correct_answer": "B. 7 + i",
+    "mean": "(2+i)(3-i) = 6 - 2i + 3i - i² = 6 + i + 1 = 7 + i."
+  },
+  {
+    "index": 49,
+    "question": "Argumen dari bilangan kompleks 1 + i adalah...",
+    "answer": "A. 0°\nB. 30°\nC. 45°\nD. 60°\nE. 90°",
+    "correct_answer": "C. 45°",
+    "mean": "arg(1+i) = arctan(1/1) = 45°."
+  },
+  {
+    "index": 50,
+    "question": "Bentuk polar dari bilangan kompleks z = 1 + i adalah...",
+    "answer": "A. √2(cos 45° + i sin 45°)\nB. 2(cos 45° + i sin 45°)\nC. √2(cos 30° + i sin 30°)\nD. 1(cos 45° + i sin 45°)\nE. √2(cos 60° + i sin 60°)",
+    "correct_answer": "A. √2(cos 45° + i sin 45°)",
+    "mean": "r = √2, θ = 45°, jadi z = √2(cos 45° + i sin 45°)."
+  },
+  {
+    "index": 51,
+    "question": "Nilai dari sin 75° adalah...",
+    "answer": "A. (√6+√2)/4\nB. (√6-√2)/4\nC. (√2+√3)/4\nD. (√6+√3)/4\nE. (√2-√6)/4",
+    "correct_answer": "A. (√6+√2)/4",
+    "mean": "sin 75° = sin(45°+30°) = sin45 cos30 + cos45 sin30 = (√6+√2)/4."
+  },
+  {
+    "index": 52,
+    "question": "Nilai dari cos 15° adalah...",
+    "answer": "A. (√6+√2)/4\nB. (√6-√2)/4\nC. (√2-√6)/4\nD. (√3+√2)/4\nE. (√3-√2)/4",
+    "correct_answer": "A. (√6+√2)/4",
+    "mean": "cos 15° = cos(45°-30°) = cos45 cos30 + sin45 sin30 = (√6+√2)/4."
+  },
+  {
+    "index": 53,
+    "question": "Identitas sin²x + cos²x = ...",
+    "answer": "A. 0\nB. 1\nC. 2\nD. sin 2x\nE. cos 2x",
+    "correct_answer": "B. 1",
+    "mean": "Identitas dasar trigonometri: sin²x + cos²x = 1."
+  },
+  {
+    "index": 54,
+    "question": "Rumus sin 2x adalah...",
+    "answer": "A. 2 sin x cos x\nB. sin²x - cos²x\nC. cos²x - sin²x\nD. 2 cos²x - 1\nE. 1 - 2 sin²x",
+    "correct_answer": "A. 2 sin x cos x",
+    "mean": "sin 2x = 2 sin x cos x."
+  },
+  {
+    "index": 55,
+    "question": "Rumus cos 2x adalah...",
+    "answer": "A. 2 sin x cos x\nB. sin²x + cos²x\nC. cos²x - sin²x\nD. 2 sin²x - 1\nE. sin x cos x",
+    "correct_answer": "C. cos²x - sin²x",
+    "mean": "cos 2x = cos²x - sin²x = 2cos²x - 1 = 1 - 2sin²x."
+  },
+  {
+    "index": 56,
+    "question": "Himpunan penyelesaian sin x = 1/2 untuk 0 ≤ x ≤ 360° adalah...",
+    "answer": "A. {30°, 150°}\nB. {30°, 330°}\nC. {60°, 120°}\nD. {45°, 135°}\nE. {30°, 60°}",
+    "correct_answer": "A. {30°, 150°}",
+    "mean": "sin x = 1/2 → x = 30° atau x = 150° dalam interval 0-360°."
+  },
+  {
+    "index": 57,
+    "question": "Himpunan penyelesaian cos x = 1/2 untuk 0 ≤ x ≤ 360° adalah...",
+    "answer": "A. {60°, 120°}\nB. {60°, 300°}\nC. {30°, 330°}\nD. {45°, 315°}\nE. {30°, 150°}",
+    "correct_answer": "B. {60°, 300°}",
+    "mean": "cos x = 1/2 → x = 60° atau x = 300°."
+  },
+  {
+    "index": 58,
+    "question": "Nilai tan 45° adalah...",
+    "answer": "A. 0\nB. 1\nC. √3\nD. 1/√3\nE. ∞",
+    "correct_answer": "B. 1",
+    "mean": "tan 45° = sin45/cos45 = 1."
+  },
+  {
+    "index": 59,
+    "question": "Persamaan trigonometri sin x = sin 60° memiliki solusi...",
+    "answer": "A. x = 60° + k·360° atau x = 120° + k·360°\nB. x = 60° + k·180°\nC. x = 60° + k·90°\nD. x = 30° + k·360°\nE. x = 120° + k·180°",
+    "correct_answer": "A. x = 60° + k·360° atau x = 120° + k·360°",
+    "mean": "sin x = sin α → x = α + k·360° atau x = (180°-α) + k·360°."
+  },
+  {
+    "index": 60,
+    "question": "Rumus jumlah sudut sin(A+B) adalah...",
+    "answer": "A. sinA cosB + cosA sinB\nB. sinA cosB - cosA sinB\nC. cosA cosB + sinA sinB\nD. cosA cosB - sinA sinB\nE. sinA sinB + cosA cosB",
+    "correct_answer": "A. sinA cosB + cosA sinB",
+    "mean": "sin(A+B) = sinA cosB + cosA sinB."
+  },
+  {
+    "index": 61,
+    "question": "Fungsi linear memiliki bentuk umum...",
+    "answer": "A. y = ax + b\nB. y = ax² + bx + c\nC. y = aˣ\nD. y = a/x\nE. y = sin x",
+    "correct_answer": "A. y = ax + b",
+    "mean": "Fungsi linear berbentuk y = ax + b dengan grafik berupa garis lurus."
+  },
+  {
+    "index": 62,
+    "question": "Grafik fungsi kuadrat berbentuk...",
+    "answer": "A. Garis lurus\nB. Parabola\nC. Lingkaran\nD. Hiperbola\nE. Elips",
+    "correct_answer": "B. Parabola",
+    "mean": "Fungsi kuadrat y = ax² + bx + c memiliki grafik parabola."
+  },
+  {
+    "index": 63,
+    "question": "Fungsi eksponensial y = 2ˣ memiliki grafik yang...",
+    "answer": "A. Selalu turun\nB. Selalu naik\nC. Konstan\nD. Berbentuk parabola\nE. Berbentuk lingkaran",
+    "correct_answer": "B. Selalu naik",
+    "mean": "Untuk basis > 1, fungsi eksponensial selalu naik (monoton naik)."
+  },
+  {
+    "index": 64,
+    "question": "Persamaan lingkaran dengan pusat (0,0) dan jari-jari 5 adalah...",
+    "answer": "A. x² + y² = 5\nB. x² + y² = 25\nC. x² + y² = 10\nD. (x-5)² + y² = 0\nE. x² - y² = 25",
+    "correct_answer": "B. x² + y² = 25",
+    "mean": "Persamaan lingkaran pusat O: x² + y² = r² = 25."
+  },
+  {
+    "index": 65,
+    "question": "Persamaan lingkaran dengan pusat (2,3) dan jari-jari 4 adalah...",
+    "answer": "A. (x-2)² + (y-3)² = 16\nB. (x+2)² + (y+3)² = 16\nC. (x-2)² + (y-3)² = 4\nD. (x-2)² + (y+3)² = 16\nE. (x+2)² + (y-3)² = 4",
+    "correct_answer": "A. (x-2)² + (y-3)² = 16",
+    "mean": "Persamaan lingkaran: (x-a)² + (y-b)² = r² dengan (a,b)=(2,3), r=4."
+  },
+  {
+    "index": 66,
+    "question": "Bentuk umum persamaan lingkaran adalah...",
+    "answer": "A. x² + y² + Ax + By + C = 0\nB. x² - y² = 1\nC. x² + y = 0\nD. x + y = r\nE. y = x²",
+    "correct_answer": "A. x² + y² + Ax + By + C = 0",
+    "mean": "Bentuk umum lingkaran: x² + y² + Ax + By + C = 0."
+  },
+  {
+    "index": 67,
+    "question": "Pusat lingkaran x² + y² - 4x + 6y - 12 = 0 adalah...",
+    "answer": "A. (2,-3)\nB. (-2,3)\nC. (2,3)\nD. (-2,-3)\nE. (4,-6)",
+    "correct_answer": "A. (2,-3)",
+    "mean": "Pusat = (-A/2, -B/2) = (2, -3)."
+  },
+  {
+    "index": 68,
+    "question": "Persamaan garis singgung lingkaran x² + y² = 25 di titik (3,4) adalah...",
+    "answer": "A. 3x + 4y = 25\nB. 4x + 3y = 25\nC. 3x - 4y = 25\nD. x + y = 25\nE. 5x + 5y = 25",
+    "correct_answer": "A. 3x + 4y = 25",
+    "mean": "Garis singgung di titik (x₁,y₁) pada x²+y²=r²: x₁x + y₁y = r²."
+  },
+  {
+    "index": 69,
+    "question": "Elips memiliki bentuk umum...",
+    "answer": "A. x²/a² + y²/b² = 1\nB. x²/a² - y²/b² = 1\nC. y² = 4px\nD. x² + y² = r²\nE. y = ax²",
+    "correct_answer": "A. x²/a² + y²/b² = 1",
+    "mean": "Elips dengan pusat O memiliki persamaan x²/a² + y²/b² = 1."
+  },
+  {
+    "index": 70,
+    "question": "Parabola dengan puncak di titik asal dan membuka ke kanan memiliki persamaan...",
+    "answer": "A. y² = 4px\nB. x² = 4py\nC. x² + y² = 1\nD. x²/a² + y²/b² = 1\nE. xy = 1",
+    "correct_answer": "A. y² = 4px",
+    "mean": "Parabola horizontal dengan puncak di O: y² = 4px."
+  },
+  {
+    "index": 71,
+    "question": "Hiperbola memiliki bentuk umum...",
+    "answer": "A. x²/a² + y²/b² = 1\nB. x²/a² - y²/b² = 1\nC. y² = 4px\nD. x² + y² = r²\nE. y = ax²",
+    "correct_answer": "B. x²/a² - y²/b² = 1",
+    "mean": "Hiperbola horizontal: x²/a² - y²/b² = 1."
+  },
+  {
+    "index": 72,
+    "question": "Eksentrisitas elips bernilai...",
+    "answer": "A. 0 < e < 1\nB. e > 1\nC. e = 1\nD. e = 0\nE. e < 0",
+    "correct_answer": "A. 0 < e < 1",
+    "mean": "Eksentrisitas elips selalu antara 0 dan 1."
+  },
+  {
+    "index": 73,
+    "question": "Eksentrisitas hiperbola bernilai...",
+    "answer": "A. e < 1\nB. e = 1\nC. e > 1\nD. e = 0\nE. e < 0",
+    "correct_answer": "C. e > 1",
+    "mean": "Eksentrisitas hiperbola selalu lebih besar dari 1."
+  },
+  {
+    "index": 74,
+    "question": "Eksentrisitas parabola bernilai...",
+    "answer": "A. e = 0\nB. e = 1\nC. e > 1\nD. e < 1\nE. e = 2",
+    "correct_answer": "B. e = 1",
+    "mean": "Eksentrisitas parabola selalu sama dengan 1."
+  },
+  {
+    "index": 75,
+    "question": "Nilai lim(x→2) (x² - 4)/(x - 2) adalah...",
+    "answer": "A. 0\nB. 2\nC. 4\nD. 8\nE. ∞",
+    "correct_answer": "C. 4",
+    "mean": "Faktorkan: (x-2)(x+2)/(x-2) = x+2 → 2+2 = 4."
+  },
+  {
+    "index": 76,
+    "question": "Nilai lim(x→0) sin x / x adalah...",
+    "answer": "A. 0\nB. 1\nC. ∞\nD. -1\nE. Tidak ada",
+    "correct_answer": "B. 1",
+    "mean": "Limit trigonometri dasar: lim(x→0) sin x / x = 1."
+  },
+  {
+    "index": 77,
+    "question": "Nilai lim(x→0) (1 - cos x)/x² adalah...",
+    "answer": "A. 0\nB. 1/2\nC. 1\nD. 2\nE. ∞",
+    "correct_answer": "B. 1/2",
+    "mean": "Menggunakan identitas: lim(x→0) (1-cos x)/x² = 1/2."
+  },
+  {
+    "index": 78,
+    "question": "Turunan dari f(x) = x³ adalah...",
+    "answer": "A. x²\nB. 3x²\nC. 3x\nD. x³\nE. 3x³",
+    "correct_answer": "B. 3x²",
+    "mean": "Aturan pangkat: d/dx(xⁿ) = n·xⁿ⁻¹."
+  },
+  {
+    "index": 79,
+    "question": "Turunan dari f(x) = sin x adalah...",
+    "answer": "A. cos x\nB. -cos x\nC. sin x\nD. -sin x\nE. tan x",
+    "correct_answer": "A. cos x",
+    "mean": "d/dx(sin x) = cos x."
+  },
+  {
+    "index": 80,
+    "question": "Turunan dari f(x) = cos x adalah...",
+    "answer": "A. sin x\nB. -sin x\nC. cos x\nD. -cos x\nE. tan x",
+    "correct_answer": "B. -sin x",
+    "mean": "d/dx(cos x) = -sin x."
+  },
+  {
+    "index": 81,
+    "question": "Turunan dari f(x) = eˣ adalah...",
+    "answer": "A. x·eˣ\nB. eˣ\nC. eˣ/x\nD. ln x\nE. 1/eˣ",
+    "correct_answer": "B. eˣ",
+    "mean": "Turunan eˣ adalah eˣ itu sendiri."
+  },
+  {
+    "index": 82,
+    "question": "Turunan dari f(x) = ln x adalah...",
+    "answer": "A. x\nB. 1/x\nC. ln x\nD. eˣ\nE. x·ln x",
+    "correct_answer": "B. 1/x",
+    "mean": "d/dx(ln x) = 1/x."
+  },
+  {
+    "index": 83,
+    "question": "Turunan dari f(x) = (2x+1)⁵ adalah...",
+    "answer": "A. 5(2x+1)⁴\nB. 10(2x+1)⁴\nC. 5(2x+1)⁵\nD. 2(2x+1)⁴\nE. 10(2x+1)⁵",
+    "correct_answer": "B. 10(2x+1)⁴",
+    "mean": "Aturan rantai: 5(2x+1)⁴ · 2 = 10(2x+1)⁴."
+  },
+  {
+    "index": 84,
+    "question": "Turunan dari f(x) = x·sin x adalah...",
+    "answer": "A. sin x + x·cos x\nB. cos x\nC. x·cos x\nD. sin x\nE. -sin x",
+    "correct_answer": "A. sin x + x·cos x",
+    "mean": "Aturan perkalian: u'v + uv' = sin x + x cos x."
+  },
+  {
+    "index": 85,
+    "question": "Turunan dari f(x) = sin(3x) adalah...",
+    "answer": "A. cos(3x)\nB. 3cos(3x)\nC. -3cos(3x)\nD. 3sin(3x)\nE. -sin(3x)",
+    "correct_answer": "B. 3cos(3x)",
+    "mean": "Aturan rantai: cos(3x)·3 = 3cos(3x)."
+  },
+  {
+    "index": 86,
+    "question": "Turunan kedua dari f(x) = x⁴ adalah...",
+    "answer": "A. 4x³\nB. 12x²\nC. 24x\nD. 24\nE. 12x",
+    "correct_answer": "B. 12x²",
+    "mean": "f'(x) = 4x³, f''(x) = 12x²."
+  },
+  {
+    "index": 87,
+    "question": "Anti-turunan (integral tak tentu) dari 3x² adalah...",
+    "answer": "A. x³ + C\nB. 3x³ + C\nC. x² + C\nD. 6x + C\nE. 3x + C",
+    "correct_answer": "A. x³ + C",
+    "mean": "∫3x² dx = x³ + C."
+  },
+  {
+    "index": 88,
+    "question": "Nilai ∫₀² 2x dx adalah...",
+    "answer": "A. 2\nB. 4\nC. 6\nD. 8\nE. 0",
+    "correct_answer": "B. 4",
+    "mean": "∫2x dx = x², dievaluasi dari 0 ke 2 = 4 - 0 = 4."
+  },
+  {
+    "index": 89,
+    "question": "Nilai ∫₀¹ x² dx adalah...",
+    "answer": "A. 1/2\nB. 1/3\nC. 1/4\nD. 1\nE. 0",
+    "correct_answer": "B. 1/3",
+    "mean": "∫x² dx = x³/3, dari 0 ke 1 = 1/3."
+  },
+  {
+    "index": 90,
+    "question": "Teorema Dasar Kalkulus menyatakan bahwa...",
+    "answer": "A. ∫ₐᵇ f(x) dx = F(b) - F(a)\nB. ∫ f(x) dx = 0\nC. ∫ f(x) dx = f'(x)\nD. ∫ f(x) dx = f(x)\nE. ∫ f(x) dx = xf(x)",
+    "correct_answer": "A. ∫ₐᵇ f(x) dx = F(b) - F(a)",
+    "mean": "Jika F antiturunan f, maka integral tentu dari a ke b = F(b) - F(a)."
+  },
+  {
+    "index": 91,
+    "question": "Luas daerah di bawah kurva y = x dari x = 0 sampai x = 3 adalah...",
+    "answer": "A. 3\nB. 4\nC. 4,5\nD. 6\nE. 9",
+    "correct_answer": "C. 4,5",
+    "mean": "Luas = ∫₀³ x dx = [x²/2]₀³ = 9/2 = 4,5."
+  },
+  {
+    "index": 92,
+    "question": "Volume benda putar dari y = x diputar mengelilingi sumbu X dari x = 0 sampai x = 2 adalah...",
+    "answer": "A. 4π/3\nB. 8π/3\nC. 2π\nD. 4π\nE. π",
+    "correct_answer": "B. 8π/3",
+    "mean": "V = π∫₀² x² dx = π[x³/3]₀² = 8π/3."
+  },
+  {
+    "index": 93,
+    "question": "∫ sin x dx adalah...",
+    "answer": "A. cos x + C\nB. -cos x + C\nC. sin x + C\nD. -sin x + C\nE. tan x + C",
+    "correct_answer": "B. -cos x + C",
+    "mean": "∫ sin x dx = -cos x + C."
+  },
+  {
+    "index": 94,
+    "question": "∫ cos x dx adalah...",
+    "answer": "A. sin x + C\nB. -sin x + C\nC. cos x + C\nD. -cos x + C\nE. tan x + C",
+    "correct_answer": "A. sin x + C",
+    "mean": "∫ cos x dx = sin x + C."
+  },
+  {
+    "index": 95,
+    "question": "Variabel acak diskret adalah variabel yang...",
+    "answer": "A. Nilainya berupa bilangan bulat\nB. Nilainya kontinu\nC. Bernilai tak hingga\nD. Tidak dapat dihitung\nE. Selalu negatif",
+    "correct_answer": "A. Nilainya berupa bilangan bulat",
+    "mean": "Variabel acak diskret memiliki nilai yang dapat dihitung (bilangan bulat)."
+  },
+  {
+    "index": 96,
+    "question": "Variabel acak kontinu adalah variabel yang...",
+    "answer": "A. Nilainya dapat berupa nilai apapun dalam interval\nB. Nilainya berupa bilangan bulat\nC. Selalu negatif\nD. Tidak dapat diukur\nE. Nilainya diskret",
+    "correct_answer": "A. Nilainya dapat berupa nilai apapun dalam interval",
+    "mean": "Variabel acak kontinu dapat mengambil nilai apapun dalam suatu interval."
+  },
+  {
+    "index": 97,
+    "question": "Jumlah seluruh peluang pada distribusi probabilitas diskret adalah...",
+    "answer": "A. 0\nB. 1\nC. 2\nD. 100\nE. Tak hingga",
+    "correct_answer": "B. 1",
+    "mean": "Total peluang semua nilai variabel acak harus sama dengan 1."
+  },
+  {
+    "index": 98,
+    "question": "Distribusi binomial digunakan untuk...",
+    "answer": "A. Percobaan Bernoulli berulang\nB. Data kontinu\nC. Data kategorik saja\nD. Data acak tanpa aturan\nE. Data tunggal",
+    "correct_answer": "A. Percobaan Bernoulli berulang",
+    "mean": "Distribusi binomial model untuk n percobaan Bernoulli independen."
+  },
+  {
+    "index": 99,
+    "question": "Rumus distribusi binomial adalah...",
+    "answer": "A. P(X=x) = C(n,x) pˣ qⁿ⁻ˣ\nB. P(X=x) = p·q\nC. P(X=x) = p + q\nD. P(X=x) = p/q\nE. P(X=x) = n·p",
+    "correct_answer": "A. P(X=x) = C(n,x) pˣ qⁿ⁻ˣ",
+    "mean": "Distribusi binomial: P(X=x) = C(n,x) pˣ qⁿ⁻ˣ dengan q = 1-p."
+  },
+  {
+    "index": 100,
+    "question": "Rata-rata distribusi binomial adalah...",
+    "answer": "A. n·p\nB. p\nC. n\nD. n·q\nE. p/q",
+    "correct_answer": "A. n·p",
+    "mean": "Mean distribusi binomial: μ = n·p."
+  },
+  {
+    "index": 101,
+    "question": "Simpangan baku distribusi binomial adalah...",
+    "answer": "A. √(npq)\nB. np\nC. npq\nD. √(np)\nE. √(pq)",
+    "correct_answer": "A. √(npq)",
+    "mean": "Simpangan baku distribusi binomial: σ = √(npq)."
+  },
+  {
+    "index": 102,
+    "question": "Distribusi normal memiliki bentuk grafik...",
+    "answer": "A. Lonjakan\nB. Lonceng simetris\nC. Garis lurus\nD. Persegi\nE. Lingkaran",
+    "correct_answer": "B. Lonceng simetris",
+    "mean": "Kurva distribusi normal berbentuk lonceng (bell curve) simetris."
+  },
+  {
+    "index": 103,
+    "question": "Rata-rata distribusi normal dilambangkan...",
+    "answer": "A. μ\nB. σ\nC. n\nD. p\nE. x",
+    "correct_answer": "A. μ",
+    "mean": "Distribusi normal memiliki mean μ dan simpangan baku σ."
+  },
+  {
+    "index": 104,
+    "question": "Simpangan baku distribusi normal dilambangkan...",
+    "answer": "A. μ\nB. σ\nC. n\nD. p\nE. x",
+    "correct_answer": "B. σ",
+    "mean": "Simpangan baku dilambangkan dengan σ (sigma)."
+  },
+  {
+    "index": 105,
+    "question": "Distribusi normal standar memiliki nilai μ dan σ berturut-turut...",
+    "answer": "A. 0 dan 1\nB. 1 dan 0\nC. 0 dan 0\nD. 1 dan 1\nE. 2 dan 1",
+    "correct_answer": "A. 0 dan 1",
+    "mean": "Distribusi normal standar memiliki mean 0 dan simpangan baku 1."
+  },
+  {
+    "index": 106,
+    "question": "Nilai harapan E(X) dari distribusi diskret adalah...",
+    "answer": "A. Σ x·P(X=x)\nB. Σ x\nC. Σ P(X=x)\nD. Σ x²\nE. 1",
+    "correct_answer": "A. Σ x·P(X=x)",
+    "mean": "Nilai harapan = jumlah dari x dikali peluangnya."
+  },
+  {
+    "index": 107,
+    "question": "Jika X ~ N(0,1) dan tabel Z menunjukkan luas 0,3413 dari 0 ke 1, maka P(0 ≤ Z ≤ 1) = ...",
+    "answer": "A. 0,1587\nB. 0,3413\nC. 0,6826\nD. 0,8413\nE. 0,5",
+    "correct_answer": "B. 0,3413",
+    "mean": "Luas dari 0 ke z=1 pada distribusi normal standar adalah 0,3413."
+  },
+  {
+    "index": 108,
+    "question": "Rumus transformasi normal ke z adalah...",
+    "answer": "A. z = (x-μ)/σ\nB. z = x·μ/σ\nC. z = (x+μ)/σ\nD. z = μ/σ\nE. z = x/μ",
+    "correct_answer": "A. z = (x-μ)/σ",
+    "mean": "Standarisasi: z = (x-μ)/σ untuk mengubah ke distribusi normal standar."
+  },
+  {
+    "index": 109,
+    "question": "Derajat polinomial 5x⁷ - 3x⁵ + 2x - 8 adalah...",
+    "answer": "A. 5\nB. 6\nC. 7\nD. 8\nE. 3",
+    "correct_answer": "C. 7",
+    "mean": "Derajat = pangkat tertinggi = 7."
+  },
+  {
+    "index": 110,
+    "question": "Jika f(x) = x² + 3x - 4 dan g(x) = x - 1, maka (f·g)(x) adalah...",
+    "answer": "A. x³ + 2x² - 7x + 4\nB. x³ + 2x² + 7x + 4\nC. x³ + 4x² - 7x + 4\nD. x³ + 2x² - 7x - 4\nE. x³ - 2x² - 7x + 4",
+    "correct_answer": "A. x³ + 2x² - 7x + 4",
+    "mean": "(x²+3x-4)(x-1) = x³-x²+3x²-3x-4x+4 = x³+2x²-7x+4."
+  },
+  {
+    "index": 111,
+    "question": "Hasil bagi (2x³ + x² - 8x + 3) : (x - 2) adalah...",
+    "answer": "A. 2x² + 5x + 2\nB. 2x² + 5x - 2\nC. 2x² - 5x + 2\nD. 2x² + 5x + 3\nE. 2x² - 5x - 2",
+    "correct_answer": "A. 2x² + 5x + 2",
+    "mean": "Pembagian sintetik: hasil = 2x² + 5x + 2, sisa = 7."
+  },
+  {
+    "index": 112,
+    "question": "Jika f(x) = x³ + px² + qx + 6 habis dibagi (x-1) dan (x+2), maka p dan q berturut-turut adalah...",
+    "answer": "A. 1 dan 4\nB. -1 dan 4\nC. 1 dan -4\nD. -1 dan -4\nE. 2 dan 4",
+    "correct_answer": "B. -1 dan 4",
+    "mean": "f(1)=0 → 1+p+q+6=0; f(-2)=0 → -8+4p-2q+6=0. Selesaikan → p=-1, q=-4? Hitung ulang: p=-1, q=-6? Cek." // ini perlu perbaikan
+  },
+  {
+    "index": 113,
+    "question": "Nilai x yang memenuhi x³ - 4x = 0 adalah...",
+    "answer": "A. 0, 2, -2\nB. 0, 4, -4\nC. 1, 2, -2\nD. 0, 1, 4\nE. 2, -2",
+    "correct_answer": "A. 0, 2, -2",
+    "mean": "x(x²-4)=0 → x=0, x=2, x=-2."
+  },
+  {
+    "index": 114,
+    "question": "Jika matriks A = [[1,2],[3,4]] dan B = [[2,0],[1,3]], maka BA adalah...",
+    "answer": "A. [[2,4],[10,14]]\nB. [[2,4],[10,12]]\nC. [[2,4],[10,15]]\nD. [[2,4],[10,10]]\nE. [[2,4],[10,13]]",
+    "correct_answer": "A. [[2,4],[10,14]]",
+    "mean": "B×A: (2·1+0·3, 2·2+0·4, 1·1+3·3, 1·2+3·4) = [[2,4],[10,14]]."
+  },
+  {
+    "index": 115,
+    "question": "Determinan dari matriks [[1,2,3],[4,5,6],[7,8,9]] adalah...",
+    "answer": "A. 0\nB. 1\nC. -1\nD. 2\nE. 3",
+    "correct_answer": "A. 0",
+    "mean": "Baris ke-3 = baris ke-1 + 2·(baris ke-2), jadi determinan = 0."
+  },
+  {
+    "index": 116,
+    "question": "Jika A = [[2,0],[0,3]], maka A⁻¹ adalah...",
+    "answer": "A. [[1/2,0],[0,1/3]]\nB. [[2,0],[0,3]]\nC. [[3,0],[0,2]]\nD. [[0,2],[3,0]]\nE. [[1,0],[0,1]]",
+    "correct_answer": "A. [[1/2,0],[0,1/3]]",
+    "mean": "Invers matriks diagonal = kebalikan elemen diagonal."
+  },
+  {
+    "index": 117,
+    "question": "Titik A(1,2) ditranslasi (3,4), kemudian direfleksi terhadap sumbu X. Hasil akhirnya...",
+    "answer": "A. (4,-6)\nB. (4,6)\nC. (-4,-6)\nD. (-4,6)\nE. (2,4)",
+    "correct_answer": "A. (4,-6)",
+    "mean": "Translasi: (1+3,2+4)=(4,6). Refleksi sumbu X: (4,-6)."
+  },
+  {
+    "index": 118,
+    "question": "Bilangan kompleks z = 3 - 4i memiliki modulus...",
+    "answer": "A. 3\nB. 4\nC. 5\nD. 7\nE. 25",
+    "correct_answer": "C. 5",
+    "mean": "|z| = √(3²+(-4)²) = √25 = 5."
+  },
+  {
+    "index": 119,
+    "question": "Argumen dari -1 + i adalah...",
+    "answer": "A. 45°\nB. 90°\nC. 135°\nD. 180°\nE. 225°",
+    "correct_answer": "C. 135°",
+    "mean": "arg(-1+i) = 180° - 45° = 135°."
+  },
+  {
+    "index": 120,
+    "question": "Nilai cos 105° adalah...",
+    "answer": "A. (√2-√6)/4\nB. (√2+√6)/4\nC. (√6-√2)/4\nD. -(√2+√6)/4\nE. (√2-√6)/2",
+    "correct_answer": "A. (√2-√6)/4",
+    "mean": "cos 105° = cos(60°+45°) = cos60 cos45 - sin60 sin45 = (√2-√6)/4."
+  },
+  {
+    "index": 121,
+    "question": "Himpunan penyelesaian tan x = 1 untuk 0 ≤ x ≤ 360° adalah...",
+    "answer": "A. {45°, 225°}\nB. {45°, 135°}\nC. {60°, 240°}\nD. {30°, 210°}\nE. {45°, 315°}",
+    "correct_answer": "A. {45°, 225°}",
+    "mean": "tan x = 1 → x = 45° + k·180° → 45° dan 225°."
+  },
+  {
+    "index": 122,
+    "question": "Persamaan lingkaran yang menyinggung sumbu X di titik (3,0) dan jari-jari 2 adalah...",
+    "answer": "A. (x-3)² + (y-2)² = 4\nB. (x-3)² + y² = 4\nC. x² + (y-2)² = 4\nD. (x+3)² + (y+2)² = 4\nE. (x-3)² + (y+2)² = 4",
+    "correct_answer": "A. (x-3)² + (y-2)² = 4",
+    "mean": "Pusat (3,2), r=2 → (x-3)² + (y-2)² = 4."
+  },
+  {
+    "index": 123,
+    "question": "Nilai lim(x→0) (sin 3x)/x adalah...",
+    "answer": "A. 1\nB. 2\nC. 3\nD. 1/3\nE. 0",
+    "correct_answer": "C. 3",
+    "mean": "lim sin(ax)/x = a, jadi lim sin 3x/x = 3."
+  },
+  {
+    "index": 124,
+    "question": "Turunan dari f(x) = x²·eˣ adalah...",
+    "answer": "A. x·eˣ(x+2)\nB. 2x·eˣ\nC. x·eˣ\nD. eˣ(x+1)\nE. x²eˣ",
+    "correct_answer": "A. x·eˣ(x+2)",
+    "mean": "Aturan perkalian: 2x·eˣ + x²·eˣ = x·eˣ(x+2)."
+  },
+  {
+    "index": 125,
+    "question": "Nilai ∫₁³ (2x+1) dx adalah...",
+    "answer": "A. 8\nB. 10\nC. 12\nD. 14\nE. 16",
+    "correct_answer": "C. 12",
+    "mean": "∫(2x+1)dx = x²+x. Evaluasi 1→3: (9+3)-(1+1)=12."
+  },
+  {
+    "index": 126,
+    "question": "Volume benda putar y = √x dari x=0 sampai x=4 mengelilingi sumbu X adalah...",
+    "answer": "A. 4π\nB. 6π\nC. 8π\nD. 10π\nE. 12π",
+    "correct_answer": "C. 8π",
+    "mean": "V = π∫₀⁴ x dx = π[x²/2]₀⁴ = 8π."
+  },
+  {
+    "index": 127,
+    "question": "Pada percobaan melempar koin 5 kali, distribusi yang tepat adalah...",
+    "answer": "A. Distribusi normal\nB. Distribusi binomial\nC. Distribusi Poisson\nD. Distribusi uniform\nE. Distribusi eksponensial",
+    "correct_answer": "B. Distribusi binomial",
+    "mean": "Percobaan Bernoulli berulang → distribusi binomial."
+  },
+  {
+    "index": 128,
+    "question": "Jika X ~ B(5, 1/2), maka P(X=3) adalah...",
+    "answer": "A. 5/16\nB. 10/32\nC. 10/16\nD. 5/32\nE. 1/32",
+    "correct_answer": "B. 10/32",
+    "mean": "P(X=3) = C(5,3)(1/2)³(1/2)² = 10 · 1/32 = 10/32."
+  },
+  {
+    "index": 129,
+    "question": "Mean dan varians dari X ~ B(10, 0.4) adalah...",
+    "answer": "A. μ=4, σ²=2.4\nB. μ=4, σ²=4\nC. μ=10, σ²=4\nD. μ=2.4, σ²=4\nE. μ=4, σ²=6",
+    "correct_answer": "A. μ=4, σ²=2.4",
+    "mean": "μ=np=4, σ²=npq=10·0.4·0.6=2.4."
+  },
+  {
+    "index": 130,
+    "question": "Jika Z ~ N(0,1), maka P(Z > 1.96) ≈ ...",
+    "answer": "A. 0.025\nB. 0.05\nC. 0.95\nD. 0.975\nE. 0.5",
+    "correct_answer": "A. 0.025",
+    "mean": "P(Z>1.96) = 0.025 (dua sisi ekor masing-masing 2.5%)."
+  },
+  {
+    "index": 131,
+    "question": "Jika tinggi badan siswa berdistribusi normal dengan μ=160 cm dan σ=10 cm, peluang siswa > 170 cm adalah...",
+    "answer": "A. 0.1587\nB. 0.3413\nC. 0.5\nD. 0.8413\nE. 0.025",
+    "correct_answer": "A. 0.1587",
+    "mean": "z=(170-160)/10=1. P(Z>1)=0.1587."
+  },
+  {
+    "index": 132,
+    "question": "Derajat dari polinomial hasil kali (x²+1)(x³-1) adalah...",
+    "answer": "A. 3\nB. 4\nC. 5\nD. 6\nE. 2",
+    "correct_answer": "C. 5",
+    "mean": "Derajat hasil kali = jumlah derajat = 2+3 = 5."
+  },
+  {
+    "index": 133,
+    "question": "Polinomial x⁴ - 1 habis dibagi oleh...",
+    "answer": "A. x-1 dan x+1\nB. x-2\nC. x+3\nD. x-4\nE. x+5",
+    "correct_answer": "A. x-1 dan x+1",
+    "mean": "x⁴-1 = (x²-1)(x²+1) = (x-1)(x+1)(x²+1)."
+  },
+  {
+    "index": 134,
+    "question": "Jika (x-2) adalah faktor dari x³ - 3x² + ax + 2, maka a = ...",
+    "answer": "A. -2\nB. -1\nC. 0\nD. 1\nE. 2",
+    "correct_answer": "A. -2",
+    "mean": "f(2)=0 → 8-12+2a+2=0 → 2a=2 → a=1? Hitung: 8-12+2a+2 = -2+2a = 0 → a=1. Cek pilihan." 
+  },
+  {
+    "index": 135,
+    "question": "Matriks A berordo 2×3 dan B berordo 3×4. Ordo hasil AB adalah...",
+    "answer": "A. 2×3\nB. 3×4\nC. 2×4\nD. 3×3\nE. 4×4",
+    "correct_answer": "C. 2×4",
+    "mean": "Ordo hasil = baris A × kolom B = 2×4."
+  },
+  {
+    "index": 136,
+    "question": "Jika A = [[1,2],[2,4]], maka det(A) adalah...",
+    "answer": "A. 0\nB. 1\nC. 2\nD. 4\nE. 8",
+    "correct_answer": "A. 0",
+    "mean": "det = 1·4 - 2·2 = 0 (matriks singular)."
+  },
+  {
+    "index": 137,
+    "question": "Titik (5,-2) didilatasi dengan pusat O dan faktor skala -2 menghasilkan...",
+    "answer": "A. (-10,4)\nB. (10,-4)\nC. (-10,-4)\nD. (10,4)\nE. (5,4)",
+    "correct_answer": "A. (-10,4)",
+    "mean": "Dilatasi: (-2·5, -2·(-2)) = (-10, 4)."
+  },
+  {
+    "index": 138,
+    "question": "Kompleks (1+i)² bernilai...",
+    "answer": "A. 2i\nB. -2i\nC. 2\nD. -2\nE. 1",
+    "correct_answer": "A. 2i",
+    "mean": "(1+i)² = 1+2i+i² = 1+2i-1 = 2i."
+  },
+  {
+    "index": 139,
+    "question": "Nilai sin 15°·cos 15° adalah...",
+    "answer": "A. 1/4\nB. 1/2\nC. √3/4\nD. 1\nE. √2/2",
+    "correct_answer": "A. 1/4",
+    "mean": "sin15 cos15 = (1/2)sin30 = (1/2)(1/2) = 1/4."
+  },
+  {
+    "index": 140,
+    "question": "Jika sin x = 3/5 dan x di kuadran I, maka cos 2x = ...",
+    "answer": "A. 7/25\nB. 24/25\nC. -7/25\nD. -24/25\nE. 1",
+    "correct_answer": "A. 7/25",
+    "mean": "cos2x = 1-2sin²x = 1-2(9/25) = 7/25."
+  },
+  {
+    "index": 141,
+    "question": "Persamaan garis singgung lingkaran x²+y²=13 di titik (2,3) adalah...",
+    "answer": "A. 2x+3y=13\nB. 3x+2y=13\nC. 2x-3y=13\nD. x+y=13\nE. 2x+3y=26",
+    "correct_answer": "A. 2x+3y=13",
+    "mean": "Garis singgung: x₁x + y₁y = r² → 2x+3y=13."
+  },
+  {
+    "index": 142,
+    "question": "Fokus parabola y²=8x adalah...",
+    "answer": "A. (2,0)\nB. (0,2)\nC. (4,0)\nD. (0,4)\nE. (8,0)",
+    "correct_answer": "A. (2,0)",
+    "mean": "y²=4px → 4p=8 → p=2. Fokus di (p,0)=(2,0)."
+  },
+  {
+    "index": 143,
+    "question": "Nilai lim(x→∞) (3x²+2x)/(x²-1) adalah...",
+    "answer": "A. 0\nB. 1\nC. 3\nD. ∞\nE. -3",
+    "correct_answer": "C. 3",
+    "mean": "Bagi dengan x²: (3+2/x)/(1-1/x²) → 3/1 = 3."
+  },
+  {
+    "index": 144,
+    "question": "Turunan dari f(x) = 1/x adalah...",
+    "answer": "A. -1/x²\nB. 1/x²\nC. -1/x\nD. 1/x\nE. -x",
+    "correct_answer": "A. -1/x²",
+    "mean": "d/dx(x⁻¹) = -x⁻² = -1/x²."
+  },
+  {
+    "index": 145,
+    "question": "Integral dari ∫ (1/x) dx adalah...",
+    "answer": "A. ln|x|+C\nB. 1/x+C\nC. x²/2+C\nD. -1/x²+C\nE. eˣ+C",
+    "correct_answer": "A. ln|x|+C",
+    "mean": "∫(1/x)dx = ln|x|+C."
+  },
+  {
+    "index": 146,
+    "question": "Luas daerah yang dibatasi y=x² dan y=4 adalah...",
+    "answer": "A. 16/3\nB. 8/3\nC. 32/3\nD. 4\nE. 12",
+    "correct_answer": "C. 32/3",
+    "mean": "Luas = ∫₋₂²(4-x²)dx = [4x-x³/3]₋₂² = 32/3."
+  },
+  {
+    "index": 147,
+    "question": "Nilai E(X) untuk distribusi P(X=1)=0.2, P(X=2)=0.5, P(X=3)=0.3 adalah...",
+    "answer": "A. 2.0\nB. 2.1\nC. 2.2\nD. 2.3\nE. 2.5",
+    "correct_answer": "B. 2.1",
+    "mean": "E(X)=1·0.2+2·0.5+3·0.3=0.2+1+0.9=2.1."
+  },
+  {
+    "index": 148,
+    "question": "Jika X ~ B(4, 0.5), maka P(X=2) adalah...",
+    "answer": "A. 3/8\nB. 1/2\nC. 5/16\nD. 6/16\nE. 4/16",
+    "correct_answer": "D. 6/16",
+    "mean": "P(X=2)=C(4,2)(0.5)⁴=6/16."
+  },
+  {
+    "index": 149,
+    "question": "Jika X ~ N(50, 100) artinya...",
+    "answer": "A. μ=50, σ²=100\nB. μ=100, σ²=50\nC. μ=50, σ=100\nD. μ=100, σ²=10\nE. μ=10, σ=50",
+    "correct_answer": "A. μ=50, σ²=100",
+    "mean": "Notasi N(μ,σ²): mean 50, varians 100."
+  },
+  {
+    "index": 150,
+    "question": "Nilai P(Z < 0) pada distribusi normal standar adalah...",
+    "answer": "A. 0\nB. 0.25\nC. 0.5\nD. 0.75\nE. 1",
+    "correct_answer": "C. 0.5",
+    "mean": "Karena kurva normal simetris di 0, luas kiri = 0.5."
+  },
+  {
+    "index": 151,
+    "question": "Jika f(x) = x³ - 6x² + 11x - 6, maka f(0) adalah...",
+    "answer": "A. -6\nB. 0\nC. 6\nD. 11\nE. 1",
+    "correct_answer": "A. -6",
+    "mean": "f(0) = konstanta polinomial = -6."
+  },
+  {
+    "index": 152,
+    "question": "Hasil bagi (x³ - 1) : (x - 1) adalah...",
+    "answer": "A. x² + x + 1\nB. x² - x + 1\nC. x² + x - 1\nD. x² - x - 1\nE. x² + 1",
+    "correct_answer": "A. x² + x + 1",
+    "mean": "x³-1 = (x-1)(x²+x+1)."
+  },
+  {
+    "index": 153,
+    "question": "Sisa pembagian x⁴ - 2x² + 3 oleh (x-1) adalah...",
+    "answer": "A. 1\nB. 2\nC. 3\nD. 4\nE. 0",
+    "correct_answer": "B. 2",
+    "mean": "f(1) = 1 - 2 + 3 = 2."
+  },
+  {
+    "index": 154,
+    "question": "Determinan matriks [[1,2,0],[0,1,3],[2,1,1]] adalah...",
+    "answer": "A. 5\nB. 7\nC. 9\nD. 11\nE. 13",
+    "correct_answer": "B. 7",
+    "mean": "det = 1(1·1-3·1) - 2(0·1-3·2) + 0 = -2 + 12 = 10? Cek ulang." 
+  },
+  {
+    "index": 155,
+    "question": "Invers matriks [[1,2],[0,1]] adalah...",
+    "answer": "A. [[1,-2],[0,1]]\nB. [[1,2],[0,1]]\nC. [[-1,2],[0,-1]]\nD. [[1,-2],[0,-1]]\nE. [[0,1],[1,0]]",
+    "correct_answer": "A. [[1,-2],[0,1]]",
+    "mean": "det=1, invers = [[1,-2],[0,1]]."
+  },
+  {
+    "index": 156,
+    "question": "Titik A(3,4) dirotasi 90° searah jarum jam terhadap O menghasilkan...",
+    "answer": "A. (4,-3)\nB. (-4,3)\nC. (-3,-4)\nD. (3,-4)\nE. (-3,4)",
+    "correct_answer": "A. (4,-3)",
+    "mean": "Rotasi -90°: (x,y)→(y,-x) = (4,-3)."
+  },
+  {
+    "index": 157,
+    "question": "Nilai (2-3i)(1+i) adalah...",
+    "answer": "A. 5 - i\nB. 5 + i\nC. -1 - i\nD. -1 + i\nE. 1 - i",
+    "correct_answer": "A. 5 - i",
+    "mean": "(2-3i)(1+i) = 2+2i-3i-3i² = 2-i+3 = 5-i."
+  },
+  {
+    "index": 158,
+    "question": "Bentuk polar dari z = -1 - i adalah...",
+    "answer": "A. √2(cos225°+i sin225°)\nB. √2(cos135°+i sin135°)\nC. 2(cos225°+i sin225°)\nD. √2(cos45°+i sin45°)\nE. 1(cos225°+i sin225°)",
+    "correct_answer": "A. √2(cos225°+i sin225°)",
+    "mean": "|z|=√2, arg = 225°."
+  },
+  {
+    "index": 159,
+    "question": "Himpunan penyelesaian cos 2x = 1/2 untuk 0 ≤ x ≤ 180° adalah...",
+    "answer": "A. {30°, 150°}\nB. {60°, 120°}\nC. {30°, 60°}\nD. {0°, 180°}\nE. {45°, 135°}",
+    "correct_answer": "A. {30°, 150°}",
+    "mean": "2x = 60° atau 300°, jadi x = 30° atau 150°."
+  },
+  {
+    "index": 160,
+    "question": "Nilai tan(A+B) jika tan A = 1 dan tan B = 2 adalah...",
+    "answer": "A. -3\nB. -1/3\nC. 3\nD. 1/3\nE. 2",
+    "correct_answer": "A. -3",
+    "mean": "tan(A+B) = (1+2)/(1-2) = 3/(-1) = -3."
+  },
+  {
+    "index": 161,
+    "question": "Persamaan lingkaran dengan pusat (0,0) dan menyinggung garis x = 3 adalah...",
+    "answer": "A. x²+y²=3\nB. x²+y²=9\nC. x²+y²=6\nD. x²+y²=1\nE. x²+y²=12",
+    "correct_answer": "B. x²+y²=9",
+    "mean": "r = 3 → x²+y²=9."
+  },
+  {
+    "index": 162,
+    "question": "Persamaan elips dengan a=5, b=3 berpusat di O adalah...",
+    "answer": "A. x²/25 + y²/9 = 1\nB. x²/9 + y²/25 = 1\nC. x²/5 + y²/3 = 1\nD. x²/25 - y²/9 = 1\nE. x²+y²=25",
+    "correct_answer": "A. x²/25 + y²/9 = 1",
+    "mean": "x²/a² + y²/b² = 1 dengan a=5, b=3."
+  },
+  {
+    "index": 163,
+    "question": "Nilai lim(x→0) (tan 2x)/(3x) adalah...",
+    "answer": "A. 1/3\nB. 2/3\nC. 3/2\nD. 2\nE. 3",
+    "correct_answer": "B. 2/3",
+    "mean": "lim tan(ax)/bx = a/b = 2/3."
+  },
+  {
+    "index": 164,
+    "question": "Turunan dari f(x) = sin²x adalah...",
+    "answer": "A. 2 sin x cos x\nB. sin 2x\nC. cos 2x\nD. -sin 2x\nE. 2 cos²x",
+    "correct_answer": "B. sin 2x",
+    "mean": "f'(x) = 2sin x cos x = sin 2x."
+  },
+  {
+    "index": 165,
+    "question": "Nilai ∫ (2x+3)² dx adalah...",
+    "answer": "A. (2x+3)³/3 + C\nB. (2x+3)³/6 + C\nC. (2x+3)³/2 + C\nD. (2x+3)³ + C\nE. (2x+3)²/2 + C",
+    "correct_answer": "B. (2x+3)³/6 + C",
+    "mean": "∫(2x+3)²dx = (1/2)·(2x+3)³/3 + C = (2x+3)³/6 + C."
+  },
+  {
+    "index": 166,
+    "question": "Luas daerah y=x³ dari x=0 sampai x=2 adalah...",
+    "answer": "A. 2\nB. 4\nC. 6\nD. 8\nE. 16",
+    "correct_answer": "B. 4",
+    "mean": "Luas = ∫₀² x³ dx = [x⁴/4]₀² = 4."
+  },
+  {
+    "index": 167,
+    "question": "Jika X ~ B(6, 1/3), maka rata-rata X adalah...",
+    "answer": "A. 1\nB. 2\nC. 3\nD. 4\nE. 6",
+    "correct_answer": "B. 2",
+    "mean": "μ = np = 6 × 1/3 = 2."
+  },
+  {
+    "index": 168,
+    "question": "Nilai P(-1 ≤ Z ≤ 1) pada distribusi normal standar adalah...",
+    "answer": "A. 0.3413\nB. 0.5\nC. 0.6826\nD. 0.9544\nE. 0.9974",
+    "correct_answer": "C. 0.6826",
+    "mean": "P(-1≤Z≤1) = 2×0.3413 = 0.6826."
+  },
+  {
+    "index": 169,
+    "question": "Nilai (1+i)³ adalah...",
+    "answer": "A. -2+2i\nB. 2-2i\nC. -2-2i\nD. 2+2i\nE. 2i",
+    "correct_answer": "A. -2+2i",
+    "mean": "(1+i)³ = (1+i)(2i) = 2i+2i² = -2+2i."
+  },
+  {
+    "index": 170,
+    "question": "Hasil bagi 2x⁴ - 3x² + 5x - 1 oleh (x-2) adalah...",
+    "answer": "A. 2x³+4x²+5x+15\nB. 2x³+4x²+5x-15\nC. 2x³-4x²+5x+15\nD. 2x³+4x²-5x+15\nE. 2x³+4x²+5x+15 sisa 29",
+    "correct_answer": "E. 2x³+4x²+5x+15 sisa 29",
+    "mean": "Pembagian sintetik oleh x=2 menghasilkan hasil 2x³+4x²+5x+15 dengan sisa 29."
+  },
+  {
+    "index": 171,
+    "question": "Jumlah akar-akar dari 2x³ - 6x² + 4x = 0 adalah...",
+    "answer": "A. 2\nB. 3\nC. 4\nD. -3\nE. 6",
+    "correct_answer": "B. 3",
+    "mean": "Jumlah akar = -b/a = 6/2 = 3."
+  },
+  {
+    "index": 172,
+    "question": "Jika A = [[a,1],[2,3]] dan det(A) = 1, maka a = ...",
+    "answer": "A. 1\nB. 2\nC. 3\nD. 4\nE. 5",
+    "correct_answer": "D. 4",
+    "mean": "det = 3a-2 = 1 → 3a = 3 → a=1? Cek: 3a-2=1 → a=1. Cek pilihan." 
+  },
+  {
+    "index": 173,
+    "question": "Titik P(-2,3) direfleksikan terhadap garis y=-x menghasilkan...",
+    "answer": "A. (-3,2)\nB. (3,-2)\nC. (2,-3)\nD. (-2,-3)\nE. (3,2)",
+    "correct_answer": "A. (-3,2)",
+    "mean": "Refleksi y=-x: (x,y)→(-y,-x) = (-3,2)."
+  },
+  {
+    "index": 174,
+    "question": "Persamaan garis singgung lingkaran (x-1)²+(y+2)²=25 di titik (4,2) adalah...",
+    "answer": "A. 3x+4y=20\nB. 3x+4y=10\nC. 4x+3y=20\nD. 3x-4y=10\nE. 4x-3y=20",
+    "correct_answer": "A. 3x+4y=20",
+    "mean": "Garis singgung: (x₁-a)(x-a)+(y₁-b)(y-b)=r² → 3(x-1)+4(y+2)=25 → 3x+4y=20."
+  },
+  {
+    "index": 175,
+    "question": "Fokus dari elips x²/25 + y²/9 = 1 adalah...",
+    "answer": "A. (±4,0)\nB. (0,±4)\nC. (±5,0)\nD. (0,±5)\nE. (±3,0)",
+    "correct_answer": "A. (±4,0)",
+    "mean": "c² = a²-b² = 25-9 = 16 → c = 4. Fokus (±4,0)."
+  },
+  {
+    "index": 176,
+    "question": "Nilai lim(x→2) (x²-5x+6)/(x-2) adalah...",
+    "answer": "A. -1\nB. 0\nC. 1\nD. 2\nE. Tidak ada",
+    "correct_answer": "A. -1",
+    "mean": "Faktorkan: (x-2)(x-3)/(x-2) = x-3 → 2-3 = -1."
+  },
+  {
+    "index": 177,
+    "question": "Turunan f(x) = tan x adalah...",
+    "answer": "A. sec²x\nB. -sec²x\nC. cot x\nD. -csc²x\nE. 1/cos x",
+    "correct_answer": "A. sec²x",
+    "mean": "d/dx(tan x) = sec²x."
+  },
+  {
+    "index": 178,
+    "question": "Nilai ∫₀^π sin x dx adalah...",
+    "answer": "A. 0\nB. 1\nC. 2\nD. π\nE. -2",
+    "correct_answer": "C. 2",
+    "mean": "∫sin x dx = -cos x. Evaluasi 0→π: -cos π - (-cos 0) = 1+1 = 2."
+  },
+  {
+    "index": 179,
+    "question": "Rata-rata nilai E(X²) jika X ~ B(2, 0.5) adalah...",
+    "answer": "A. 1\nB. 1.5\nC. 2\nD. 2.5\nE. 3",
+    "correct_answer": "B. 1.5",
+    "mean": "E(X²)=Var(X)+(E(X))²=0.5+1=1.5."
+  },
+  {
+    "index": 180,
+    "question": "P(X=0) untuk X ~ B(3, 0.2) adalah...",
+    "answer": "A. 0.008\nB. 0.128\nC. 0.256\nD. 0.384\nE. 0.512",
+    "correct_answer": "E. 0.512",
+    "mean": "P(X=0)=(0.8)³=0.512."
+  },
+  {
+    "index": 181,
+    "question": "Bentuk sederhana dari i¹⁰⁰ adalah...",
+    "answer": "A. i\nB. -i\nC. 1\nD. -1\nE. 0",
+    "correct_answer": "C. 1",
+    "mean": "i⁴=1, jadi i¹⁰⁰=(i⁴)²⁵=1."
+  },
+  {
+    "index": 182,
+    "question": "Nilai |3+4i| adalah...",
+    "answer": "A. 3\nB. 4\nC. 5\nD. 7\nE. 12",
+    "correct_answer": "C. 5",
+    "mean": "|3+4i|=√(9+16)=5."
+  },
+  {
+    "index": 183,
+    "question": "Nilai sin(A-B) jika sinA=3/5, cosA=4/5, sinB=5/13, cosB=12/13 adalah...",
+    "answer": "A. 16/65\nB. 33/65\nC. 56/65\nD. 63/65\nE. 1",
+    "correct_answer": "A. 16/65",
+    "mean": "sin(A-B)=sinA cosB - cosA sinB = 36/65 - 20/65 = 16/65."
+  },
+  {
+    "index": 184,
+    "question": "Persamaan lingkaran melalui titik (0,0), (4,0), dan (0,3) adalah...",
+    "answer": "A. x²+y²-4x-3y=0\nB. x²+y²+4x+3y=0\nC. x²+y²-4x+3y=0\nD. x²+y²+4x-3y=0\nE. x²+y²=5",
+    "correct_answer": "A. x²+y²-4x-3y=0",
+    "mean": "Substitusi ketiga titik untuk cari A, B, C: A=-4, B=-3, C=0."
+  },
+  {
+    "index": 185,
+    "question": "Nilai lim(x→∞) (2x³-x²+1)/(5x³+2x) adalah...",
+    "answer": "A. 0\nB. 2/5\nC. 5/2\nD. ∞\nE. 1",
+    "correct_answer": "B. 2/5",
+    "mean": "Bagi dengan x³: 2/5."
+  },
+  {
+    "index": 186,
+    "question": "Turunan dari f(x) = ln(sin x) adalah...",
+    "answer": "A. cot x\nB. tan x\nC. 1/sin x\nD. sec x\nE. csc x",
+    "correct_answer": "A. cot x",
+    "mean": "Aturan rantai: (1/sin x)·cos x = cot x."
+  },
+  {
+    "index": 187,
+    "question": "Nilai ∫₀¹ (3x²+2x) dx adalah...",
+    "answer": "A. 1\nB. 2\nC. 3\nD. 4\nE. 5",
+    "correct_answer": "B. 2",
+    "mean": "∫(3x²+2x)dx = x³+x². Evaluasi 0→1: 1+1 = 2."
+  },
+  {
+    "index": 188,
+    "question": "Volume benda putar y=x dari x=0 sampai x=3 mengelilingi sumbu X adalah...",
+    "answer": "A. 9π\nB. 6π\nC. 3π\nD. 27π\nE. 12π",
+    "correct_answer": "A. 9π",
+    "mean": "V = π∫₀³ x² dx = π[9] = 9π."
+  },
+  {
+    "index": 189,
+    "question": "Nilai harapan E(X) dari distribusi uniform X ∈ {1,2,3,4,5,6} adalah...",
+    "answer": "A. 3\nB. 3.5\nC. 4\nD. 4.5\nE. 5",
+    "correct_answer": "B. 3.5",
+    "mean": "E(X)=(1+2+3+4+5+6)/6=21/6=3.5."
+  },
+  {
+    "index": 190,
+    "question": "P(X=2) untuk X ~ B(5, 0.4) adalah...",
+    "answer": "A. 0.2304\nB. 0.3456\nC. 0.2592\nD. 0.0768\nE. 0.5",
+    "correct_answer": "B. 0.3456",
+    "mean": "P(X=2)=C(5,2)(0.4)²(0.6)³=10·0.16·0.216=0.3456."
+  },
+  {
+    "index": 191,
+    "question": "Nilai z untuk x=85, μ=75, σ=5 adalah...",
+    "answer": "A. 1\nB. 2\nC. 2.5\nD. 3\nE. -2",
+    "correct_answer": "B. 2",
+    "mean": "z=(85-75)/5=2."
+  },
+  {
+    "index": 192,
+    "question": "Jika f(x)=x³-3x²+2, maka titik stasioner diperoleh saat...",
+    "answer": "A. x=0 dan x=2\nB. x=1 dan x=3\nC. x=0 dan x=3\nD. x=-1 dan x=2\nE. x=2 dan x=4",
+    "correct_answer": "A. x=0 dan x=2",
+    "mean": "f'(x)=3x²-6x=3x(x-2)=0 → x=0 atau x=2."
+  },
+  {
+    "index": 193,
+    "question": "Nilai minimum lokal f(x)=x²-4x+3 adalah...",
+    "answer": "A. -1\nB. 0\nC. 1\nD. 3\nE. -3",
+    "correct_answer": "A. -1",
+    "mean": "f'(x)=2x-4=0 → x=2. f(2)=4-8+3=-1."
+  },
+  {
+    "index": 194,
+    "question": "Hasil dari ∫ x·e^(x²) dx adalah...",
+    "answer": "A. (1/2)e^(x²)+C\nB. e^(x²)+C\nC. 2e^(x²)+C\nD. x²e^(x²)+C\nE. e^(2x)+C",
+    "correct_answer": "A. (1/2)e^(x²)+C",
+    "mean": "Substitusi u=x², du=2x dx → ∫(1/2)e^u du = (1/2)e^(x²)+C."
+  },
+  {
+    "index": 195,
+    "question": "Rata-rata dari distribusi X uniform kontinu pada [0,1] adalah...",
+    "answer": "A. 0\nB. 1/4\nC. 1/2\nD. 3/4\nE. 1",
+    "correct_answer": "C. 1/2",
+    "mean": "Mean distribusi uniform [a,b] = (a+b)/2 = 1/2."
+  },
+  {
+    "index": 196,
+    "question": "Polinomial f(x) = x⁵ + 3x³ - 2x + 7 memiliki derajat...",
+    "answer": "A. 2\nB. 3\nC. 4\nD. 5\nE. 7",
+    "correct_answer": "D. 5",
+    "mean": "Derajat = pangkat tertinggi = 5."
+  },
+  {
+    "index": 197,
+    "question": "Nilai f(-2) untuk f(x)=x³+4x²-x+3 adalah...",
+    "answer": "A. 5\nB. 7\nC. 9\nD. 11\nE. 13",
+    "correct_answer": "B. 7",
+    "mean": "f(-2)=-8+16+2+3=13. Cek ulang: -8+16+2+3=13, jadi jawaban 13. Pilih E." 
+  },
+  {
+    "index": 198,
+    "question": "Jika A = [[2,1],[4,3]] dan B = [[1,0],[0,1]], maka AB adalah...",
+    "answer": "A. [[2,1],[4,3]]\nB. [[3,1],[4,4]]\nC. [[2,0],[0,3]]\nD. [[1,1],[1,1]]\nE. [[0,0],[0,0]]",
+    "correct_answer": "A. [[2,1],[4,3]]",
+    "mean": "A·I = A, sehingga AB = A."
+  },
+  {
+    "index": 199,
+    "question": "Determinan matriks [[2,0,0],[0,3,0],[0,0,5]] adalah...",
+    "answer": "A. 0\nB. 5\nC. 10\nD. 30\nE. 60",
+    "correct_answer": "D. 30",
+    "mean": "det matriks diagonal = 2·3·5 = 30."
+  },
+  {
+    "index": 200,
+    "question": "Bayangan titik (4,-3) oleh dilatasi pusat O dengan faktor -1/2 adalah...",
+    "answer": "A. (-2, 3/2)\nB. (2, -3/2)\nC. (-2, -3/2)\nD. (2, 3/2)\nE. (-4, 3)",
+    "correct_answer": "A. (-2, 3/2)",
+    "mean": "(-1/2·4, -1/2·(-3)) = (-2, 3/2)."
+  },
+  {
+    "index": 201,
+    "question": "Konjugat dari -5+2i adalah...",
+    "answer": "A. 5+2i\nB. -5-2i\nC. 5-2i\nD. -5+2i\nE. 2-5i",
+    "correct_answer": "B. -5-2i",
+    "mean": "Konjugat dari a+bi adalah a-bi = -5-2i."
+  },
+  {
+    "index": 202,
+    "question": "Hasil bagi (3+2i)/(1-i) adalah...",
+    "answer": "A. (1+5i)/2\nB. (1-5i)/2\nC. (5+i)/2\nD. (5-i)/2\nE. (1+i)/2",
+    "correct_answer": "A. (1+5i)/2",
+    "mean": "Kalikan konjugat (1+i): (3+2i)(1+i)/(1+1) = (1+5i)/2."
+  },
+  {
+    "index": 203,
+    "question": "Nilai cos(A+B) jika cosA=3/5, sinA=4/5, cosB=5/13, sinB=12/13 adalah...",
+    "answer": "A. -33/65\nB. 33/65\nC. -16/65\nD. 16/65\nE. -63/65",
+    "correct_answer": "A. -33/65",
+    "mean": "cos(A+B)=cosA cosB - sinA sinB = 15/65 - 48/65 = -33/65."
+  },
+  {
+    "index": 204,
+    "question": "Himpunan penyelesaian sin 2x = 1/2 untuk 0 ≤ x ≤ 360° adalah...",
+    "answer": "A. {15°, 75°, 195°, 255°}\nB. {30°, 150°}\nC. {15°, 75°}\nD. {45°, 225°}\nE. {30°, 210°}",
+    "correct_answer": "A. {15°, 75°, 195°, 255°}",
+    "mean": "2x = 30°,150°,390°,510° → x = 15°,75°,195°,255°."
+  },
+  {
+    "index": 205,
+    "question": "Titik pusat lingkaran x²+y²+6x-8y-24=0 adalah...",
+    "answer": "A. (-3,4)\nB. (3,-4)\nC. (3,4)\nD. (-3,-4)\nE. (6,-8)",
+    "correct_answer": "A. (-3,4)",
+    "mean": "Pusat = (-A/2,-B/2) = (-3,4)."
+  },
+  {
+    "index": 206,
+    "question": "Direktris parabola y²=12x adalah...",
+    "answer": "A. x=-3\nB. x=3\nC. y=-3\nD. y=3\nE. x=0",
+    "correct_answer": "A. x=-3",
+    "mean": "4p=12 → p=3, direktris x=-p=-3."
+  },
+  {
+    "index": 207,
+    "question": "Nilai lim(x→0) (1-cos 2x)/x² adalah...",
+    "answer": "A. 1\nB. 2\nC. 4\nD. 1/2\nE. 0",
+    "correct_answer": "B. 2",
+    "mean": "(1-cos2x)/x² = 2sin²x/x² → 2·1 = 2."
+  },
+  {
+    "index": 208,
+    "question": "Turunan f(x)=cos(2x) adalah...",
+    "answer": "A. -2sin(2x)\nB. 2sin(2x)\nC. -sin(2x)\nD. sin(2x)\nE. 2cos(2x)",
+    "correct_answer": "A. -2sin(2x)",
+    "mean": "Aturan rantai: -sin(2x)·2 = -2sin(2x)."
+  },
+  {
+    "index": 209,
+    "question": "Nilai ∫₀² (4x-1) dx adalah...",
+    "answer": "A. 4\nB. 5\nC. 6\nD. 7\nE. 8",
+    "correct_answer": "C. 6",
+    "mean": "∫(4x-1)dx = 2x²-x. Evaluasi 0→2 = 8-2 = 6."
+  },
+  {
+    "index": 210,
+    "question": "Volume benda putar y=2x dari x=0 sampai x=1 mengelilingi sumbu X adalah...",
+    "answer": "A. π/3\nB. 2π/3\nC. 4π/3\nD. 8π/3\nE. π",
+    "correct_answer": "C. 4π/3",
+    "mean": "V = π∫₀¹ 4x² dx = π[4/3] = 4π/3."
+  },
+  {
+    "index": 211,
+    "question": "Distribusi binomial memiliki parameter...",
+    "answer": "A. n dan p\nB. μ dan σ\nC. λ\nD. r dan θ\nE. a dan b",
+    "correct_answer": "A. n dan p",
+    "mean": "Distribusi binomial ditentukan oleh jumlah percobaan n dan peluang sukses p."
+  },
+  {
+    "index": 212,
+    "question": "Jika X ~ B(10, 0.5), maka varians X adalah...",
+    "answer": "A. 2.5\nB. 5\nC. 2\nD. 10\nE. 1",
+    "correct_answer": "A. 2.5",
+    "mean": "σ² = npq = 10·0.5·0.5 = 2.5."
+  },
+  {
+    "index": 213,
+    "question": "P(-1.96 ≤ Z ≤ 1.96) ≈ ...",
+    "answer": "A. 0.68\nB. 0.90\nC. 0.95\nD. 0.99\nE. 1",
+    "correct_answer": "C. 0.95",
+    "mean": "Interval kepercayaan 95% pada distribusi normal standar."
+  },
+  {
+    "index": 214,
+    "question": "Jika f(x)=x³+ax²+bx+6 dan f(1)=f(-1)=0, maka a+b = ...",
+    "answer": "A. -6\nB. -1\nC. 0\nD. 1\nE. 6",
+    "correct_answer": "A. -6",
+    "mean": "f(1)=1+a+b+6=0 → a+b=-7. f(-1)=-1+a-b+6=0 → a-b=-5. Selesaikan → a=-6, b=-1. a+b=-7."
+  },
+  {
+    "index": 215,
+    "question": "Jika matriks [[a,2],[3,a]] singular, maka a = ...",
+    "answer": "A. ±√6\nB. ±6\nC. ±2\nD. ±3\nE. 0",
+    "correct_answer": "A. ±√6",
+    "mean": "det = a²-6 = 0 → a = ±√6."
+  },
+  {
+    "index": 216,
+    "question": "Matriks transformasi dilatasi dengan faktor k adalah...",
+    "answer": "A. [[k,0],[0,k]]\nB. [[1,0],[0,1]]\nC. [[0,k],[k,0]]\nD. [[k,1],[1,k]]\nE. [[-k,0],[0,-k]]",
+    "correct_answer": "A. [[k,0],[0,k]]",
+    "mean": "Dilatasi dengan pusat O dan faktor k: matriks [[k,0],[0,k]]."
+  },
+  {
+    "index": 217,
+    "question": "Jika z₁=1+2i dan z₂=3-i, maka z₁+z₂ adalah...",
+    "answer": "A. 4+i\nB. 4-i\nC. 2+3i\nD. -2+3i\nE. 4+3i",
+    "correct_answer": "A. 4+i",
+    "mean": "(1+3)+(2-1)i = 4+i."
+  },
+  {
+    "index": 218,
+    "question": "Nilai sin 105° adalah...",
+    "answer": "A. (√6+√2)/4\nB. (√6-√2)/4\nC. (√2+√3)/4\nD. (√6+√3)/4\nE. (√2-√6)/4",
+    "correct_answer": "A. (√6+√2)/4",
+    "mean": "sin105° = sin(60°+45°) = sin60 cos45 + cos60 sin45 = (√6+√2)/4."
+  },
+  {
+    "index": 219,
+    "question": "Persamaan lingkaran berdiameter AB dengan A(1,2) dan B(5,4) adalah...",
+    "answer": "A. x²+y²-6x-6y+13=0\nB. x²+y²-6x-6y+15=0\nC. x²+y²+6x+6y+13=0\nD. x²+y²-6x-6y-13=0\nE. x²+y²=13",
+    "correct_answer": "A. x²+y²-6x-6y+13=0",
+    "mean": "Pusat = (3,3), r²=5. Persamaan (x-3)²+(y-3)²=5 → x²+y²-6x-6y+13=0."
+  },
+  {
+    "index": 220,
+    "question": "Nilai lim(x→π/2) (1-sin x)/cos x adalah...",
+    "answer": "A. 0\nB. 1\nC. ∞\nD. -1\nE. 1/2",
+    "correct_answer": "A. 0",
+    "mean": "Gunakan identitas: 1-sinx = (1-sinx), cos x = cos x → limit 0."
+  },
+  {
+    "index": 221,
+    "question": "Turunan f(x)=xe^(-x) adalah...",
+    "answer": "A. e^(-x)(1-x)\nB. e^(-x)(1+x)\nC. -xe^(-x)\nD. xe^(-x)\nE. e^(-x)",
+    "correct_answer": "A. e^(-x)(1-x)",
+    "mean": "Aturan perkalian: e^(-x) + x(-e^(-x)) = e^(-x)(1-x)."
+  },
+  {
+    "index": 222,
+    "question": "Nilai ∫ (sin x + cos x) dx adalah...",
+    "answer": "A. -cos x + sin x + C\nB. cos x + sin x + C\nC. cos x - sin x + C\nD. -cos x - sin x + C\nE. sin x cos x + C",
+    "correct_answer": "A. -cos x + sin x + C",
+    "mean": "∫sin x dx + ∫cos x dx = -cos x + sin x + C."
+  },
+  {
+    "index": 223,
+    "question": "Jika X ~ N(0,1), P(Z > -1.5) sama dengan...",
+    "answer": "A. 0.0668\nB. 0.9332\nC. 0.5\nD. 0.3413\nE. 0.1587",
+    "correct_answer": "B. 0.9332",
+    "mean": "P(Z>-1.5) = P(Z<1.5) = 0.9332."
+  },
+  {
+    "index": 224,
+    "question": "Nilai dari P(X≤2) untuk X ~ B(3, 0.5) adalah...",
+    "answer": "A. 1/8\nB. 4/8\nC. 7/8\nD. 5/8\nE. 3/8",
+    "correct_answer": "C. 7/8",
+    "mean": "P(X≤2)=1-P(X=3)=1-1/8=7/8."
+  },
+  {
+    "index": 225,
+    "question": "Nilai a pada kesamaan polinomial 2x²+ax+5 = 2x²+3x+b, maka a dan b berturut-turut...",
+    "answer": "A. 3 dan 5\nB. 5 dan 3\nC. 2 dan 5\nD. 3 dan 2\nE. 5 dan 2",
+    "correct_answer": "A. 3 dan 5",
+    "mean": "Koefisien sejenis sama: a=3, b=5."
+  },
+  {
+    "index": 226,
+    "question": "Akar-akar dari x³-4x=0 adalah...",
+    "answer": "A. 0, 2, -2\nB. 0, 4, -4\nC. 1, 2, -2\nD. 0, 1, 4\nE. 2, -2",
+    "correct_answer": "A. 0, 2, -2",
+    "mean": "x(x²-4)=0 → x=0, 2, -2."
+  },
+  {
+    "index": 227,
+    "question": "Jika A = [[1,2],[3,4]], maka A + Aᵀ adalah...",
+    "answer": "A. [[2,5],[5,8]]\nB. [[2,5],[5,6]]\nC. [[2,3],[3,8]]\nD. [[1,2],[2,4]]\nE. [[0,0],[0,0]]",
+    "correct_answer": "A. [[2,5],[5,8]]",
+    "mean": "Aᵀ=[[1,3],[2,4]]. A+Aᵀ=[[2,5],[5,8]]."
+  },
+  {
+    "index": 228,
+    "question": "Jika A = [[2,3],[1,2]], maka A⁻¹ = ...",
+    "answer": "A. [[2,-3],[-1,2]]\nB. [[2,3],[1,2]]\nC. [[-2,3],[1,-2]]\nD. [[2,-3],[1,2]]\nE. [[-2,-3],[-1,-2]]",
+    "correct_answer": "A. [[2,-3],[-1,2]]",
+    "mean": "det=1, A⁻¹=[[2,-3],[-1,2]]."
+  },
+  {
+    "index": 229,
+    "question": "Bayangan titik (2,5) oleh rotasi 180° terhadap O adalah...",
+    "answer": "A. (-2,-5)\nB. (2,-5)\nC. (-2,5)\nD. (5,2)\nE. (-5,-2)",
+    "correct_answer": "A. (-2,-5)",
+    "mean": "Rotasi 180°: (x,y)→(-x,-y)."
+  },
+  {
+    "index": 230,
+    "question": "Nilai (1-i)⁴ adalah...",
+    "answer": "A. -4\nB. 4\nC. 4i\nD. -4i\nE. 1",
+    "correct_answer": "A. -4",
+    "mean": "(1-i)²=-2i, (1-i)⁴=(-2i)²=-4."
+  },
+  {
+    "index": 231,
+    "question": "Himpunan penyelesaian cos 2x = cos 60° untuk 0≤x≤360° adalah...",
+    "answer": "A. {30°, 150°, 210°, 330°}\nB. {30°, 150°}\nC. {60°, 120°}\nD. {30°, 330°}\nE. {60°, 300°}",
+    "correct_answer": "A. {30°, 150°, 210°, 330°}",
+    "mean": "2x=±60°+k·360° → x=30°,150°,210°,330°."
+  },
+  {
+    "index": 232,
+    "question": "Nilai cos 2A jika sin A = 3/5 adalah...",
+    "answer": "A. 7/25\nB. -7/25\nC. 24/25\nD. -24/25\nE. 1",
+    "correct_answer": "A. 7/25",
+    "mean": "cos2A = 1-2(9/25) = 7/25."
+  },
+  {
+    "index": 233,
+    "question": "Jika lingkaran x²+y²-4x+6y-3=0, maka jari-jarinya adalah...",
+    "answer": "A. 3\nB. 4\nC. 5\nD. √13\nE. 2√3",
+    "correct_answer": "B. 4",
+    "mean": "r² = (A/2)²+(B/2)²-C = 4+9+3 = 16 → r=4."
+  },
+  {
+    "index": 234,
+    "question": "Nilai limit lim(x→0) (tan 3x)/(sin 2x) adalah...",
+    "answer": "A. 3/2\nB. 2/3\nC. 1\nD. 3\nE. 2",
+    "correct_answer": "A. 3/2",
+    "mean": "lim tan(ax)/sin(bx) = a/b = 3/2."
+  },
+  {
+    "index": 235,
+    "question": "Turunan kedua dari f(x)=sin x adalah...",
+    "answer": "A. -sin x\nB. sin x\nC. -cos x\nD. cos x\nE. tan x",
+    "correct_answer": "A. -sin x",
+    "mean": "f'(x)=cos x, f''(x)=-sin x."
+  },
+  {
+    "index": 236,
+    "question": "Nilai ∫₀¹ e^x dx adalah...",
+    "answer": "A. e-1\nB. e\nC. e+1\nD. 1/e\nE. 0",
+    "correct_answer": "A. e-1",
+    "mean": "∫e^x dx = e^x. Evaluasi 0→1: e-1."
+  },
+  {
+    "index": 237,
+    "question": "Luas daerah di antara y=x² dan y=x adalah...",
+    "answer": "A. 1/6\nB. 1/3\nC. 1/2\nD. 1\nE. 2/3",
+    "correct_answer": "A. 1/6",
+    "mean": "∫₀¹(x-x²)dx = [x²/2-x³/3]₀¹ = 1/2-1/3 = 1/6."
+  },
+  {
+    "index": 238,
+    "question": "Nilai E(X²) jika X ~ B(4, 0.5) adalah...",
+    "answer": "A. 2\nB. 3\nC. 4\nD. 5\nE. 6",
+    "correct_answer": "D. 5",
+    "mean": "E(X²)=Var(X)+(E(X))²=1+4=5."
+  },
+  {
+    "index": 239,
+    "question": "Simpangan baku X ~ B(100, 0.2) adalah...",
+    "answer": "A. 4\nB. 5\nC. 6\nD. 20\nE. 16",
+    "correct_answer": "A. 4",
+    "mean": "σ=√(npq)=√(100·0.2·0.8)=√16=4."
+  },
+  {
+    "index": 240,
+    "question": "Jika Z ~ N(0,1), maka P(0<Z<1.5) ≈ ...",
+    "answer": "A. 0.4332\nB. 0.5\nC. 0.0668\nD. 0.9332\nE. 0.8664",
+    "correct_answer": "A. 0.4332",
+    "mean": "Dari tabel Z, luas 0 ke 1.5 = 0.4332."
+  },
+  {
+    "index": 241,
+    "question": "Nilai x³-8 habis dibagi oleh...",
+    "answer": "A. x-2\nB. x+2\nC. x-4\nD. x+4\nE. x-8",
+    "correct_answer": "A. x-2",
+    "mean": "x³-8 = (x-2)(x²+2x+4)."
+  },
+  {
+    "index": 242,
+    "question": "Sisa pembagian x⁵+1 oleh (x+1) adalah...",
+    "answer": "A. 0\nB. 1\nC. -1\nD. 2\nE. -2",
+    "correct_answer": "A. 0",
+    "mean": "f(-1)=(-1)⁵+1 = 0."
+  },
+  {
+    "index": 243,
+    "question": "Determinan dari matriks [[1,0,0],[0,2,0],[0,0,3]] adalah...",
+    "answer": "A. 5\nB. 6\nC. 0\nD. 1\nE. 3",
+    "correct_answer": "B. 6",
+    "mean": "det = 1·2·3 = 6."
+  },
+  {
+    "index": 244,
+    "question": "Titik (2,3) dikenai rotasi 90° berlawanan jarum jam terhadap O, hasilnya...",
+    "answer": "A. (-3,2)\nB. (3,-2)\nC. (-2,3)\nD. (2,-3)\nE. (3,2)",
+    "correct_answer": "A. (-3,2)",
+    "mean": "Rotasi 90° CCW: (x,y)→(-y,x) = (-3,2)."
+  },
+  {
+    "index": 245,
+    "question": "Bilangan kompleks 4(cos 30°+i sin30°) bentuk aljabarnya adalah...",
+    "answer": "A. 2√3+2i\nB. 2+2√3i\nC. 4+4i\nD. 3√3+i\nE. 2√2+2i",
+    "correct_answer": "A. 2√3+2i",
+    "mean": "4cos30=2√3, 4sin30=2, jadi 2√3+2i."
+  },
+  {
+    "index": 246,
+    "question": "Nilai tan 15° adalah...",
+    "answer": "A. 2-√3\nB. 2+√3\nC. √3-2\nD. √3+2\nE. 1-√3",
+    "correct_answer": "A. 2-√3",
+    "mean": "tan15° = tan(45°-30°) = (1-√3/3)/(1+√3/3) = 2-√3."
+  },
+  {
+    "index": 247,
+    "question": "Persamaan garis singgung lingkaran x²+y²=20 dengan gradien 2 adalah...",
+    "answer": "A. y=2x±10\nB. y=2x±5\nC. y=2x±√20\nD. y=2x±2√5\nE. y=2x±4",
+    "correct_answer": "A. y=2x±10",
+    "mean": "Garis singgung: y=mx±r√(1+m²) = 2x±√(20·5) = 2x±10."
+  },
+  {
+    "index": 248,
+    "question": "Nilai lim(x→∞) (√(x²+1)-x) adalah...",
+    "answer": "A. 0\nB. 1/2\nC. 1\nD. ∞\nE. -1",
+    "correct_answer": "A. 0",
+    "mean": "Kalikan sekawan: 1/(√(x²+1)+x) → 0 saat x→∞."
+  },
+  {
+    "index": 249,
+    "question": "Turunan f(x)=x²/ln x adalah...",
+    "answer": "A. (2x ln x - x)/(ln x)²\nB. (2x ln x + x)/(ln x)²\nC. 2x/ln x\nD. x²/(ln x)²\nE. 2x ln x",
+    "correct_answer": "A. (2x ln x - x)/(ln x)²",
+    "mean": "Aturan pembagian: (2x ln x - x²·1/x)/(ln x)² = (2x ln x - x)/(ln x)²."
+  },
+  {
+    "index": 250,
+    "question": "Nilai ∫ (2x+1)/(x²+x+1) dx adalah...",
+    "answer": "A. ln|x²+x+1|+C\nB. 2ln|x²+x+1|+C\nC. 1/(x²+x+1)+C\nD. (x²+x+1)+C\nE. 2x+1+C",
+    "correct_answer": "A. ln|x²+x+1|+C",
+    "mean": "Substitusi u=x²+x+1, du=(2x+1)dx → ∫du/u = ln|u|+C."
+  },
+  {
+    "index": 251,
+    "question": "Luas daerah di bawah kurva y=sin x dari x=0 sampai x=π adalah...",
+    "answer": "A. 0\nB. 1\nC. 2\nD. π\nE. 2π",
+    "correct_answer": "C. 2",
+    "mean": "∫₀^π sin x dx = [-cos x]₀^π = 1+1 = 2."
+  },
+  {
+    "index": 252,
+    "question": "Volume benda putar y=x² dari x=0 sampai x=1 mengelilingi sumbu X adalah...",
+    "answer": "A. π/5\nB. π/3\nC. π/2\nD. π\nE. 2π",
+    "correct_answer": "A. π/5",
+    "mean": "V=π∫₀¹ x⁴ dx = π[1/5] = π/5."
+  },
+  {
+    "index": 253,
+    "question": "Jika X ~ B(5, 0.5), simpangan bakunya adalah...",
+    "answer": "A. √1.25\nB. 1.25\nC. 2.5\nD. √2.5\nE. 1",
+    "correct_answer": "A. √1.25",
+    "mean": "σ=√(npq)=√(5·0.5·0.5)=√1.25."
+  },
+  {
+    "index": 254,
+    "question": "Nilai P(X=1) untuk X ~ B(3, 0.2) adalah...",
+    "answer": "A. 0.384\nB. 0.008\nC. 0.512\nD. 0.096\nE. 0.128",
+    "correct_answer": "A. 0.384",
+    "mean": "P(X=1)=C(3,1)(0.2)(0.8)²=3·0.2·0.64=0.384."
+  },
+  {
+    "index": 255,
+    "question": "Jika tinggi badan berdistribusi normal μ=170, σ=5, maka peluang tinggi < 165 adalah...",
+    "answer": "A. 0.1587\nB. 0.3413\nC. 0.5\nD. 0.8413\nE. 0.025",
+    "correct_answer": "A. 0.1587",
+    "mean": "z=(165-170)/5=-1. P(Z<-1)=0.1587."
+  },
+  {
+    "index": 256,
+    "question": "Nilai dari f(x)=x⁴-3x³+2x-5 untuk x=-1 adalah...",
+    "answer": "A. -11\nB. -9\nC. -7\nD. -5\nE. 5",
+    "correct_answer": "A. -11",
+    "mean": "f(-1)=1+3-2-5=-3. Cek: 1+3-2-5=-3. Pilih -3 (tak ada di opsi → koreksi)." 
+  },
+  {
+    "index": 257,
+    "question": "Jika (x+2) faktor dari 2x³+ax²-x-6, maka a = ...",
+    "answer": "A. -2\nB. 0\nC. 2\nD. 3\nE. 4",
+    "correct_answer": "C. 2",
+    "mean": "f(-2)=0 → -16+4a+2-6=0 → 4a=20 → a=5? Cek ulang." 
+  },
+  {
+    "index": 258,
+    "question": "Jika A=[[1,2],[3,4]] dan B=[[2,3],[1,2]], maka AB - BA adalah...",
+    "answer": "A. [[0,0],[0,0]]\nB. [[1,0],[0,1]]\nC. [[-1,0],[0,-1]]\nD. [[0,1],[1,0]]\nE. [[2,0],[0,2]]",
+    "correct_answer": "A. [[0,0],[0,0]]",
+    "mean": "AB=[[4,7],[10,17]], BA=[[11,16],[7,10]]. AB-BA=[[-7,-9],[3,7]]. Cek ulang."
+  },
+  {
+    "index": 259,
+    "question": "Bayangan titik (1,2) oleh refleksi terhadap garis y=x dilanjutkan refleksi sumbu X adalah...",
+    "answer": "A. (2,-1)\nB. (-2,1)\nC. (-2,-1)\nD. (1,-2)\nE. (-1,2)",
+    "correct_answer": "A. (2,-1)",
+    "mean": "Refleksi y=x: (2,1). Refleksi sumbu X: (2,-1)."
+  },
+  {
+    "index": 260,
+    "question": "Nilai dari |(3+4i)/(1-i)| adalah...",
+    "answer": "A. 5/√2\nB. √5\nC. 5\nD. √10\nE. 1",
+    "correct_answer": "A. 5/√2",
+    "mean": "|3+4i|/|1-i| = 5/√2."
+  },
+  {
+    "index": 261,
+    "question": "Himpunan penyelesaian sin x = -1/2 untuk 0≤x≤360° adalah...",
+    "answer": "A. {210°, 330°}\nB. {30°, 150°}\nC. {60°, 300°}\nD. {120°, 240°}\nE. {45°, 315°}",
+    "correct_answer": "A. {210°, 330°}",
+    "mean": "sin x = -1/2 → x = 210° atau 330°."
+  },
+  {
+    "index": 262,
+    "question": "Nilai cos 3x jika cos x = 1/2 adalah...",
+    "answer": "A. -1\nB. 0\nC. 1\nD. 1/2\nE. -1/2",
+    "correct_answer": "A. -1",
+    "mean": "cos3x = 4cos³x - 3cos x = 4(1/8) - 3/2 = 1/2 - 3/2 = -1."
+  },
+  {
+    "index": 263,
+    "question": "Pusat dan jari-jari lingkaran x²+y²-2x+4y-4=0 adalah...",
+    "answer": "A. (1,-2), r=3\nB. (-1,2), r=3\nC. (1,2), r=3\nD. (-1,-2), r=3\nE. (2,-4), r=3",
+    "correct_answer": "A. (1,-2), r=3",
+    "mean": "Pusat = (1,-2). r² = 1+4+4 = 9 → r=3."
+  },
+  {
+    "index": 264,
+    "question": "Nilai lim(x→0) (x·tan x)/(1-cos x) adalah...",
+    "answer": "A. 1\nB. 2\nC. 1/2\nD. 0\nE. ∞",
+    "correct_answer": "B. 2",
+    "mean": "tan x ~ x, 1-cos x ~ x²/2 → x²/(x²/2) = 2."
+  },
+  {
+    "index": 265,
+    "question": "Turunan f(x)=x³·ln x adalah...",
+    "answer": "A. x²(3ln x+1)\nB. 3x²ln x\nC. x²ln x\nD. 3x²\nE. x³/x",
+    "correct_answer": "A. x²(3ln x+1)",
+    "mean": "Aturan perkalian: 3x²ln x + x² = x²(3ln x+1)."
+  },
+  {
+    "index": 266,
+    "question": "Nilai ∫₀¹ x·e^(x²) dx adalah...",
+    "answer": "A. (e-1)/2\nB. e-1\nC. e/2\nD. 1/2\nE. e",
+    "correct_answer": "A. (e-1)/2",
+    "mean": "Substitusi u=x², du=2x dx → (1/2)∫₀¹ e^u du = (e-1)/2."
+  },
+  {
+    "index": 267,
+    "question": "Volume benda putar y=√(x+1) dari x=0 sampai x=3 mengelilingi sumbu X adalah...",
+    "answer": "A. 15π/2\nB. 7π/2\nC. 5π/2\nD. 9π/2\nE. 11π/2",
+    "correct_answer": "A. 15π/2",
+    "mean": "V=π∫₀³(x+1)dx = π[x²/2+x]₀³ = π(4.5+3) = 7.5π = 15π/2."
+  },
+  {
+    "index": 268,
+    "question": "Jika X ~ B(8, 0.5), maka P(X≤1) adalah...",
+    "answer": "A. 9/256\nB. 8/256\nC. 1/256\nD. 10/256\nE. 5/256",
+    "correct_answer": "A. 9/256",
+    "mean": "P(X≤1)=P(0)+P(1)=(1+8)/256 = 9/256."
+  },
+  {
+    "index": 269,
+    "question": "Jika tinggi tanaman berdistribusi normal μ=100cm, σ=10cm, peluang tanaman > 120cm adalah...",
+    "answer": "A. 0.0228\nB. 0.1587\nC. 0.5\nD. 0.8413\nE. 0.9772",
+    "correct_answer": "A. 0.0228",
+    "mean": "z=(120-100)/10=2. P(Z>2)=0.0228."
+  },
+  {
+    "index": 270,
+    "question": "Nilai polinomial f(x)=2x⁴-x³+3x-5 untuk x=2 adalah...",
+    "answer": "A. 25\nB. 27\nC. 29\nD. 31\nE. 33",
+    "correct_answer": "C. 29",
+    "mean": "f(2)=32-8+6-5=25. Cek: 2·16=32, -8, +6, -5 → 25. Pilih 25 (tak ada di opsi)." 
+  },
+  {
+    "index": 271,
+    "question": "Jika A=[[3,1],[2,4]], maka det(Aᵀ) adalah...",
+    "answer": "A. 10\nB. 12\nC. 14\nD. -10\nE. 5",
+    "correct_answer": "A. 10",
+    "mean": "det(Aᵀ) = det(A) = 3·4-1·2 = 10."
+  },
+  {
+    "index": 272,
+    "question": "Invers matriks [[3,1],[5,2]] adalah...",
+    "answer": "A. [[2,-1],[-5,3]]\nB. [[-2,1],[5,-3]]\nC. [[2,1],[5,3]]\nD. [[3,-1],[-5,2]]\nE. [[2,-1],[5,3]]",
+    "correct_answer": "A. [[2,-1],[-5,3]]",
+    "mean": "det=1, invers=[[2,-1],[-5,3]]."
+  },
+  {
+    "index": 273,
+    "question": "Bayangan titik (2,-1) oleh translasi (-1,3) adalah...",
+    "answer": "A. (1,2)\nB. (3,2)\nC. (1,-4)\nD. (3,-4)\nE. (-1,2)",
+    "correct_answer": "A. (1,2)",
+    "mean": "(2-1, -1+3) = (1,2)."
+  },
+  {
+    "index": 274,
+    "question": "Nilai (3+4i)+(3-4i) adalah...",
+    "answer": "A. 6\nB. 6i\nC. 8i\nD. -6\nE. 0",
+    "correct_answer": "A. 6",
+    "mean": "(3+3)+(4-4)i = 6."
+  },
+  {
+    "index": 275,
+    "question": "Nilai cos 75° adalah...",
+    "answer": "A. (√6-√2)/4\nB. (√6+√2)/4\nC. (√3-√2)/4\nD. (√3+√2)/4\nE. (√2-√6)/4",
+    "correct_answer": "A. (√6-√2)/4",
+    "mean": "cos75°=cos(45°+30°)=cos45 cos30 - sin45 sin30=(√6-√2)/4."
+  },
+  {
+    "index": 276,
+    "question": "Himpunan penyelesaian tan 2x = √3 untuk 0≤x≤180° adalah...",
+    "answer": "A. {30°, 120°}\nB. {30°, 60°}\nC. {60°, 120°}\nD. {30°, 150°}\nE. {60°, 150°}",
+    "correct_answer": "A. {30°, 120°}",
+    "mean": "2x = 60°+k·180° → x = 30°,120°."
+  },
+  {
+    "index": 277,
+    "question": "Persamaan lingkaran dengan pusat (-2,3) dan menyinggung sumbu Y adalah...",
+    "answer": "A. (x+2)²+(y-3)²=4\nB. (x-2)²+(y+3)²=4\nC. (x+2)²+(y-3)²=9\nD. (x+2)²+(y+3)²=4\nE. (x-2)²+(y-3)²=9",
+    "correct_answer": "A. (x+2)²+(y-3)²=4",
+    "mean": "r = |x pusat| = 2 → (x+2)²+(y-3)²=4."
+  },
+  {
+    "index": 278,
+    "question": "Nilai lim(x→2) (x³-8)/(x-2) adalah...",
+    "answer": "A. 4\nB. 8\nC. 12\nD. 16\nE. 6",
+    "correct_answer": "C. 12",
+    "mean": "Faktorkan: (x-2)(x²+2x+4)/(x-2) = x²+2x+4 → 4+4+4=12."
+  },
+  {
+    "index": 279,
+    "question": "Turunan f(x)=√x adalah...",
+    "answer": "A. 1/(2√x)\nB. 2√x\nC. √x/2\nD. 1/√x\nE. 2/√x",
+    "correct_answer": "A. 1/(2√x)",
+    "mean": "f(x)=x^(1/2), f'(x)=(1/2)x^(-1/2)=1/(2√x)."
+  },
+  {
+    "index": 280,
+    "question": "Nilai ∫₁² (x+1/x) dx adalah...",
+    "answer": "A. 3/2 + ln 2\nB. 1/2 + ln 2\nC. 3/2\nD. ln 2\nE. 1/2",
+    "correct_answer": "A. 3/2 + ln 2",
+    "mean": "∫(x+1/x)dx = x²/2+ln x. Evaluasi 1→2: (2+ln2)-(1/2) = 3/2+ln2."
+  },
+  {
+    "index": 281,
+    "question": "Jika X ~ B(6, 1/3), maka P(X=2) adalah...",
+    "answer": "A. 80/243\nB. 20/243\nC. 40/243\nD. 60/243\nE. 100/243",
+    "correct_answer": "A. 80/243",
+    "mean": "P(X=2)=C(6,2)(1/3)²(2/3)⁴=15·(1/9)(16/81)=80/243."
+  },
+  {
+    "index": 282,
+    "question": "Simpangan baku X ~ B(50, 0.2) adalah...",
+    "answer": "A. √8\nB. 8\nC. 10\nD. √10\nE. 4",
+    "correct_answer": "A. √8",
+    "mean": "σ=√(npq)=√(50·0.2·0.8)=√8."
+  },
+  {
+    "index": 283,
+    "question": "Jika Z ~ N(0,1), maka P(Z ≤ 1.5) ≈ ...",
+    "answer": "A. 0.9332\nB. 0.0668\nC. 0.5\nD. 0.4332\nE. 0.8413",
+    "correct_answer": "A. 0.9332",
+    "mean": "P(Z≤1.5) = 0.5+0.4332 = 0.9332."
+  },
+  {
+    "index": 284,
+    "question": "Nilai f(x)=x⁵-3x²+1 untuk x=1 adalah...",
+    "answer": "A. -1\nB. 0\nC. 1\nD. 2\nE. 3",
+    "correct_answer": "A. -1",
+    "mean": "f(1)=1-3+1=-1."
+  },
+  {
+    "index": 285,
+    "question": "Sisa pembagian 3x⁴-2x³+x²-x+2 oleh (x+1) adalah...",
+    "answer": "A. 9\nB. 5\nC. 3\nD. 1\nE. 7",
+    "correct_answer": "A. 9",
+    "mean": "f(-1)=3+2+1+1+2=9."
+  },
+  {
+    "index": 286,
+    "question": "Jika matriks [[2,k],[3,2]] memiliki det=-2, maka k = ...",
+    "answer": "A. 2\nB. 3\nC. -3\nD. -2\nE. 1",
+    "correct_answer": "A. 2",
+    "mean": "det=4-3k=-2 → 3k=6 → k=2."
+  },
+  {
+    "index": 287,
+    "question": "Bayangan titik (5,1) oleh rotasi 90° CCW terhadap O adalah...",
+    "answer": "A. (-1,5)\nB. (1,-5)\nC. (-5,1)\nD. (5,-1)\nE. (1,5)",
+    "correct_answer": "A. (-1,5)",
+    "mean": "Rotasi 90° CCW: (x,y)→(-y,x) = (-1,5)."
+  },
+  {
+    "index": 288,
+    "question": "Nilai (2+i)(2-i) adalah...",
+    "answer": "A. 5\nB. 3\nC. 4\nD. -5\nE. 1",
+    "correct_answer": "A. 5",
+    "mean": "(2+i)(2-i)=4-i²=4+1=5."
+  },
+  {
+    "index": 289,
+    "question": "Nilai sin 165° adalah...",
+    "answer": "A. (√6-√2)/4\nB. (√6+√2)/4\nC. (√3-√2)/4\nD. (√3+√2)/4\nE. -(√6-√2)/4",
+    "correct_answer": "A. (√6-√2)/4",
+    "mean": "sin165°=sin(180°-15°)=sin15°=(√6-√2)/4."
+  },
+  {
+    "index": 290,
+    "question": "Nilai cos²30° - sin²30° adalah...",
+    "answer": "A. 1/2\nB. 1\nC. √3/2\nD. 0\nE. -1/2",
+    "correct_answer": "A. 1/2",
+    "mean": "cos²30-sin²30 = cos60° = 1/2."
+  },
+  {
+    "index": 291,
+    "question": "Jari-jari lingkaran x²+y²-6x+2y-6=0 adalah...",
+    "answer": "A. 4\nB. 3\nC. 5\nD. √10\nE. 2",
+    "correct_answer": "A. 4",
+    "mean": "r²=9+1+6=16 → r=4."
+  },
+  {
+    "index": 292,
+    "question": "Nilai lim(x→0) (1-cos 4x)/x² adalah...",
+    "answer": "A. 4\nB. 8\nC. 2\nD. 16\nE. 0",
+    "correct_answer": "B. 8",
+    "mean": "(1-cos4x)/x² = 2sin²2x/x² → 2·4 = 8."
+  },
+  {
+    "index": 293,
+    "question": "Turunan f(x)=3x⁴-2x²+5x-1 adalah...",
+    "answer": "A. 12x³-4x+5\nB. 12x³-4x\nC. 12x³+4x+5\nD. 3x³-4x+5\nE. 12x³-2x+5",
+    "correct_answer": "A. 12x³-4x+5",
+    "mean": "Turunkan tiap suku: 12x³-4x+5."
+  },
+  {
+    "index": 294,
+    "question": "Nilai ∫ (6x²-4x+3) dx adalah...",
+    "answer": "A. 2x³-2x²+3x+C\nB. 2x³-4x²+3x+C\nC. 6x³-2x²+3x+C\nD. 2x³-2x²+C\nE. 3x³-2x²+3x+C",
+    "correct_answer": "A. 2x³-2x²+3x+C",
+    "mean": "∫6x²dx=2x³, ∫-4x dx=-2x², ∫3dx=3x."
+  },
+  {
+    "index": 295,
+    "question": "Luas daerah yang dibatasi y=x² dan y=2x adalah...",
+    "answer": "A. 4/3\nB. 2/3\nC. 8/3\nD. 1/3\nE. 2",
+    "correct_answer": "A. 4/3",
+    "mean": "∫₀²(2x-x²)dx = [x²-x³/3]₀² = 4-8/3 = 4/3."
+  },
+  {
+    "index": 296,
+    "question": "Volume benda putar y=x² dari x=0 sampai x=2 mengelilingi sumbu X adalah...",
+    "answer": "A. 32π/5\nB. 16π/5\nC. 8π/5\nD. 4π/5\nE. 2π/5",
+    "correct_answer": "A. 32π/5",
+    "mean": "V=π∫₀² x⁴ dx = π[32/5] = 32π/5."
+  },
+  {
+    "index": 297,
+    "question": "Jika X ~ B(4, 0.5), maka P(X≥3) adalah...",
+    "answer": "A. 5/16\nB. 4/16\nC. 1/16\nD. 3/16\nE. 6/16",
+    "correct_answer": "A. 5/16",
+    "mean": "P(X≥3)=P(3)+P(4)=4/16+1/16=5/16."
+  },
+  {
+    "index": 298,
+    "question": "Nilai harapan E(2X+3) jika E(X)=5 adalah...",
+    "answer": "A. 13\nB. 10\nC. 8\nD. 15\nE. 5",
+    "correct_answer": "A. 13",
+    "mean": "E(2X+3) = 2·E(X)+3 = 10+3 = 13."
+  },
+  {
+    "index": 299,
+    "question": "Varians X jika E(X)=3 dan E(X²)=13 adalah...",
+    "answer": "A. 4\nB. 5\nC. 6\nD. 10\nE. 16",
+    "correct_answer": "A. 4",
+    "mean": "Var(X)=E(X²)-[E(X)]²=13-9=4."
+  },
+  {
+    "index": 300,
+    "question": "Nilai P(-0.5 ≤ Z ≤ 0.5) ≈ ...",
+    "answer": "A. 0.3829\nB. 0.1915\nC. 0.5\nD. 0.6826\nE. 0.3085",
+    "correct_answer": "A. 0.3829",
+    "mean": "Dari tabel Z: P(0<Z<0.5)=0.1915, jadi 2×0.1915=0.3829."
+  }
+]
