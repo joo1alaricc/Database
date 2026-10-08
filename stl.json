@@ -1,0 +1,1252 @@
+[
+  {
+    "index": 1,
+    "question": "Peradaban Mesopotamia berkembang di antara sungai...",
+    "answer": "Tigris dan Efrat"
+  },
+  {
+    "index": 2,
+    "question": "Peradaban Mesir Kuno berkembang di lembah sungai...",
+    "answer": "Nil"
+  },
+  {
+    "index": 3,
+    "question": "Peradaban India Kuno berkembang di lembah sungai...",
+    "answer": "Indus"
+  },
+  {
+    "index": 4,
+    "question": "Peradaban Tiongkok Kuno berkembang di lembah sungai...",
+    "answer": "Huang Ho"
+  },
+  {
+    "index": 5,
+    "question": "Bangsa yang pertama kali mengenal tulisan di Mesopotamia adalah...",
+    "answer": "Sumer"
+  },
+  {
+    "index": 6,
+    "question": "Tulisan paku di Mesopotamia disebut...",
+    "answer": "Cuneiform"
+  },
+  {
+    "index": 7,
+    "question": "Raja Babilonia yang terkenal dengan Hukum Hammurabi adalah...",
+    "answer": "Hammurabi"
+  },
+  {
+    "index": 8,
+    "question": "Bangunan ziggurat di Mesopotamia berfungsi sebagai...",
+    "answer": "Tempat pemujaan"
+  },
+  {
+    "index": 9,
+    "question": "Bangsa yang menyusun kalender matahari pertama adalah...",
+    "answer": "Mesir"
+  },
+  {
+    "index": 10,
+    "question": "Bangunan piramida di Mesir berfungsi sebagai...",
+    "answer": "Makam raja"
+  },
+  {
+    "index": 11,
+    "question": "Raja Mesir Kuno disebut...",
+    "answer": "Firaun"
+  },
+  {
+    "index": 12,
+    "question": "Tulisan Mesir Kuno berupa gambar disebut...",
+    "answer": "Hieroglif"
+  },
+  {
+    "index": 13,
+    "question": "Batu bertulis yang menjadi kunci pembaca hieroglif adalah...",
+    "answer": "Batu Rosetta"
+  },
+  {
+    "index": 14,
+    "question": "Peradaban Lembah Sungai Indus dikenal juga dengan peradaban...",
+    "answer": "Harappa dan Mohenjo-Daro"
+  },
+  {
+    "index": 15,
+    "question": "Kitab suci bangsa Arya di India adalah...",
+    "answer": "Weda"
+  },
+  {
+    "index": 16,
+    "question": "Sistem kasta di India terdiri dari...",
+    "answer": "Brahmana, Ksatria, Waisya, Sudra"
+  },
+  {
+    "index": 17,
+    "question": "Dinasti pertama di Tiongkok Kuno adalah...",
+    "answer": "Dinasti Hsia"
+  },
+  {
+    "index": 18,
+    "question": "Tembok Besar Tiongkok dibangun pada masa dinasti...",
+    "answer": "Qin"
+  },
+  {
+    "index": 19,
+    "question": "Filsuf Tiongkok yang mengajarkan Tao adalah...",
+    "answer": "Lao Tse"
+  },
+  {
+    "index": 20,
+    "question": "Filsuf Tiongkok yang mengajarkan ajaran moral dan kesusilaan adalah...",
+    "answer": "Kong Hu Cu"
+  },
+  {
+    "index": 21,
+    "question": "Peradaban Yunani Kuno berkembang di pulau...",
+    "answer": "Kreta"
+  },
+  {
+    "index": 22,
+    "question": "Kota negara di Yunani Kuno disebut...",
+    "answer": "Polis"
+  },
+  {
+    "index": 23,
+    "question": "Sistem pemerintahan Yunani yang dipimpin rakyat disebut...",
+    "answer": "Demokrasi"
+  },
+  {
+    "index": 24,
+    "question": "Kota Yunani yang terkenal dengan sistem demokrasinya adalah...",
+    "answer": "Athena"
+  },
+  {
+    "index": 25,
+    "question": "Kota Yunani yang terkenal dengan sistem militernya adalah...",
+    "answer": "Sparta"
+  },
+  {
+    "index": 26,
+    "question": "Bapak kedokteran dunia adalah...",
+    "answer": "Hippocrates"
+  },
+  {
+    "index": 27,
+    "question": "Filsuf Yunani yang terkenal dengan 'Aku tahu bahwa aku tidak tahu' adalah...",
+    "answer": "Socrates"
+  },
+  {
+    "index": 28,
+    "question": "Murid Plato yang mendirikan Lyceum adalah...",
+    "answer": "Aristoteles"
+  },
+  {
+    "index": 29,
+    "question": "Kota Romawi didirikan menurut legenda oleh...",
+    "answer": "Romulus dan Remus"
+  },
+  {
+    "index": 30,
+    "question": "Kaisar Romawi pertama adalah...",
+    "answer": "Augustus"
+  },
+  {
+    "index": 31,
+    "question": "Kaisar Romawi yang memindahkan ibu kota ke Byzantium adalah...",
+    "answer": "Konstantinus"
+  },
+  {
+    "index": 32,
+    "question": "Kaisar Romawi yang terkenal dengan pembangunan jalan dan tembok di Inggris adalah...",
+    "answer": "Hadrianus"
+  },
+  {
+    "index": 33,
+    "question": "Bahasa resmi Romawi Kuno adalah...",
+    "answer": "Latin"
+  },
+  {
+    "index": 34,
+    "question": "Kerajaan Romawi Barat runtuh pada tahun...",
+    "answer": "476 M"
+  },
+  {
+    "index": 35,
+    "question": "Kekaisaran Romawi Timur dikenal sebagai...",
+    "answer": "Bizantium"
+  },
+  {
+    "index": 36,
+    "question": "Renaissance dimulai di negara...",
+    "answer": "Italia"
+  },
+  {
+    "index": 37,
+    "question": "Renaissance berarti...",
+    "answer": "Kelahiran kembali"
+  },
+  {
+    "index": 38,
+    "question": "Pelukis terkenal Renaissance yang membuat Mona Lisa adalah...",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "index": 39,
+    "question": "Pelukis yang membuat lukisan langit-langit Kapel Sistine adalah...",
+    "answer": "Michelangelo"
+  },
+  {
+    "index": 40,
+    "question": "Penemu mesin cetak pada masa Renaissance adalah...",
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "index": 41,
+    "question": "Penulis buku 'Utopia' adalah...",
+    "answer": "Thomas More"
+  },
+  {
+    "index": 42,
+    "question": "Tokoh Renaissance yang menulis 'The Prince' adalah...",
+    "answer": "Niccolò Machiavelli"
+  },
+  {
+    "index": 43,
+    "question": "Reformasi Gereja di Eropa dipelopori oleh...",
+    "answer": "Martin Luther"
+  },
+  {
+    "index": 44,
+    "question": "Martin Luther memprotes Gereja Katolik melalui...",
+    "answer": "95 Tesis"
+  },
+  {
+    "index": 45,
+    "question": "95 Tesis Martin Luther dipasang di pintu gereja di kota...",
+    "answer": "Wittenberg"
+  },
+  {
+    "index": 46,
+    "question": "Aliran Kristen yang muncul dari Reformasi Gereja adalah...",
+    "answer": "Protestan"
+  },
+  {
+    "index": 47,
+    "question": "Tokoh Reformasi di Swiss adalah...",
+    "answer": "Yohanes Calvin"
+  },
+  {
+    "index": 48,
+    "question": "Tokoh Reformasi di Inggris adalah...",
+    "answer": "Henry VIII"
+  },
+  {
+    "index": 49,
+    "question": "Gerakan pembaruan Gereja Katolik disebut...",
+    "answer": "Kontra Reformasi"
+  },
+  {
+    "index": 50,
+    "question": "Merkantilisme adalah kebijakan ekonomi yang menekankan pada...",
+    "answer": "Ekspor lebih besar dari impor"
+  },
+  {
+    "index": 51,
+    "question": "Tujuan utama merkantilisme adalah...",
+    "answer": "Menumpuk kekayaan logam mulia"
+  },
+  {
+    "index": 52,
+    "question": "Negara yang pertama kali menerapkan merkantilisme adalah...",
+    "answer": "Inggris"
+  },
+  {
+    "index": 53,
+    "question": "Perusahaan dagang Belanda yang dibentuk tahun 1602 adalah...",
+    "answer": "VOC"
+  },
+  {
+    "index": 54,
+    "question": "Perusahaan dagang Inggris di India adalah...",
+    "answer": "East India Company"
+  },
+  {
+    "index": 55,
+    "question": "Aufklärung adalah gerakan...",
+    "answer": "Pencerahan"
+  },
+  {
+    "index": 56,
+    "question": "Tokoh Aufklärung yang menulis 'Du Contract Social' adalah...",
+    "answer": "Rousseau"
+  },
+  {
+    "index": 57,
+    "question": "Tokoh Aufklärung yang mengemukakan pemisahan kekuasaan adalah...",
+    "answer": "Montesquieu"
+  },
+  {
+    "index": 58,
+    "question": "Tokoh Aufklärung dari Inggris yang menulis 'Leviathan' adalah...",
+    "answer": "Thomas Hobbes"
+  },
+  {
+    "index": 59,
+    "question": "Tokoh Aufklärung yang terkenal dengan 'Cogito Ergo Sum' adalah...",
+    "answer": "Descartes"
+  },
+  {
+    "index": 60,
+    "question": "Revolusi Industri pertama kali terjadi di negara...",
+    "answer": "Inggris"
+  },
+  {
+    "index": 61,
+    "question": "Penemu mesin uap yang mendorong Revolusi Industri adalah...",
+    "answer": "James Watt"
+  },
+  {
+    "index": 62,
+    "question": "Penemu mesin tenun yang mempercepat produksi tekstil adalah...",
+    "answer": "Edmund Cartwright"
+  },
+  {
+    "index": 63,
+    "question": "Penemu kapal uap adalah...",
+    "answer": "Robert Fulton"
+  },
+  {
+    "index": 64,
+    "question": "Penemu kereta api uap adalah...",
+    "answer": "George Stephenson"
+  },
+  {
+    "index": 65,
+    "question": "Revolusi Industri I terjadi pada abad...",
+    "answer": "Ke-18"
+  },
+  {
+    "index": 66,
+    "question": "Revolusi Industri II terjadi pada abad...",
+    "answer": "Ke-19 hingga ke-20"
+  },
+  {
+    "index": 67,
+    "question": "Penemu bola lampu adalah...",
+    "answer": "Thomas Alva Edison"
+  },
+  {
+    "index": 68,
+    "question": "Penemu telepon adalah...",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "index": 69,
+    "question": "Penemu radio adalah...",
+    "answer": "Guglielmo Marconi"
+  },
+  {
+    "index": 70,
+    "question": "Dampak negatif Revolusi Industri bagi pekerja adalah...",
+    "answer": "Munculnya kaum buruh yang dieksploitasi"
+  },
+  {
+    "index": 71,
+    "question": "Revolusi Amerika dipicu oleh kebijakan Inggris berupa...",
+    "answer": "Pajak tanpa perwakilan"
+  },
+  {
+    "index": 72,
+    "question": "Semboyan Revolusi Amerika adalah...",
+    "answer": "No Taxation Without Representation"
+  },
+  {
+    "index": 73,
+    "question": "Peristiwa 'Tea Party' terjadi di kota...",
+    "answer": "Boston"
+  },
+  {
+    "index": 74,
+    "question": "Deklarasi Kemerdekaan Amerika disusun oleh...",
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "index": 75,
+    "question": "Deklarasi Kemerdekaan Amerika diproklamasikan pada tanggal...",
+    "answer": "4 Juli 1776"
+  },
+  {
+    "index": 76,
+    "question": "Panglima perang Amerika dalam Revolusi Amerika adalah...",
+    "answer": "George Washington"
+  },
+  {
+    "index": 77,
+    "question": "Perjanjian yang mengakhiri Revolusi Amerika adalah...",
+    "answer": "Perjanjian Paris"
+  },
+  {
+    "index": 78,
+    "question": "Revolusi Prancis dimulai pada tanggal...",
+    "answer": "14 Juli 1789"
+  },
+  {
+    "index": 79,
+    "question": "Peristiwa yang memulai Revolusi Prancis adalah...",
+    "answer": "Penyerangan Penjara Bastille"
+  },
+  {
+    "index": 80,
+    "question": "Semboyan Revolusi Prancis adalah...",
+    "answer": "Liberté, Égalité, Fraternité"
+  },
+  {
+    "index": 81,
+    "question": "Raja Prancis yang dihukum mati dalam Revolusi Prancis adalah...",
+    "answer": "Louis XVI"
+  },
+  {
+    "index": 82,
+    "question": "Pemimpin Revolusi Prancis yang berkuasa setelah revolusi adalah...",
+    "answer": "Napoleon Bonaparte"
+  },
+  {
+    "index": 83,
+    "question": "Napoleon Bonaparte dikalahkan pada Pertempuran...",
+    "answer": "Waterloo"
+  },
+  {
+    "index": 84,
+    "question": "Revolusi Tiongkok 1911 dipimpin oleh...",
+    "answer": "Sun Yat Sen"
+  },
+  {
+    "index": 85,
+    "question": "Sun Yat Sen mendirikan partai...",
+    "answer": "Kuomintang"
+  },
+  {
+    "index": 86,
+    "question": "Revolusi Tiongkok berhasil menggulingkan dinasti...",
+    "answer": "Qing"
+  },
+  {
+    "index": 87,
+    "question": "Revolusi Bolshevik di Rusia terjadi pada tahun...",
+    "answer": "1917"
+  },
+  {
+    "index": 88,
+    "question": "Pemimpin Revolusi Bolshevik adalah...",
+    "answer": "Vladimir Lenin"
+  },
+  {
+    "index": 89,
+    "question": "Revolusi Bolshevik mengakhiri pemerintahan...",
+    "answer": "Tsar Nicholas II"
+  },
+  {
+    "index": 90,
+    "question": "Negara yang lahir dari Revolusi Bolshevik adalah...",
+    "answer": "Uni Soviet"
+  },
+  {
+    "index": 91,
+    "question": "Pengaruh Revolusi Rusia bagi Indonesia adalah...",
+    "answer": "Menginspirasi gerakan komunis dan nasionalis"
+  },
+  {
+    "index": 92,
+    "question": "Perang Dunia I berlangsung pada tahun...",
+    "answer": "1914-1918"
+  },
+  {
+    "index": 93,
+    "question": "Peristiwa yang memicu Perang Dunia I adalah...",
+    "answer": "Pembunuhan Franz Ferdinand"
+  },
+  {
+    "index": 94,
+    "question": "Franz Ferdinand dibunuh di kota...",
+    "answer": "Sarajevo"
+  },
+  {
+    "index": 95,
+    "question": "Pembunuh Franz Ferdinand bernama...",
+    "answer": "Gavrilo Princip"
+  },
+  {
+    "index": 96,
+    "question": "Blok sentral dalam Perang Dunia I terdiri dari...",
+    "answer": "Jerman, Austria-Hongaria, Turki Utsmani"
+  },
+  {
+    "index": 97,
+    "question": "Blok sekutu dalam Perang Dunia I terdiri dari...",
+    "answer": "Inggris, Prancis, Rusia, Amerika Serikat"
+  },
+  {
+    "index": 98,
+    "question": "Perjanjian yang mengakhiri Perang Dunia I adalah...",
+    "answer": "Perjanjian Versailles"
+  },
+  {
+    "index": 99,
+    "question": "Perjanjian Versailles ditandatangani pada tahun...",
+    "answer": "1919"
+  },
+  {
+    "index": 100,
+    "question": "Liga Bangsa-Bangsa (LBB) dibentuk pada tahun...",
+    "answer": "1920"
+  },
+  {
+    "index": 101,
+    "question": "Tujuan utama LBB adalah...",
+    "answer": "Menjaga perdamaian dunia"
+  },
+  {
+    "index": 102,
+    "question": "LBB gagal mencegah Perang Dunia II karena...",
+    "answer": "Tidak memiliki kekuatan militer"
+  },
+  {
+    "index": 103,
+    "question": "Negara yang tidak bergabung dengan LBB adalah...",
+    "answer": "Amerika Serikat"
+  },
+  {
+    "index": 104,
+    "question": "Krisis ekonomi dunia terjadi pada tahun...",
+    "answer": "1929"
+  },
+  {
+    "index": 105,
+    "question": "Krisis ekonomi dunia 1929 dikenal dengan...",
+    "answer": "Malaise"
+  },
+  {
+    "index": 106,
+    "question": "Krisis Malaise berdampak besar bagi Indonesia berupa...",
+    "answer": "Kemiskinan dan pengangguran"
+  },
+  {
+    "index": 107,
+    "question": "Fasisme di Italia dipimpin oleh...",
+    "answer": "Mussolini"
+  },
+  {
+    "index": 108,
+    "question": "Nazisme di Jerman dipimpin oleh...",
+    "answer": "Adolf Hitler"
+  },
+  {
+    "index": 109,
+    "question": "Partai Nazi berkuasa di Jerman pada tahun...",
+    "answer": "1933"
+  },
+  {
+    "index": 110,
+    "question": "Perang Dunia II di Eropa dimulai pada tanggal...",
+    "answer": "1 September 1939"
+  },
+  {
+    "index": 111,
+    "question": "Peristiwa yang memulai Perang Dunia II di Eropa adalah...",
+    "answer": "Invasi Jerman ke Polandia"
+  },
+  {
+    "index": 112,
+    "question": "Perang Dunia II di Asia Pasifik dipicu oleh...",
+    "answer": "Serangan Jepang ke Pearl Harbor"
+  },
+  {
+    "index": 113,
+    "question": "Pearl Harbor diserang Jepang pada tanggal...",
+    "answer": "7 Desember 1941"
+  },
+  {
+    "index": 114,
+    "question": "Blok Poros dalam Perang Dunia II terdiri dari...",
+    "answer": "Jerman, Italia, Jepang"
+  },
+  {
+    "index": 115,
+    "question": "Blok Sekutu dalam Perang Dunia II terdiri dari...",
+    "answer": "Amerika Serikat, Inggris, Uni Soviet"
+  },
+  {
+    "index": 116,
+    "question": "Jerman menyerah kepada Sekutu pada tanggal...",
+    "answer": "8 Mei 1945"
+  },
+  {
+    "index": 117,
+    "question": "Hari kemenangan Sekutu di Eropa disebut...",
+    "answer": "VE Day"
+  },
+  {
+    "index": 118,
+    "question": "Bom atom pertama dijatuhkan di kota...",
+    "answer": "Hiroshima"
+  },
+  {
+    "index": 119,
+    "question": "Bom atom di Hiroshima dijatuhkan pada tanggal...",
+    "answer": "6 Agustus 1945"
+  },
+  {
+    "index": 120,
+    "question": "Bom atom di Nagasaki dijatuhkan pada tanggal...",
+    "answer": "9 Agustus 1945"
+  },
+  {
+    "index": 121,
+    "question": "Jepang menyerah kepada Sekutu pada tanggal...",
+    "answer": "15 Agustus 1945"
+  },
+  {
+    "index": 122,
+    "question": "PBB didirikan pada tanggal...",
+    "answer": "24 Oktober 1945"
+  },
+  {
+    "index": 123,
+    "question": "Piagam Atlantik ditandatangani oleh...",
+    "answer": "Roosevelt dan Churchill"
+  },
+  {
+    "index": 124,
+    "question": "Markas besar PBB berkedudukan di...",
+    "answer": "New York"
+  },
+  {
+    "index": 125,
+    "question": "Lembaga PBB yang bertugas menjaga perdamaian adalah...",
+    "answer": "Dewan Keamanan"
+  },
+  {
+    "index": 126,
+    "question": "Anggota tetap Dewan Keamanan PBB adalah...",
+    "answer": "AS, Inggris, Prancis, Rusia, Tiongkok"
+  },
+  {
+    "index": 127,
+    "question": "Perang Dingin terjadi antara...",
+    "answer": "Amerika Serikat dan Uni Soviet"
+  },
+  {
+    "index": 128,
+    "question": "Perang Dingin berlangsung pada tahun...",
+    "answer": "1947-1991"
+  },
+  {
+    "index": 129,
+    "question": "Blok Barat dipimpin oleh...",
+    "answer": "Amerika Serikat"
+  },
+  {
+    "index": 130,
+    "question": "Blok Timur dipimpin oleh...",
+    "answer": "Uni Soviet"
+  },
+  {
+    "index": 131,
+    "question": "Ideologi Blok Barat adalah...",
+    "answer": "Kapitalisme dan demokrasi liberal"
+  },
+  {
+    "index": 132,
+    "question": "Ideologi Blok Timur adalah...",
+    "answer": "Komunisme dan sosialisme"
+  },
+  {
+    "index": 133,
+    "question": "Pakta pertahanan Blok Barat adalah...",
+    "answer": "NATO"
+  },
+  {
+    "index": 134,
+    "question": "Pakta pertahanan Blok Timur adalah...",
+    "answer": "Pakta Warsawa"
+  },
+  {
+    "index": 135,
+    "question": "NATO didirikan pada tahun...",
+    "answer": "1949"
+  },
+  {
+    "index": 136,
+    "question": "Pakta Warsawa didirikan pada tahun...",
+    "answer": "1955"
+  },
+  {
+    "index": 137,
+    "question": "Perlombaan senjata nuklir terjadi antara...",
+    "answer": "AS dan Uni Soviet"
+  },
+  {
+    "index": 138,
+    "question": "Perang Korea terjadi pada tahun...",
+    "answer": "1950-1953"
+  },
+  {
+    "index": 139,
+    "question": "Perang Vietnam terjadi antara...",
+    "answer": "Vietnam Utara dan Vietnam Selatan"
+  },
+  {
+    "index": 140,
+    "question": "Krisis Rudal Kuba terjadi pada tahun...",
+    "answer": "1962"
+  },
+  {
+    "index": 141,
+    "question": "Tembok Berlin dibangun pada tahun...",
+    "answer": "1961"
+  },
+  {
+    "index": 142,
+    "question": "Tembok Berlin runtuh pada tahun...",
+    "answer": "1989"
+  },
+  {
+    "index": 143,
+    "question": "Uni Soviet bubar pada tahun...",
+    "answer": "1991"
+  },
+  {
+    "index": 144,
+    "question": "Pemimpin Uni Soviet yang melakukan glasnost dan perestroika adalah...",
+    "answer": "Mikhail Gorbachev"
+  },
+  {
+    "index": 145,
+    "question": "Glasnost berarti...",
+    "answer": "Keterbukaan"
+  },
+  {
+    "index": 146,
+    "question": "Perestroika berarti...",
+    "answer": "Restrukturisasi"
+  },
+  {
+    "index": 147,
+    "question": "Negara terakhir yang keluar dari Uni Soviet adalah...",
+    "answer": "Kazakhstan"
+  },
+  {
+    "index": 148,
+    "question": "Runtuhnya Uni Soviet menandai berakhirnya...",
+    "answer": "Perang Dingin"
+  },
+  {
+    "index": 149,
+    "question": "Konflik Arab-Israel dimulai pada tahun...",
+    "answer": "1948"
+  },
+  {
+    "index": 150,
+    "question": "Negara Israel diproklamasikan pada tanggal...",
+    "answer": "14 Mei 1948"
+  },
+  {
+    "index": 151,
+    "question": "Perang Enam Hari terjadi pada tahun...",
+    "answer": "1967"
+  },
+  {
+    "index": 152,
+    "question": "Perang Yom Kippur terjadi pada tahun...",
+    "answer": "1973"
+  },
+  {
+    "index": 153,
+    "question": "Intifada adalah...",
+    "answer": "Pemberontakan rakyat Palestina"
+  },
+  {
+    "index": 154,
+    "question": "Perjanjian Camp David ditandatangani oleh...",
+    "answer": "Mesir dan Israel"
+  },
+  {
+    "index": 155,
+    "question": "Revolusi Iran terjadi pada tahun...",
+    "answer": "1979"
+  },
+  {
+    "index": 156,
+    "question": "Pemimpin Revolusi Iran adalah...",
+    "answer": "Ayatollah Khomeini"
+  },
+  {
+    "index": 157,
+    "question": "Perang Iran-Irak terjadi pada tahun...",
+    "answer": "1980-1988"
+  },
+  {
+    "index": 158,
+    "question": "Perang Teluk I terjadi pada tahun...",
+    "answer": "1991"
+  },
+  {
+    "index": 159,
+    "question": "Perang Teluk II (Invasi Irak) terjadi pada tahun...",
+    "answer": "2003"
+  },
+  {
+    "index": 160,
+    "question": "Arab Spring dimulai pada tahun...",
+    "answer": "2010"
+  },
+  {
+    "index": 161,
+    "question": "Negara pertama yang mengalami Arab Spring adalah...",
+    "answer": "Tunisia"
+  },
+  {
+    "index": 162,
+    "question": "Presiden Mesir yang jatuh akibat Arab Spring adalah...",
+    "answer": "Hosni Mubarak"
+  },
+  {
+    "index": 163,
+    "question": "Presiden Libya yang tewas dalam Arab Spring adalah...",
+    "answer": "Muammar Gaddafi"
+  },
+  {
+    "index": 164,
+    "question": "Perang Saudara Suriah dimulai pada tahun...",
+    "answer": "2011"
+  },
+  {
+    "index": 165,
+    "question": "Konflik di Ukraina dimulai pada tahun...",
+    "answer": "2014"
+  },
+  {
+    "index": 166,
+    "question": "Konflik Israel-Palestina hingga kini berpusat di...",
+    "answer": "Jalur Gaza"
+  },
+  {
+    "index": 167,
+    "question": "Organisasi OPEC didirikan pada tahun...",
+    "answer": "1960"
+  },
+  {
+    "index": 168,
+    "question": "OPEC berkedudukan di...",
+    "answer": "Wina"
+  },
+  {
+    "index": 169,
+    "question": "Tujuan OPEC adalah...",
+    "answer": "Mengatur produksi dan harga minyak"
+  },
+  {
+    "index": 170,
+    "question": "Negara pendiri OPEC adalah...",
+    "answer": "Arab Saudi, Irak, Iran, Kuwait, Venezuela"
+  },
+  {
+    "index": 171,
+    "question": "Krisis minyak dunia terjadi pada tahun...",
+    "answer": "1973"
+  },
+  {
+    "index": 172,
+    "question": "WTO didirikan pada tahun...",
+    "answer": "1995"
+  },
+  {
+    "index": 173,
+    "question": "WTO menggantikan organisasi...",
+    "answer": "GATT"
+  },
+  {
+    "index": 174,
+    "question": "Tujuan utama WTO adalah...",
+    "answer": "Mengatur perdagangan internasional"
+  },
+  {
+    "index": 175,
+    "question": "BRICS dibentuk pada tahun...",
+    "answer": "2009"
+  },
+  {
+    "index": 176,
+    "question": "Negara pendiri BRICS adalah...",
+    "answer": "Brasil, Rusia, India, Tiongkok, Afrika Selatan"
+  },
+  {
+    "index": 177,
+    "question": "Tujuan utama BRICS adalah...",
+    "answer": "Kerja sama ekonomi negara berkembang"
+  },
+  {
+    "index": 178,
+    "question": "ASEAN didirikan pada tanggal...",
+    "answer": "8 Agustus 1967"
+  },
+  {
+    "index": 179,
+    "question": "ASEAN didirikan di kota...",
+    "answer": "Bangkok"
+  },
+  {
+    "index": 180,
+    "question": "Pendiri ASEAN dari Indonesia adalah...",
+    "answer": "Adam Malik"
+  },
+  {
+    "index": 181,
+    "question": "Deklarasi Bangkok ditandatangani oleh...",
+    "answer": "5 menteri luar negeri"
+  },
+  {
+    "index": 182,
+    "question": "Sekretariat ASEAN berkedudukan di...",
+    "answer": "Jakarta"
+  },
+  {
+    "index": 183,
+    "question": "Negara ASEAN yang pertama bergabung setelah lima pendiri adalah...",
+    "answer": "Brunei Darussalam"
+  },
+  {
+    "index": 184,
+    "question": "AFTA adalah kawasan perdagangan bebas...",
+    "answer": "ASEAN"
+  },
+  {
+    "index": 185,
+    "question": "Masyarakat Ekonomi ASEAN diberlakukan pada tahun...",
+    "answer": "2015"
+  },
+  {
+    "index": 186,
+    "question": "Konferensi Asia-Afrika diadakan di...",
+    "answer": "Bandung"
+  },
+  {
+    "index": 187,
+    "question": "Konferensi Asia-Afrika diadakan pada tahun...",
+    "answer": "1955"
+  },
+  {
+    "index": 188,
+    "question": "Dasasila Bandung berisi...",
+    "answer": "10 prinsip perdamaian"
+  },
+  {
+    "index": 189,
+    "question": "GNB didirikan pada tahun...",
+    "answer": "1961"
+  },
+  {
+    "index": 190,
+    "question": "Pendiri GNB dari Indonesia adalah...",
+    "answer": "Soekarno"
+  },
+  {
+    "index": 191,
+    "question": "Gerakan Non-Blok bertujuan...",
+    "answer": "Tidak memihak blok Barat atau Timur"
+  },
+  {
+    "index": 192,
+    "question": "APEC didirikan pada tahun...",
+    "answer": "1989"
+  },
+  {
+    "index": 193,
+    "question": "APEC beranggotakan negara di kawasan...",
+    "answer": "Asia Pasifik"
+  },
+  {
+    "index": 194,
+    "question": "Peristiwa 11 September 2001 terjadi di...",
+    "answer": "Amerika Serikat"
+  },
+  {
+    "index": 195,
+    "question": "Peristiwa 9/11 menyerang...",
+    "answer": "Menara Kembar WTC"
+  },
+  {
+    "index": 196,
+    "question": "Perang melawan terorisme dipimpin oleh...",
+    "answer": "Amerika Serikat"
+  },
+  {
+    "index": 197,
+    "question": "Krisis finansial global terjadi pada tahun...",
+    "answer": "2008"
+  },
+  {
+    "index": 198,
+    "question": "Pandemi COVID-19 pertama kali muncul di kota...",
+    "answer": "Wuhan"
+  },
+  {
+    "index": 199,
+    "question": "Pandemi COVID-19 dinyatakan sebagai pandemi global pada tahun...",
+    "answer": "2020"
+  },
+  {
+    "index": 200,
+    "question": "Perubahan iklim menjadi isu global yang dibahas dalam...",
+    "answer": "Protokol Kyoto dan Perjanjian Paris"
+  },
+  {
+    "index": 201,
+    "question": "Perjanjian Paris tentang iklim disepakati pada tahun...",
+    "answer": "2015"
+  },
+  {
+    "index": 202,
+    "question": "Revolusi Industri menyebabkan munculnya kelas sosial baru yaitu...",
+    "answer": "Kaum buruh"
+  },
+  {
+    "index": 203,
+    "question": "Revolusi Industri mendorong munculnya ideologi...",
+    "answer": "Kapitalisme dan sosialisme"
+  },
+  {
+    "index": 204,
+    "question": "Penulis buku 'Das Kapital' adalah...",
+    "answer": "Karl Marx"
+  },
+  {
+    "index": 205,
+    "question": "Penulis buku 'The Wealth of Nations' adalah...",
+    "answer": "Adam Smith"
+  },
+  {
+    "index": 206,
+    "question": "Paham yang mengutamakan kebebasan individu adalah...",
+    "answer": "Liberalisme"
+  },
+  {
+    "index": 207,
+    "question": "Paham yang mengutamakan kepentingan negara di atas individu adalah...",
+    "answer": "Fasisme"
+  },
+  {
+    "index": 208,
+    "question": "Paham yang menghendaki kepemilikan bersama disebut...",
+    "answer": "Komunisme"
+  },
+  {
+    "index": 209,
+    "question": "Paham yang menginginkan pemerintahan berdasarkan agama disebut...",
+    "answer": "Teokrasi"
+  },
+  {
+    "index": 210,
+    "question": "Perang Dunia I menyebabkan runtuhnya kekaisaran...",
+    "answer": "Utsmani, Austria-Hongaria, Rusia"
+  },
+  {
+    "index": 211,
+    "question": "Negara baru yang muncul setelah Perang Dunia I adalah...",
+    "answer": "Polandia, Cekoslowakia, Yugoslavia"
+  },
+  {
+    "index": 212,
+    "question": "Perang Dunia II menyebabkan munculnya dua kekuatan besar yaitu...",
+    "answer": "Amerika Serikat dan Uni Soviet"
+  },
+  {
+    "index": 213,
+    "question": "Dekolonisasi terjadi setelah...",
+    "answer": "Perang Dunia II"
+  },
+  {
+    "index": 214,
+    "question": "Negara Asia pertama yang merdeka setelah PD II adalah...",
+    "answer": "Indonesia"
+  },
+  {
+    "index": 215,
+    "question": "Indonesia memproklamasikan kemerdekaan pada tanggal...",
+    "answer": "17 Agustus 1945"
+  },
+  {
+    "index": 216,
+    "question": "Pengaruh Revolusi Prancis terhadap Indonesia adalah...",
+    "answer": "Menginspirasi semangat nasionalisme"
+  },
+  {
+    "index": 217,
+    "question": "Pengaruh Revolusi Amerika terhadap Indonesia adalah...",
+    "answer": "Menginspirasi kemerdekaan"
+  },
+  {
+    "index": 218,
+    "question": "Pengaruh Revolusi Rusia terhadap Indonesia adalah...",
+    "answer": "Munculnya gerakan komunis"
+  },
+  {
+    "index": 219,
+    "question": "Pengaruh Revolusi Tiongkok terhadap Indonesia adalah...",
+    "answer": "Menginspirasi gerakan nasionalis"
+  },
+  {
+    "index": 220,
+    "question": "Pengaruh Revolusi Industri terhadap Indonesia adalah...",
+    "answer": "Munculnya industri dan transportasi modern"
+  },
+  {
+    "index": 221,
+    "question": "Renaissance memengaruhi Indonesia melalui...",
+    "answer": "Pendidikan dan ilmu pengetahuan"
+  },
+  {
+    "index": 222,
+    "question": "Reformasi Gereja memengaruhi Indonesia melalui...",
+    "answer": "Penyebaran agama Kristen"
+  },
+  {
+    "index": 223,
+    "question": "Aufklärung memengaruhi Indonesia melalui...",
+    "answer": "Pemikiran kebangsaan"
+  },
+  {
+    "index": 224,
+    "question": "Merkantilisme memengaruhi Indonesia melalui...",
+    "answer": "Kedatangan bangsa Eropa"
+  },
+  {
+    "index": 225,
+    "question": "Perang Dingin memengaruhi Indonesia melalui...",
+    "answer": "Politik luar negeri bebas aktif"
+  },
+  {
+    "index": 226,
+    "question": "Runtuhnya Uni Soviet berdampak bagi Indonesia berupa...",
+    "answer": "Akhir Perang Dingin dan perubahan politik global"
+  },
+  {
+    "index": 227,
+    "question": "Globalisasi adalah...",
+    "answer": "Proses integrasi dunia"
+  },
+  {
+    "index": 228,
+    "question": "Dampak positif globalisasi adalah...",
+    "answer": "Kemajuan teknologi dan komunikasi"
+  },
+  {
+    "index": 229,
+    "question": "Dampak negatif globalisasi adalah...",
+    "answer": "Hilangnya budaya lokal"
+  },
+  {
+    "index": 230,
+    "question": "Revolusi digital terjadi pada abad...",
+    "answer": "Ke-20 hingga ke-21"
+  },
+  {
+    "index": 231,
+    "question": "Penemu internet adalah...",
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "index": 232,
+    "question": "Penemu komputer pertama adalah...",
+    "answer": "Charles Babbage"
+  },
+  {
+    "index": 233,
+    "question": "Penemu pesawat terbang adalah...",
+    "answer": "Wright Bersaudara"
+  },
+  {
+    "index": 234,
+    "question": "Penemu mobil adalah...",
+    "answer": "Karl Benz"
+  },
+  {
+    "index": 235,
+    "question": "Penemu televisi adalah...",
+    "answer": "John Logie Baird"
+  },
+  {
+    "index": 236,
+    "question": "Peristiwa Chernobyl terjadi pada tahun...",
+    "answer": "1986"
+  },
+  {
+    "index": 237,
+    "question": "Peristiwa Fukushima terjadi pada tahun...",
+    "answer": "2011"
+  },
+  {
+    "index": 238,
+    "question": "Reunifikasi Jerman terjadi pada tahun...",
+    "answer": "1990"
+  },
+  {
+    "index": 239,
+    "question": "Revolusi Tunisia 2011 menyebabkan jatuhnya...",
+    "answer": "Presiden Ben Ali"
+  },
+  {
+    "index": 240,
+    "question": "Perang Saudara Yaman dimulai pada tahun...",
+    "answer": "2014"
+  },
+  {
+    "index": 241,
+    "question": "Konflik Nagorno-Karabakh terjadi antara...",
+    "answer": "Armenia dan Azerbaijan"
+  },
+  {
+    "index": 242,
+    "question": "Perang Rusia-Ukraina dimulai pada tahun...",
+    "answer": "2022"
+  },
+  {
+    "index": 243,
+    "question": "Konflik Taiwan melibatkan...",
+    "answer": "Tiongkok dan Taiwan"
+  },
+  {
+    "index": 244,
+    "question": "Revolusi 4.0 ditandai dengan...",
+    "answer": "Kecerdasan buatan dan IoT"
+  },
+  {
+    "index": 245,
+    "question": "Perjanjian NAFTA adalah kerja sama ekonomi di kawasan...",
+    "answer": "Amerika Utara"
+  },
+  {
+    "index": 246,
+    "question": "Uni Eropa dibentuk pada tahun...",
+    "answer": "1993"
+  },
+  {
+    "index": 247,
+    "question": "Mata uang Uni Eropa adalah...",
+    "answer": "Euro"
+  },
+  {
+    "index": 248,
+    "question": "Brexit adalah keluarnya Inggris dari...",
+    "answer": "Uni Eropa"
+  },
+  {
+    "index": 249,
+    "question": "Brexit terjadi pada tahun...",
+    "answer": "2020"
+  },
+  {
+    "index": 250,
+    "question": "Tujuan utama organisasi internasional adalah...",
+    "answer": "Kerja sama dan perdamaian dunia"
+  }
+]
