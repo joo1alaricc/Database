@@ -1,0 +1,1502 @@
+[
+  {
+    "index": 1,
+    "question": "Revolusi Industri 4.0 ditandai dengan munculnya teknologi...",
+    "answer": "Internet of Things, AI, dan Big Data"
+  },
+  {
+    "index": 2,
+    "question": "Internet of Things (IoT) adalah...",
+    "answer": "Jaringan perangkat fisik yang terhubung ke internet"
+  },
+  {
+    "index": 3,
+    "question": "Contoh penerapan IoT dalam kehidupan sehari-hari adalah...",
+    "answer": "Smart home dan smart city"
+  },
+  {
+    "index": 4,
+    "question": "Big Data memiliki tiga karakteristik utama yang disebut...",
+    "answer": "3V: Volume, Velocity, Variety"
+  },
+  {
+    "index": 5,
+    "question": "Volume dalam Big Data berarti...",
+    "answer": "Jumlah data yang sangat besar"
+  },
+  {
+    "index": 6,
+    "question": "Velocity dalam Big Data berarti...",
+    "answer": "Kecepatan data dihasilkan dan diproses"
+  },
+  {
+    "index": 7,
+    "question": "Variety dalam Big Data berarti...",
+    "answer": "Keragaman jenis data"
+  },
+  {
+    "index": 8,
+    "question": "Karakteristik keempat Big Data yang sering ditambahkan adalah...",
+    "answer": "Veracity (kebenaran data)"
+  },
+  {
+    "index": 9,
+    "question": "Artificial Intelligence (AI) adalah...",
+    "answer": "Kecerdasan buatan yang meniru kemampuan manusia"
+  },
+  {
+    "index": 10,
+    "question": "Cabang AI yang mempelajari pembelajaran mesin adalah...",
+    "answer": "Machine Learning"
+  },
+  {
+    "index": 11,
+    "question": "Machine Learning adalah...",
+    "answer": "Sistem yang belajar dari data tanpa diprogram eksplisit"
+  },
+  {
+    "index": 12,
+    "question": "Deep Learning adalah...",
+    "answer": "Machine learning dengan jaringan saraf berlapis banyak"
+  },
+  {
+    "index": 13,
+    "question": "Contoh penerapan AI di bidang kesehatan adalah...",
+    "answer": "Deteksi penyakit melalui citra medis"
+  },
+  {
+    "index": 14,
+    "question": "Contoh penerapan AI di bidang pertanian adalah...",
+    "answer": "Prediksi cuaca dan hama tanaman"
+  },
+  {
+    "index": 15,
+    "question": "Cloud Computing adalah...",
+    "answer": "Layanan komputasi melalui internet"
+  },
+  {
+    "index": 16,
+    "question": "Contoh layanan Cloud Computing adalah...",
+    "answer": "Google Drive, AWS, Azure"
+  },
+  {
+    "index": 17,
+    "question": "Jenis layanan cloud yang menyediakan infrastruktur adalah...",
+    "answer": "IaaS (Infrastructure as a Service)"
+  },
+  {
+    "index": 18,
+    "question": "Jenis layanan cloud yang menyediakan platform adalah...",
+    "answer": "PaaS (Platform as a Service)"
+  },
+  {
+    "index": 19,
+    "question": "Jenis layanan cloud yang menyediakan software adalah...",
+    "answer": "SaaS (Software as a Service)"
+  },
+  {
+    "index": 20,
+    "question": "Keuntungan Cloud Computing adalah...",
+    "answer": "Fleksibilitas dan hemat biaya"
+  },
+  {
+    "index": 21,
+    "question": "Cybersecurity adalah...",
+    "answer": "Upaya melindungi sistem dari serangan siber"
+  },
+  {
+    "index": 22,
+    "question": "Contoh ancaman siber adalah...",
+    "answer": "Malware, phishing, dan ransomware"
+  },
+  {
+    "index": 23,
+    "question": "Phishing adalah...",
+    "answer": "Penipuan untuk mencuri data pribadi"
+  },
+  {
+    "index": 24,
+    "question": "Ransomware adalah...",
+    "answer": "Malware yang meminta tebusan"
+  },
+  {
+    "index": 25,
+    "question": "Firewall berfungsi untuk...",
+    "answer": "Menyaring lalu lintas jaringan"
+  },
+  {
+    "index": 26,
+    "question": "Enkripsi adalah...",
+    "answer": "Proses mengubah data menjadi kode rahasia"
+  },
+  {
+    "index": 27,
+    "question": "Autentikasi dua faktor adalah...",
+    "answer": "Verifikasi dengan dua metode berbeda"
+  },
+  {
+    "index": 28,
+    "question": "CPU adalah singkatan dari...",
+    "answer": "Central Processing Unit"
+  },
+  {
+    "index": 29,
+    "question": "CPU terdiri dari...",
+    "answer": "ALU, Control Unit, dan Register"
+  },
+  {
+    "index": 30,
+    "question": "ALU adalah singkatan dari...",
+    "answer": "Arithmetic Logic Unit"
+  },
+  {
+    "index": 31,
+    "question": "Fungsi ALU adalah...",
+    "answer": "Melakukan operasi aritmatika dan logika"
+  },
+  {
+    "index": 32,
+    "question": "Fungsi Control Unit adalah...",
+    "answer": "Mengatur jalannya instruksi"
+  },
+  {
+    "index": 33,
+    "question": "Register adalah...",
+    "answer": "Memori kecil berkecepatan tinggi di CPU"
+  },
+  {
+    "index": 34,
+    "question": "Siklus instruksi CPU terdiri dari...",
+    "answer": "Fetch, Decode, Execute"
+  },
+  {
+    "index": 35,
+    "question": "RAM adalah singkatan dari...",
+    "answer": "Random Access Memory"
+  },
+  {
+    "index": 36,
+    "question": "RAM bersifat...",
+    "answer": "Volatile (hilang saat mati)"
+  },
+  {
+    "index": 37,
+    "question": "ROM adalah singkatan dari...",
+    "answer": "Read Only Memory"
+  },
+  {
+    "index": 38,
+    "question": "ROM bersifat...",
+    "answer": "Non-volatile (permanen)"
+  },
+  {
+    "index": 39,
+    "question": "Cache memory berfungsi untuk...",
+    "answer": "Mempercepat akses data"
+  },
+  {
+    "index": 40,
+    "question": "Hierarki memori dari tercepat ke terlambat adalah...",
+    "answer": "Register, Cache, RAM, Disk"
+  },
+  {
+    "index": 41,
+    "question": "Motherboard adalah...",
+    "answer": "Papan utama tempat komponen terpasang"
+  },
+  {
+    "index": 42,
+    "question": "Fungsi Power Supply adalah...",
+    "answer": "Menyediakan daya listrik"
+  },
+  {
+    "index": 43,
+    "question": "GPU adalah singkatan dari...",
+    "answer": "Graphics Processing Unit"
+  },
+  {
+    "index": 44,
+    "question": "Fungsi GPU adalah...",
+    "answer": "Memproses grafis dan komputasi paralel"
+  },
+  {
+    "index": 45,
+    "question": "Sistem operasi adalah...",
+    "answer": "Perangkat lunak yang mengelola sumber daya komputer"
+  },
+  {
+    "index": 46,
+    "question": "Contoh sistem operasi adalah...",
+    "answer": "Windows, Linux, macOS"
+  },
+  {
+    "index": 47,
+    "question": "Fungsi utama sistem operasi adalah...",
+    "answer": "Manajemen proses, memori, dan file"
+  },
+  {
+    "index": 48,
+    "question": "Kernel adalah...",
+    "answer": "Inti dari sistem operasi"
+  },
+  {
+    "index": 49,
+    "question": "Booting adalah...",
+    "answer": "Proses menyalakan komputer"
+  },
+  {
+    "index": 50,
+    "question": "BIOS adalah singkatan dari...",
+    "answer": "Basic Input Output System"
+  },
+  {
+    "index": 51,
+    "question": "Fungsi BIOS adalah...",
+    "answer": "Menginisialisasi hardware saat booting"
+  },
+  {
+    "index": 52,
+    "question": "Multitasking adalah...",
+    "answer": "Menjalankan beberapa program sekaligus"
+  },
+  {
+    "index": 53,
+    "question": "Virtual memory adalah...",
+    "answer": "Memori maya yang menggunakan disk"
+  },
+  {
+    "index": 54,
+    "question": "Device driver adalah...",
+    "answer": "Perangkat lunak pengendali hardware"
+  },
+  {
+    "index": 55,
+    "question": "File system adalah...",
+    "answer": "Cara mengorganisasi file dalam penyimpanan"
+  },
+  {
+    "index": 56,
+    "question": "Contoh file system adalah...",
+    "answer": "NTFS, FAT32, ext4"
+  },
+  {
+    "index": 57,
+    "question": "Berpikir komputasional adalah...",
+    "answer": "Cara berpikir untuk menyelesaikan masalah secara sistematis"
+  },
+  {
+    "index": 58,
+    "question": "Empat pilar berpikir komputasional adalah...",
+    "answer": "Dekomposisi, abstraksi, algoritma, pengenalan pola"
+  },
+  {
+    "index": 59,
+    "question": "Dekomposisi adalah...",
+    "answer": "Memecah masalah menjadi bagian kecil"
+  },
+  {
+    "index": 60,
+    "question": "Abstraksi adalah...",
+    "answer": "Menyaring informasi penting"
+  },
+  {
+    "index": 61,
+    "question": "Pengenalan pola adalah...",
+    "answer": "Menemukan kesamaan dalam masalah"
+  },
+  {
+    "index": 62,
+    "question": "Algoritma adalah...",
+    "answer": "Urutan langkah penyelesaian masalah"
+  },
+  {
+    "index": 63,
+    "question": "Ciri algoritma yang baik adalah...",
+    "answer": "Jelas, terbatas, dan efektif"
+  },
+  {
+    "index": 64,
+    "question": "Flowchart adalah...",
+    "answer": "Diagram alur algoritma"
+  },
+  {
+    "index": 65,
+    "question": "Pseudocode adalah...",
+    "answer": "Kode semu yang menyerupai bahasa pemrograman"
+  },
+  {
+    "index": 66,
+    "question": "Simbol belah ketupat dalam flowchart berarti...",
+    "answer": "Keputusan"
+  },
+  {
+    "index": 67,
+    "question": "Simbol persegi panjang dalam flowchart berarti...",
+    "answer": "Proses"
+  },
+  {
+    "index": 68,
+    "question": "Simbol oval dalam flowchart berarti...",
+    "answer": "Mulai atau selesai"
+  },
+  {
+    "index": 69,
+    "question": "Algoritma greedy adalah...",
+    "answer": "Mengambil pilihan terbaik saat itu juga"
+  },
+  {
+    "index": 70,
+    "question": "Contoh masalah yang diselesaikan dengan greedy adalah...",
+    "answer": "Penukaran koin"
+  },
+  {
+    "index": 71,
+    "question": "Pemrograman dinamis adalah...",
+    "answer": "Menyimpan hasil submasalah untuk efisiensi"
+  },
+  {
+    "index": 72,
+    "question": "Contoh masalah pemrograman dinamis adalah...",
+    "answer": "Fibonacci dan Knapsack"
+  },
+  {
+    "index": 73,
+    "question": "Rekursi adalah...",
+    "answer": "Fungsi yang memanggil dirinya sendiri"
+  },
+  {
+    "index": 74,
+    "question": "Basis rekursi adalah...",
+    "answer": "Kondisi berhenti rekursi"
+  },
+  {
+    "index": 75,
+    "question": "Struktur data adalah...",
+    "answer": "Cara mengorganisasi data"
+  },
+  {
+    "index": 76,
+    "question": "Array adalah...",
+    "answer": "Kumpulan data sejenis berindeks"
+  },
+  {
+    "index": 77,
+    "question": "Indeks array dimulai dari...",
+    "answer": "0"
+  },
+  {
+    "index": 78,
+    "question": "Linked list adalah...",
+    "answer": "Struktur data berisi node berantai"
+  },
+  {
+    "index": 79,
+    "question": "Stack menggunakan prinsip...",
+    "answer": "LIFO (Last In First Out)"
+  },
+  {
+    "index": 80,
+    "question": "Queue menggunakan prinsip...",
+    "answer": "FIFO (First In First Out)"
+  },
+  {
+    "index": 81,
+    "question": "Operasi push dan pop terdapat pada...",
+    "answer": "Stack"
+  },
+  {
+    "index": 82,
+    "question": "Operasi enqueue dan dequeue terdapat pada...",
+    "answer": "Queue"
+  },
+  {
+    "index": 83,
+    "question": "Tree adalah struktur data...",
+    "answer": "Hierarkis"
+  },
+  {
+    "index": 84,
+    "question": "Binary tree adalah...",
+    "answer": "Tree dengan maksimal dua anak per node"
+  },
+  {
+    "index": 85,
+    "question": "Graph adalah struktur data...",
+    "answer": "Berisi simpul dan sisi"
+  },
+  {
+    "index": 86,
+    "question": "Algoritma searching yang efisien untuk data terurut adalah...",
+    "answer": "Binary search"
+  },
+  {
+    "index": 87,
+    "question": "Algoritma searching yang paling sederhana adalah...",
+    "answer": "Linear search"
+  },
+  {
+    "index": 88,
+    "question": "Kompleksitas binary search adalah...",
+    "answer": "O(log n)"
+  },
+  {
+    "index": 89,
+    "question": "Kompleksitas linear search adalah...",
+    "answer": "O(n)"
+  },
+  {
+    "index": 90,
+    "question": "Algoritma sorting yang menggunakan divide and conquer adalah...",
+    "answer": "Merge sort"
+  },
+  {
+    "index": 91,
+    "question": "Algoritma sorting yang memilih pivot adalah...",
+    "answer": "Quick sort"
+  },
+  {
+    "index": 92,
+    "question": "Algoritma sorting paling sederhana adalah...",
+    "answer": "Bubble sort"
+  },
+  {
+    "index": 93,
+    "question": "Kompleksitas bubble sort adalah...",
+    "answer": "O(n²)"
+  },
+  {
+    "index": 94,
+    "question": "Notasi Big-O digunakan untuk...",
+    "answer": "Mengukur kompleksitas algoritma"
+  },
+  {
+    "index": 95,
+    "question": "Arduino adalah...",
+    "answer": "Mikrokontroler open source"
+  },
+  {
+    "index": 96,
+    "question": "Bahasa pemrograman Arduino berbasis...",
+    "answer": "C/C++"
+  },
+  {
+    "index": 97,
+    "question": "Fungsi setup() pada Arduino dijalankan...",
+    "answer": "Sekali saat program dimulai"
+  },
+  {
+    "index": 98,
+    "question": "Fungsi loop() pada Arduino dijalankan...",
+    "answer": "Berulang terus-menerus"
+  },
+  {
+    "index": 99,
+    "question": "Perintah untuk menyalakan LED pada Arduino adalah...",
+    "answer": "digitalWrite(HIGH)"
+  },
+  {
+    "index": 100,
+    "question": "Perintah untuk membaca sensor analog adalah...",
+    "answer": "analogRead()"
+  },
+  {
+    "index": 101,
+    "question": "Sensor suhu yang umum digunakan dengan Arduino adalah...",
+    "answer": "LM35 atau DHT11"
+  },
+  {
+    "index": 102,
+    "question": "Sensor jarak ultrasonik yang umum adalah...",
+    "answer": "HC-SR04"
+  },
+  {
+    "index": 103,
+    "question": "Array pada Arduino digunakan untuk...",
+    "answer": "Menyimpan banyak data sejenis"
+  },
+  {
+    "index": 104,
+    "question": "Pin digital pada Arduino dapat bernilai...",
+    "answer": "HIGH atau LOW"
+  },
+  {
+    "index": 105,
+    "question": "Fungsi delay() pada Arduino berfungsi untuk...",
+    "answer": "Menunda eksekusi dalam milidetik"
+  },
+  {
+    "index": 106,
+    "question": "Jaringan komputer adalah...",
+    "answer": "Kumpulan komputer yang saling terhubung"
+  },
+  {
+    "index": 107,
+    "question": "Tujuan jaringan komputer adalah...",
+    "answer": "Berbagi sumber daya dan komunikasi"
+  },
+  {
+    "index": 108,
+    "question": "LAN adalah singkatan dari...",
+    "answer": "Local Area Network"
+  },
+  {
+    "index": 109,
+    "question": "WAN adalah singkatan dari...",
+    "answer": "Wide Area Network"
+  },
+  {
+    "index": 110,
+    "question": "MAN adalah singkatan dari...",
+    "answer": "Metropolitan Area Network"
+  },
+  {
+    "index": 111,
+    "question": "Topologi star memiliki ciri...",
+    "answer": "Semua node terhubung ke switch pusat"
+  },
+  {
+    "index": 112,
+    "question": "Topologi bus memiliki ciri...",
+    "answer": "Semua node terhubung ke satu kabel utama"
+  },
+  {
+    "index": 113,
+    "question": "Topologi ring memiliki ciri...",
+    "answer": "Node terhubung membentuk lingkaran"
+  },
+  {
+    "index": 114,
+    "question": "Topologi mesh memiliki ciri...",
+    "answer": "Setiap node terhubung ke semua node"
+  },
+  {
+    "index": 115,
+    "question": "Topologi tree adalah...",
+    "answer": "Kombinasi star dan bus"
+  },
+  {
+    "index": 116,
+    "question": "Model OSI memiliki berapa lapisan...",
+    "answer": "7 lapisan"
+  },
+  {
+    "index": 117,
+    "question": "Lapisan OSI yang paling bawah adalah...",
+    "answer": "Physical"
+  },
+  {
+    "index": 118,
+    "question": "Lapisan OSI yang paling atas adalah...",
+    "answer": "Application"
+  },
+  {
+    "index": 119,
+    "question": "Fungsi lapisan Network adalah...",
+    "answer": "Routing dan pengalamatan IP"
+  },
+  {
+    "index": 120,
+    "question": "Fungsi lapisan Transport adalah...",
+    "answer": "Kontrol transmisi data end-to-end"
+  },
+  {
+    "index": 121,
+    "question": "Protokol TCP/IP adalah...",
+    "answer": "Standar komunikasi internet"
+  },
+  {
+    "index": 122,
+    "question": "Perbedaan TCP dan UDP adalah...",
+    "answer": "TCP reliable, UDP cepat tapi tidak reliable"
+  },
+  {
+    "index": 123,
+    "question": "IP address IPv4 terdiri dari...",
+    "answer": "32 bit"
+  },
+  {
+    "index": 124,
+    "question": "IP address IPv6 terdiri dari...",
+    "answer": "128 bit"
+  },
+  {
+    "index": 125,
+    "question": "Fungsi DNS adalah...",
+    "answer": "Menerjemahkan domain menjadi IP"
+  },
+  {
+    "index": 126,
+    "question": "Fungsi DHCP adalah...",
+    "answer": "Memberi IP otomatis ke perangkat"
+  },
+  {
+    "index": 127,
+    "question": "Switch bekerja pada lapisan...",
+    "answer": "Data Link"
+  },
+  {
+    "index": 128,
+    "question": "Router bekerja pada lapisan...",
+    "answer": "Network"
+  },
+  {
+    "index": 129,
+    "question": "Perangkat yang menghubungkan jaringan berbeda adalah...",
+    "answer": "Router"
+  },
+  {
+    "index": 130,
+    "question": "Access point berfungsi untuk...",
+    "answer": "Menghubungkan perangkat ke jaringan wireless"
+  },
+  {
+    "index": 131,
+    "question": "VPN adalah singkatan dari...",
+    "answer": "Virtual Private Network"
+  },
+  {
+    "index": 132,
+    "question": "Fungsi VPN adalah...",
+    "answer": "Mengamankan koneksi melalui enkripsi"
+  },
+  {
+    "index": 133,
+    "question": "Software Defined Network (SDN) adalah...",
+    "answer": "Jaringan yang dikelola lewat software"
+  },
+  {
+    "index": 134,
+    "question": "Network Function Virtualization (NFV) adalah...",
+    "answer": "Virtualisasi fungsi jaringan"
+  },
+  {
+    "index": 135,
+    "question": "Zero Trust adalah model keamanan yang...",
+    "answer": "Tidak mempercayai siapapun secara default"
+  },
+  {
+    "index": 136,
+    "question": "Man-in-the-Middle attack adalah...",
+    "answer": "Penyadapan komunikasi antara dua pihak"
+  },
+  {
+    "index": 137,
+    "question": "DDoS attack adalah...",
+    "answer": "Serangan banjir lalu lintas data"
+  },
+  {
+    "index": 138,
+    "question": "SQL Injection adalah...",
+    "answer": "Serangan melalui input database"
+  },
+  {
+    "index": 139,
+    "question": "Brute force attack adalah...",
+    "answer": "Mencoba semua kombinasi password"
+  },
+  {
+    "index": 140,
+    "question": "Social engineering adalah...",
+    "answer": "Manipulasi manusia untuk mendapat informasi"
+  },
+  {
+    "index": 141,
+    "question": "Analisis data adalah...",
+    "answer": "Proses mengolah data menjadi informasi"
+  },
+  {
+    "index": 142,
+    "question": "Tahapan analisis data adalah...",
+    "answer": "Pengumpulan, pembersihan, analisis, visualisasi"
+  },
+  {
+    "index": 143,
+    "question": "Data cleaning adalah...",
+    "answer": "Membersihkan data dari kesalahan"
+  },
+  {
+    "index": 144,
+    "question": "Data visualization adalah...",
+    "answer": "Menyajikan data dalam bentuk grafik"
+  },
+  {
+    "index": 145,
+    "question": "Contoh tools analisis data adalah...",
+    "answer": "Excel, Python, R, Tableau"
+  },
+  {
+    "index": 146,
+    "question": "Data terbuka (open data) adalah...",
+    "answer": "Data yang dapat diakses publik"
+  },
+  {
+    "index": 147,
+    "question": "Contoh sumber data terbuka adalah...",
+    "answer": "Data BPS dan Kaggle"
+  },
+  {
+    "index": 148,
+    "question": "Kesimpulan logis dari data disebut...",
+    "answer": "Inferensi"
+  },
+  {
+    "index": 149,
+    "question": "Statistik deskriptif adalah...",
+    "answer": "Ringkasan data seperti mean dan median"
+  },
+  {
+    "index": 150,
+    "question": "Mean adalah...",
+    "answer": "Rata-rata"
+  },
+  {
+    "index": 151,
+    "question": "Median adalah...",
+    "answer": "Nilai tengah"
+  },
+  {
+    "index": 152,
+    "question": "Modus adalah...",
+    "answer": "Nilai yang paling sering muncul"
+  },
+  {
+    "index": 153,
+    "question": "Data kategorikal adalah...",
+    "answer": "Data berupa label atau kategori"
+  },
+  {
+    "index": 154,
+    "question": "Data numerik adalah...",
+    "answer": "Data berupa angka"
+  },
+  {
+    "index": 155,
+    "question": "Outlier adalah...",
+    "answer": "Data yang menyimpang jauh"
+  },
+  {
+    "index": 156,
+    "question": "Korelasi adalah...",
+    "answer": "Hubungan antara dua variabel"
+  },
+  {
+    "index": 157,
+    "question": "Korelasi positif berarti...",
+    "answer": "Kenaikan satu variabel diikuti kenaikan lainnya"
+  },
+  {
+    "index": 158,
+    "question": "Korelasi negatif berarti...",
+    "answer": "Kenaikan satu variabel diikuti penurunan lainnya"
+  },
+  {
+    "index": 159,
+    "question": "Regresi linear adalah...",
+    "answer": "Model hubungan linear antar variabel"
+  },
+  {
+    "index": 160,
+    "question": "Dampak sosial informatika adalah...",
+    "answer": "Pengaruh teknologi terhadap masyarakat"
+  },
+  {
+    "index": 161,
+    "question": "Etika digital adalah...",
+    "answer": "Norma berperilaku di dunia digital"
+  },
+  {
+    "index": 162,
+    "question": "Hak kekayaan intelektual melindungi...",
+    "answer": "Karya cipta seseorang"
+  },
+  {
+    "index": 163,
+    "question": "Contoh pelanggaran HAKI adalah...",
+    "answer": "Pembajakan software"
+  },
+  {
+    "index": 164,
+    "question": "Copyright adalah...",
+    "answer": "Hak cipta atas karya"
+  },
+  {
+    "index": 165,
+    "question": "Open source software adalah...",
+    "answer": "Software dengan kode sumber terbuka"
+  },
+  {
+    "index": 166,
+    "question": "Contoh lisensi open source adalah...",
+    "answer": "MIT, GPL, Apache"
+  },
+  {
+    "index": 167,
+    "question": "Creative Commons adalah...",
+    "answer": "Lisensi karya kreatif"
+  },
+  {
+    "index": 168,
+    "question": "Digital divide adalah...",
+    "answer": "Kesenjangan akses teknologi"
+  },
+  {
+    "index": 169,
+    "question": "Cyberbullying adalah...",
+    "answer": "Perundungan di dunia maya"
+  },
+  {
+    "index": 170,
+    "question": "Hoaks adalah...",
+    "answer": "Informasi palsu"
+  },
+  {
+    "index": 171,
+    "question": "Cara memeriksa hoaks adalah...",
+    "answer": "Cek sumber dan fakta"
+  },
+  {
+    "index": 172,
+    "question": "Literasi digital adalah...",
+    "answer": "Kemampuan menggunakan teknologi digital secara bijak"
+  },
+  {
+    "index": 173,
+    "question": "Jejak digital adalah...",
+    "answer": "Rekam aktivitas online"
+  },
+  {
+    "index": 174,
+    "question": "Konsekuensi jejak digital adalah...",
+    "answer": "Dapat memengaruhi reputasi"
+  },
+  {
+    "index": 175,
+    "question": "Privasi data adalah...",
+    "answer": "Hak atas kerahasiaan data pribadi"
+  },
+  {
+    "index": 176,
+    "question": "GDPR adalah...",
+    "answer": "Regulasi perlindungan data di Eropa"
+  },
+  {
+    "index": 177,
+    "question": "UU PDP adalah...",
+    "answer": "Undang-undang Perlindungan Data Pribadi"
+  },
+  {
+    "index": 178,
+    "question": "Praktik lintas bidang adalah...",
+    "answer": "Proyek yang menggabungkan berbagai disiplin ilmu"
+  },
+  {
+    "index": 179,
+    "question": "Contoh proyek lintas bidang informatika adalah...",
+    "answer": "Sistem monitoring tanaman berbasis IoT"
+  },
+  {
+    "index": 180,
+    "question": "Tahapan pengembangan aplikasi adalah...",
+    "answer": "Perencanaan, analisis, desain, implementasi, testing"
+  },
+  {
+    "index": 181,
+    "question": "Metode pengembangan Agile adalah...",
+    "answer": "Pengembangan iteratif dan fleksibel"
+  },
+  {
+    "index": 182,
+    "question": "Waterfall adalah...",
+    "answer": "Metode pengembangan berurutan"
+  },
+  {
+    "index": 183,
+    "question": "Prototyping adalah...",
+    "answer": "Membuat model awal aplikasi"
+  },
+  {
+    "index": 184,
+    "question": "Debugging adalah...",
+    "answer": "Proses mencari dan memperbaiki error"
+  },
+  {
+    "index": 185,
+    "question": "Testing perangkat lunak bertujuan...",
+    "answer": "Memastikan software bebas bug"
+  },
+  {
+    "index": 186,
+    "question": "Unit testing adalah...",
+    "answer": "Pengujian bagian kecil kode"
+  },
+  {
+    "index": 187,
+    "question": "Integration testing adalah...",
+    "answer": "Pengujian antar modul"
+  },
+  {
+    "index": 188,
+    "question": "Deployment adalah...",
+    "answer": "Proses merilis aplikasi"
+  },
+  {
+    "index": 189,
+    "question": "Maintenance adalah...",
+    "answer": "Pemeliharaan aplikasi setelah rilis"
+  },
+  {
+    "index": 190,
+    "question": "UI adalah singkatan dari...",
+    "answer": "User Interface"
+  },
+  {
+    "index": 191,
+    "question": "UX adalah singkatan dari...",
+    "answer": "User Experience"
+  },
+  {
+    "index": 192,
+    "question": "UI design berfokus pada...",
+    "answer": "Tampilan visual aplikasi"
+  },
+  {
+    "index": 193,
+    "question": "UX design berfokus pada...",
+    "answer": "Pengalaman pengguna"
+  },
+  {
+    "index": 194,
+    "question": "Wireframe adalah...",
+    "answer": "Sketsa rancangan aplikasi"
+  },
+  {
+    "index": 195,
+    "question": "Mockup adalah...",
+    "answer": "Rancangan visual aplikasi"
+  },
+  {
+    "index": 196,
+    "question": "AI generatif adalah...",
+    "answer": "AI yang dapat menghasilkan konten baru"
+  },
+  {
+    "index": 197,
+    "question": "Contoh AI generatif adalah...",
+    "answer": "ChatGPT dan DALL-E"
+  },
+  {
+    "index": 198,
+    "question": "Natural Language Processing (NLP) adalah...",
+    "answer": "AI yang memproses bahasa manusia"
+  },
+  {
+    "index": 199,
+    "question": "Computer Vision adalah...",
+    "answer": "AI yang menganalisis gambar"
+  },
+  {
+    "index": 200,
+    "question": "Robotics adalah...",
+    "answer": "Bidang yang menggabungkan AI dan mesin"
+  },
+  {
+    "index": 201,
+    "question": "Contoh robot AI adalah...",
+    "answer": "Robot humanoid dan drone"
+  },
+  {
+    "index": 202,
+    "question": "Quantum computing adalah...",
+    "answer": "Komputer berbasis qubit"
+  },
+  {
+    "index": 203,
+    "question": "Perbedaan qubit dengan bit adalah...",
+    "answer": "Qubit dapat bernilai 0 dan 1 sekaligus"
+  },
+  {
+    "index": 204,
+    "question": "Blockchain adalah...",
+    "answer": "Teknologi buku besar terdistribusi"
+  },
+  {
+    "index": 205,
+    "question": "Bitcoin menggunakan teknologi...",
+    "answer": "Blockchain"
+  },
+  {
+    "index": 206,
+    "question": "NFT adalah...",
+    "answer": "Non-Fungible Token"
+  },
+  {
+    "index": 207,
+    "question": "5G adalah...",
+    "answer": "Generasi kelima jaringan seluler"
+  },
+  {
+    "index": 208,
+    "question": "Keunggulan 5G adalah...",
+    "answer": "Kecepatan tinggi dan latensi rendah"
+  },
+  {
+    "index": 209,
+    "question": "Edge computing adalah...",
+    "answer": "Komputasi yang dilakukan dekat sumber data"
+  },
+  {
+    "index": 210,
+    "question": "Fog computing adalah...",
+    "answer": "Komputasi di antara edge dan cloud"
+  },
+  {
+    "index": 211,
+    "question": "Augmented Reality (AR) adalah...",
+    "answer": "Penggabungan dunia nyata dan virtual"
+  },
+  {
+    "index": 212,
+    "question": "Virtual Reality (VR) adalah...",
+    "answer": "Dunia maya sepenuhnya"
+  },
+  {
+    "index": 213,
+    "question": "Contoh AR adalah...",
+    "answer": "Pokemon GO dan filter Instagram"
+  },
+  {
+    "index": 214,
+    "question": "Metaverse adalah...",
+    "answer": "Dunia virtual 3D untuk interaksi"
+  },
+  {
+    "index": 215,
+    "question": "3D printing adalah...",
+    "answer": "Pencetakan objek tiga dimensi"
+  },
+  {
+    "index": 216,
+    "question": "Digital twin adalah...",
+    "answer": "Replika digital dari objek fisik"
+  },
+  {
+    "index": 217,
+    "question": "Smart farming adalah...",
+    "answer": "Pertanian berbasis teknologi"
+  },
+  {
+    "index": 218,
+    "question": "Telemedicine adalah...",
+    "answer": "Layanan kesehatan jarak jauh"
+  },
+  {
+    "index": 219,
+    "question": "E-learning adalah...",
+    "answer": "Pembelajaran berbasis internet"
+  },
+  {
+    "index": 220,
+    "question": "Fintech adalah...",
+    "answer": "Teknologi di bidang keuangan"
+  },
+  {
+    "index": 221,
+    "question": "Contoh fintech adalah...",
+    "answer": "OVO, GoPay, Dana"
+  },
+  {
+    "index": 222,
+    "question": "E-commerce adalah...",
+    "answer": "Perdagangan elektronik"
+  },
+  {
+    "index": 223,
+    "question": "Contoh e-commerce adalah...",
+    "answer": "Tokopedia dan Shopee"
+  },
+  {
+    "index": 224,
+    "question": "Startup adalah...",
+    "answer": "Perusahaan rintisan berbasis teknologi"
+  },
+  {
+    "index": 225,
+    "question": "Unicorn adalah startup dengan valuasi...",
+    "answer": "Di atas 1 miliar dolar"
+  },
+  {
+    "index": 226,
+    "question": "Decacorn adalah startup dengan valuasi...",
+    "answer": "Di atas 10 miliar dolar"
+  },
+  {
+    "index": 227,
+    "question": "Blue chip adalah...",
+    "answer": "Perusahaan besar dan stabil"
+  },
+  {
+    "index": 228,
+    "question": "Digital transformation adalah...",
+    "answer": "Transformasi bisnis dengan teknologi digital"
+  },
+  {
+    "index": 229,
+    "question": "Otomasi adalah...",
+    "answer": "Penggantian tenaga manusia dengan mesin"
+  },
+  {
+    "index": 230,
+    "question": "Dampak otomasi terhadap pekerjaan adalah...",
+    "answer": "Mengurangi pekerjaan rutin"
+  },
+  {
+    "index": 231,
+    "question": "Industri 4.0 menyebabkan munculnya pekerjaan baru di bidang...",
+    "answer": "Data science dan AI"
+  },
+  {
+    "index": 232,
+    "question": "Society 5.0 adalah...",
+    "answer": "Masyarakat berbasis teknologi dan manusia"
+  },
+  {
+    "index": 233,
+    "question": "Tujuan Society 5.0 adalah...",
+    "answer": "Keseimbangan teknologi dan manusia"
+  },
+  {
+    "index": 234,
+    "question": "Green computing adalah...",
+    "answer": "Penggunaan komputer ramah lingkungan"
+  },
+  {
+    "index": 235,
+    "question": "E-waste adalah...",
+    "answer": "Limbah elektronik"
+  },
+  {
+    "index": 236,
+    "question": "Cara mengurangi e-waste adalah...",
+    "answer": "Daur ulang perangkat elektronik"
+  },
+  {
+    "index": 237,
+    "question": "Sustainable technology adalah...",
+    "answer": "Teknologi berkelanjutan"
+  },
+  {
+    "index": 238,
+    "question": "Data privacy concern utama pengguna adalah...",
+    "answer": "Penyalahgunaan data pribadi"
+  },
+  {
+    "index": 239,
+    "question": "Cara melindungi data pribadi adalah...",
+    "answer": "Gunakan password kuat dan 2FA"
+  },
+  {
+    "index": 240,
+    "question": "Cookie pada browser digunakan untuk...",
+    "answer": "Menyimpan preferensi pengguna"
+  },
+  {
+    "index": 241,
+    "question": "Incognito mode pada browser...",
+    "answer": "Tidak menyimpan riwayat"
+  },
+  {
+    "index": 242,
+    "question": "Malware adalah...",
+    "answer": "Software berbahaya"
+  },
+  {
+    "index": 243,
+    "question": "Virus komputer adalah...",
+    "answer": "Program yang mereplikasi diri"
+  },
+  {
+    "index": 244,
+    "question": "Worm adalah...",
+    "answer": "Malware yang menyebar melalui jaringan"
+  },
+  {
+    "index": 245,
+    "question": "Trojan adalah...",
+    "answer": "Malware yang menyamar sebagai program baik"
+  },
+  {
+    "index": 246,
+    "question": "Spyware adalah...",
+    "answer": "Malware yang memata-matai pengguna"
+  },
+  {
+    "index": 247,
+    "question": "Adware adalah...",
+    "answer": "Software yang menampilkan iklan"
+  },
+  {
+    "index": 248,
+    "question": "Antivirus berfungsi untuk...",
+    "answer": "Mendeteksi dan menghapus malware"
+  },
+  {
+    "index": 249,
+    "question": "Update software penting untuk...",
+    "answer": "Menutup celah keamanan"
+  },
+  {
+    "index": 250,
+    "question": "Backup data adalah...",
+    "answer": "Menyalin data untuk cadangan"
+  },
+  {
+    "index": 251,
+    "question": "Prinsip backup 3-2-1 adalah...",
+    "answer": "3 salinan, 2 media, 1 di luar lokasi"
+  },
+  {
+    "index": 252,
+    "question": "Cloud storage contohnya adalah...",
+    "answer": "Google Drive dan Dropbox"
+  },
+  {
+    "index": 253,
+    "question": "Kompresi data adalah...",
+    "answer": "Memperkecil ukuran data"
+  },
+  {
+    "index": 254,
+    "question": "Format file gambar adalah...",
+    "answer": "JPG, PNG, GIF"
+  },
+  {
+    "index": 255,
+    "question": "Format file audio adalah...",
+    "answer": "MP3, WAV, FLAC"
+  },
+  {
+    "index": 256,
+    "question": "Format file video adalah...",
+    "answer": "MP4, AVI, MKV"
+  },
+  {
+    "index": 257,
+    "question": "Format file dokumen adalah...",
+    "answer": "DOCX, PDF, TXT"
+  },
+  {
+    "index": 258,
+    "question": "PDF adalah singkatan dari...",
+    "answer": "Portable Document Format"
+  },
+  {
+    "index": 259,
+    "question": "Fungsi PDF adalah...",
+    "answer": "Format dokumen universal"
+  },
+  {
+    "index": 260,
+    "question": "Spreadsheet adalah aplikasi untuk...",
+    "answer": "Mengolah data tabel"
+  },
+  {
+    "index": 261,
+    "question": "Fungsi SUM di Excel adalah...",
+    "answer": "Menjumlahkan angka"
+  },
+  {
+    "index": 262,
+    "question": "Fungsi AVERAGE di Excel adalah...",
+    "answer": "Menghitung rata-rata"
+  },
+  {
+    "index": 263,
+    "question": "Fungsi IF di Excel adalah...",
+    "answer": "Logika percabangan"
+  },
+  {
+    "index": 264,
+    "question": "Fungsi VLOOKUP di Excel adalah...",
+    "answer": "Mencari data secara vertikal"
+  },
+  {
+    "index": 265,
+    "question": "Pivot table digunakan untuk...",
+    "answer": "Merangkum data besar"
+  },
+  {
+    "index": 266,
+    "question": "Chart di Excel digunakan untuk...",
+    "answer": "Visualisasi data"
+  },
+  {
+    "index": 267,
+    "question": "Basis data adalah...",
+    "answer": "Kumpulan data terorganisir"
+  },
+  {
+    "index": 268,
+    "question": "DBMS adalah...",
+    "answer": "Database Management System"
+  },
+  {
+    "index": 269,
+    "question": "Contoh DBMS adalah...",
+    "answer": "MySQL, PostgreSQL, Oracle"
+  },
+  {
+    "index": 270,
+    "question": "SQL adalah...",
+    "answer": "Bahasa query database"
+  },
+  {
+    "index": 271,
+    "question": "Perintah SQL untuk mengambil data adalah...",
+    "answer": "SELECT"
+  },
+  {
+    "index": 272,
+    "question": "Perintah SQL untuk menambah data adalah...",
+    "answer": "INSERT"
+  },
+  {
+    "index": 273,
+    "question": "Perintah SQL untuk mengubah data adalah...",
+    "answer": "UPDATE"
+  },
+  {
+    "index": 274,
+    "question": "Perintah SQL untuk menghapus data adalah...",
+    "answer": "DELETE"
+  },
+  {
+    "index": 275,
+    "question": "Primary key adalah...",
+    "answer": "Kunci unik tiap baris tabel"
+  },
+  {
+    "index": 276,
+    "question": "Foreign key adalah...",
+    "answer": "Kunci penghubung antar tabel"
+  },
+  {
+    "index": 277,
+    "question": "Normalisasi database bertujuan...",
+    "answer": "Mengurangi redundansi data"
+  },
+  {
+    "index": 278,
+    "question": "Relasi one-to-many adalah...",
+    "answer": "Satu baris berhubungan dengan banyak baris lain"
+  },
+  {
+    "index": 279,
+    "question": "NoSQL database contohnya adalah...",
+    "answer": "MongoDB dan Cassandra"
+  },
+  {
+    "index": 280,
+    "question": "Big Data biasanya diproses dengan...",
+    "answer": "Hadoop dan Spark"
+  },
+  {
+    "index": 281,
+    "question": "Data mining adalah...",
+    "answer": "Menemukan pola dari data besar"
+  },
+  {
+    "index": 282,
+    "question": "Business Intelligence adalah...",
+    "answer": "Analisis data untuk keputusan bisnis"
+  },
+  {
+    "index": 283,
+    "question": "Dashboard adalah...",
+    "answer": "Tampilan ringkasan data"
+  },
+  {
+    "index": 284,
+    "question": "KPI adalah...",
+    "answer": "Key Performance Indicator"
+  },
+  {
+    "index": 285,
+    "question": "Data scientist bertugas...",
+    "answer": "Menganalisis data untuk insight"
+  },
+  {
+    "index": 286,
+    "question": "Data engineer bertugas...",
+    "answer": "Membangun infrastruktur data"
+  },
+  {
+    "index": 287,
+    "question": "Data analyst bertugas...",
+    "answer": "Mengolah dan menyajikan data"
+  },
+  {
+    "index": 288,
+    "question": "Machine learning engineer bertugas...",
+    "answer": "Membangun model ML"
+  },
+  {
+    "index": 289,
+    "question": "Software engineer bertugas...",
+    "answer": "Mengembangkan perangkat lunak"
+  },
+  {
+    "index": 290,
+    "question": "DevOps adalah...",
+    "answer": "Kolaborasi development dan operations"
+  },
+  {
+    "index": 291,
+    "question": "CI/CD adalah...",
+    "answer": "Continuous Integration dan Continuous Deployment"
+  },
+  {
+    "index": 292,
+    "question": "Version control contohnya adalah...",
+    "answer": "Git"
+  },
+  {
+    "index": 293,
+    "question": "GitHub adalah...",
+    "answer": "Platform hosting repository Git"
+  },
+  {
+    "index": 294,
+    "question": "Repository adalah...",
+    "answer": "Tempat menyimpan kode proyek"
+  },
+  {
+    "index": 295,
+    "question": "Branch pada Git adalah...",
+    "answer": "Cabang pengembangan kode"
+  },
+  {
+    "index": 296,
+    "question": "Merge pada Git adalah...",
+    "answer": "Menggabungkan branch"
+  },
+  {
+    "index": 297,
+    "question": "Pull request adalah...",
+    "answer": "Permintaan menggabungkan kode"
+  },
+  {
+    "index": 298,
+    "question": "Open source contribution adalah...",
+    "answer": "Berkontribusi ke proyek terbuka"
+  },
+  {
+    "index": 299,
+    "question": "Hackathon adalah...",
+    "answer": "Kompetisi membuat proyek teknologi"
+  },
+  {
+    "index": 300,
+    "question": "Startup pitch adalah...",
+    "answer": "Presentasi ide bisnis ke investor"
+  }
+]
