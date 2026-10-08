@@ -1,0 +1,1752 @@
+[
+  {
+    "index": 1,
+    "question": "Besaran yang memiliki nilai dan arah disebut besaran...",
+    "answer": "A. Skalar\nB. Vektor\nC. Pokok\nD. Turunan\nE. Tambahan",
+    "correct_answer": "B. Vektor",
+    "mean": "Besaran vektor memiliki nilai dan arah, contohnya perpindahan, kecepatan, dan gaya."
+  },
+  {
+    "index": 2,
+    "question": "Satuan SI untuk besaran panjang adalah...",
+    "answer": "A. meter\nB. kilogram\nC. sekon\nD. ampere\nE. mol",
+    "correct_answer": "A. meter",
+    "mean": "Meter adalah satuan SI untuk panjang, kilogram untuk massa, sekon untuk waktu."
+  },
+  {
+    "index": 3,
+    "question": "Dimensi dari besaran kecepatan adalah...",
+    "answer": "A. [L][T]\nB. [L][T]⁻¹\nC. [L][T]⁻²\nD. [L]²[T]⁻¹\nE. [L]⁻¹[T]",
+    "correct_answer": "B. [L][T]⁻¹",
+    "mean": "Kecepatan = panjang/waktu, sehingga dimensinya [L][T]⁻¹."
+  },
+  {
+    "index": 4,
+    "question": "Hasil pengukuran jangka sorong menunjukkan skala utama 3,2 cm dan skala nonius 0,04 cm. Hasilnya adalah...",
+    "answer": "A. 3,24 cm\nB. 3,204 cm\nC. 3,42 cm\nD. 3,024 cm\nE. 3,20 cm",
+    "correct_answer": "A. 3,24 cm",
+    "mean": "Hasil = skala utama + skala nonius = 3,2 + 0,04 = 3,24 cm."
+  },
+  {
+    "index": 5,
+    "question": "Angka penting dari 0,00340 m adalah...",
+    "answer": "A. 2\nB. 3\nC. 4\nD. 5\nE. 6",
+    "correct_answer": "B. 3",
+    "mean": "Nol di depan bukan angka penting, nol di belakang desimal termasuk angka penting. Jadi 3 angka penting."
+  },
+  {
+    "index": 6,
+    "question": "Benda bergerak 8 m ke timur lalu 6 m ke utara. Besar perpindahannya adalah...",
+    "answer": "A. 2 m\nB. 10 m\nC. 14 m\nD. 48 m\nE. 100 m",
+    "correct_answer": "B. 10 m",
+    "mean": "Perpindahan = √(8² + 6²) = √100 = 10 m."
+  },
+  {
+    "index": 7,
+    "question": "Mobil menempuh 150 km dalam 2,5 jam. Kecepatan rata-ratanya adalah...",
+    "answer": "A. 50 km/jam\nB. 55 km/jam\nC. 60 km/jam\nD. 65 km/jam\nE. 75 km/jam",
+    "correct_answer": "C. 60 km/jam",
+    "mean": "v = s/t = 150/2,5 = 60 km/jam."
+  },
+  {
+    "index": 8,
+    "question": "Benda jatuh bebas dari 20 m, g = 10 m/s². Waktu mencapai tanah adalah...",
+    "answer": "A. 1 s\nB. 2 s\nC. 3 s\nD. 4 s\nE. 5 s",
+    "correct_answer": "B. 2 s",
+    "mean": "h = ½gt² → 20 = 5t² → t = 2 s."
+  },
+  {
+    "index": 9,
+    "question": "Bola dilempar vertikal ke atas dengan v₀ = 20 m/s, g = 10 m/s². Tinggi maksimumnya adalah...",
+    "answer": "A. 10 m\nB. 15 m\nC. 20 m\nD. 25 m\nE. 40 m",
+    "correct_answer": "C. 20 m",
+    "mean": "v² = v₀² - 2gh → 0 = 400 - 20h → h = 20 m."
+  },
+  {
+    "index": 10,
+    "question": "Ciri gerak melingkar beraturan adalah...",
+    "answer": "A. Kecepatan tetap\nB. Kelajuan tetap\nC. Percepatan tetap\nD. Kecepatan sudut berubah\nE. Percepatan sudut tetap",
+    "correct_answer": "B. Kelajuan tetap",
+    "mean": "Pada GMB kelajuan tetap, tetapi arah kecepatan selalu berubah."
+  },
+  {
+    "index": 11,
+    "question": "Benda bergerak melingkar r = 2 m, ω = 5 rad/s. Kecepatan linearnya adalah...",
+    "answer": "A. 2,5 m/s\nB. 5 m/s\nC. 7 m/s\nD. 10 m/s\nE. 20 m/s",
+    "correct_answer": "D. 10 m/s",
+    "mean": "v = ωr = 5 × 2 = 10 m/s."
+  },
+  {
+    "index": 12,
+    "question": "Hukum Newton I menyatakan bahwa...",
+    "answer": "A. F = ma\nB. Aksi = reaksi\nC. Benda mempertahankan keadaannya\nD. Gaya sebanding percepatan\nE. Energi kekal",
+    "correct_answer": "C. Benda mempertahankan keadaannya",
+    "mean": "Hukum I Newton disebut hukum kelembaman, benda cenderung mempertahankan keadaannya."
+  },
+  {
+    "index": 13,
+    "question": "Benda 5 kg diberi gaya 20 N. Percepatannya adalah...",
+    "answer": "A. 2 m/s²\nB. 4 m/s²\nC. 5 m/s²\nD. 10 m/s²\nE. 100 m/s²",
+    "correct_answer": "B. 4 m/s²",
+    "mean": "a = F/m = 20/5 = 4 m/s²."
+  },
+  {
+    "index": 14,
+    "question": "Gaya gesek pada benda yang diam disebut gaya gesek...",
+    "answer": "A. Kinetis\nB. Statis\nC. Dinamis\nD. Rolling\nE. Sliding",
+    "correct_answer": "B. Statis",
+    "mean": "Gaya gesek statis bekerja pada benda yang belum bergerak."
+  },
+  {
+    "index": 15,
+    "question": "Balok 10 kg di atas lantai, g = 10 m/s². Gaya normalnya adalah...",
+    "answer": "A. 1 N\nB. 10 N\nC. 50 N\nD. 100 N\nE. 1000 N",
+    "correct_answer": "D. 100 N",
+    "mean": "N = mg = 10 × 10 = 100 N."
+  },
+  {
+    "index": 16,
+    "question": "Usaha gaya 50 N membentuk sudut 60° terhadap perpindahan 4 m adalah...",
+    "answer": "A. 50 J\nB. 100 J\nC. 150 J\nD. 200 J\nE. 400 J",
+    "correct_answer": "B. 100 J",
+    "mean": "W = F·s·cos θ = 50 × 4 × 0,5 = 100 J."
+  },
+  {
+    "index": 17,
+    "question": "Energi kinetik benda 4 kg bergerak 5 m/s adalah...",
+    "answer": "A. 20 J\nB. 40 J\nC. 50 J\nD. 100 J\nE. 200 J",
+    "correct_answer": "C. 50 J",
+    "mean": "Ek = ½mv² = ½ × 4 × 25 = 50 J."
+  },
+  {
+    "index": 18,
+    "question": "Benda 2 kg pada ketinggian 5 m, g = 10 m/s². Energi potensialnya adalah...",
+    "answer": "A. 10 J\nB. 20 J\nC. 50 J\nD. 100 J\nE. 200 J",
+    "correct_answer": "D. 100 J",
+    "mean": "Ep = mgh = 2 × 10 × 5 = 100 J."
+  },
+  {
+    "index": 19,
+    "question": "Hukum kekekalan energi mekanik berlaku jika...",
+    "answer": "A. Ada gaya gesek\nB. Tidak ada gaya non-konservatif\nC. Benda diam\nD. Ada gaya luar\nE. Benda lurus",
+    "correct_answer": "B. Tidak ada gaya non-konservatif",
+    "mean": "Energi mekanik kekal jika hanya ada gaya konservatif."
+  },
+  {
+    "index": 20,
+    "question": "Momentum benda 3 kg bergerak 4 m/s adalah...",
+    "answer": "A. 7 kg·m/s\nB. 12 kg·m/s\nC. 0,75 kg·m/s\nD. 1,33 kg·m/s\nE. 24 kg·m/s",
+    "correct_answer": "B. 12 kg·m/s",
+    "mean": "p = mv = 3 × 4 = 12 kg·m/s."
+  },
+  {
+    "index": 21,
+    "question": "Impuls gaya 20 N selama 0,5 s adalah...",
+    "answer": "A. 5 N·s\nB. 10 N·s\nC. 20 N·s\nD. 40 N·s\nE. 100 N·s",
+    "correct_answer": "B. 10 N·s",
+    "mean": "I = F·Δt = 20 × 0,5 = 10 N·s."
+  },
+  {
+    "index": 22,
+    "question": "Tumbukan yang energi kinetiknya kekal disebut...",
+    "answer": "A. Tidak lenting\nB. Lenting sebagian\nC. Lenting sempurna\nD. Plastis\nE. Inelastis",
+    "correct_answer": "C. Lenting sempurna",
+    "mean": "Pada tumbukan lenting sempurna, momentum dan energi kinetik keduanya kekal."
+  },
+  {
+    "index": 23,
+    "question": "Pegas k = 200 N/m ditarik 0,1 m. Gaya pegasnya adalah...",
+    "answer": "A. 2 N\nB. 20 N\nC. 200 N\nD. 2000 N\nE. 0,2 N",
+    "correct_answer": "B. 20 N",
+    "mean": "F = kx = 200 × 0,1 = 20 N."
+  },
+  {
+    "index": 24,
+    "question": "Energi potensial pegas k = 100 N/m dengan x = 0,2 m adalah...",
+    "answer": "A. 1 J\nB. 2 J\nC. 4 J\nD. 10 J\nE. 20 J",
+    "correct_answer": "B. 2 J",
+    "mean": "Ep = ½kx² = ½ × 100 × 0,04 = 2 J."
+  },
+  {
+    "index": 25,
+    "question": "Tekanan hidrostatis pada kedalaman 5 m (ρ = 1000, g = 10) adalah...",
+    "answer": "A. 500 Pa\nB. 5000 Pa\nC. 50000 Pa\nD. 500000 Pa\nE. 50 Pa",
+    "correct_answer": "C. 50000 Pa",
+    "mean": "P = ρgh = 1000 × 10 × 5 = 50000 Pa."
+  },
+  {
+    "index": 26,
+    "question": "Hukum Archimedes menyatakan bahwa...",
+    "answer": "A. Tekanan diteruskan\nB. Benda tercelup mendapat gaya ke atas\nC. Debit konstan\nD. Tekanan berbanding terbalik\nE. Energi kekal",
+    "correct_answer": "B. Benda tercelup mendapat gaya ke atas",
+    "mean": "Gaya apung sama dengan berat fluida yang dipindahkan."
+  },
+  {
+    "index": 27,
+    "question": "Benda terapung dengan 60% volume tercelup. Jika ρ air 1000, ρ benda adalah...",
+    "answer": "A. 400\nB. 600\nC. 800\nD. 1000\nE. 1600",
+    "correct_answer": "B. 600",
+    "mean": "ρb = ρf × Vtercelup/Vtotal = 1000 × 0,6 = 600 kg/m³."
+  },
+  {
+    "index": 28,
+    "question": "Persamaan kontinuitas fluida adalah...",
+    "answer": "A. P1 = P2\nB. A1v1 = A2v2\nC. P + ½ρv² + ρgh = konstan\nD. F1/A1 = F2/A2\nE. ρ1 = ρ2",
+    "correct_answer": "B. A1v1 = A2v2",
+    "mean": "Debit fluida di setiap titik sama, A1v1 = A2v2."
+  },
+  {
+    "index": 29,
+    "question": "Suhu 27°C dalam Kelvin adalah...",
+    "answer": "A. 300 K\nB. 273 K\nC. 246 K\nD. 327 K\nE. 27 K",
+    "correct_answer": "A. 300 K",
+    "mean": "K = °C + 273 = 27 + 273 = 300 K."
+  },
+  {
+    "index": 30,
+    "question": "Kalor untuk memanaskan 2 kg air (c = 4200) dari 20°C ke 70°C adalah...",
+    "answer": "A. 168000 J\nB. 420000 J\nC. 84000 J\nD. 42000 J\nE. 16800 J",
+    "correct_answer": "B. 420000 J",
+    "mean": "Q = mcΔT = 2 × 4200 × 50 = 420000 J."
+  },
+  {
+    "index": 31,
+    "question": "Perpindahan kalor melalui zat padat tanpa perpindahan partikel disebut...",
+    "answer": "A. Konveksi\nB. Radiasi\nC. Konduksi\nD. Evaporasi\nE. Sublimasi",
+    "correct_answer": "C. Konduksi",
+    "mean": "Konduksi terjadi pada zat padat tanpa perpindahan partikel zatnya."
+  },
+  {
+    "index": 32,
+    "question": "Gas volume 2 L tekanan 1 atm dimampatkan jadi 1 L pada suhu tetap. Tekanan akhirnya...",
+    "answer": "A. 0,5 atm\nB. 1 atm\nC. 2 atm\nD. 3 atm\nE. 4 atm",
+    "correct_answer": "C. 2 atm",
+    "mean": "Hukum Boyle: P1V1 = P2V2 → 1×2 = P2×1 → P2 = 2 atm."
+  },
+  {
+    "index": 33,
+    "question": "Tekanan gas menurut teori kinetik disebabkan oleh...",
+    "answer": "A. Gaya tarik molekul\nB. Tumbukan molekul dengan dinding\nC. Berat molekul\nD. Volume molekul\nE. Suhu wadah",
+    "correct_answer": "B. Tumbukan molekul dengan dinding",
+    "mean": "Tekanan gas timbul akibat tumbukan molekul dengan dinding wadah."
+  },
+  {
+    "index": 34,
+    "question": "Energi kinetik rata-rata molekul gas ideal bergantung pada...",
+    "answer": "A. Tekanan\nB. Volume\nC. Suhu mutlak\nD. Massa molekul\nE. Jenis gas",
+    "correct_answer": "C. Suhu mutlak",
+    "mean": "Ek rata-rata = (3/2)kT, hanya bergantung pada suhu mutlak."
+  },
+  {
+    "index": 35,
+    "question": "Getaran amplitudo 5 cm dan frekuensi 2 Hz memiliki periode...",
+    "answer": "A. 0,2 s\nB. 0,5 s\nC. 2 s\nD. 5 s\nE. 10 s",
+    "correct_answer": "B. 0,5 s",
+    "mean": "T = 1/f = 1/2 = 0,5 s."
+  },
+  {
+    "index": 36,
+    "question": "Persamaan y = 0,02 sin(10πx - 40πt) memiliki panjang gelombang...",
+    "answer": "A. 0,1 m\nB. 0,2 m\nC. 0,4 m\nD. 5 m\nE. 10 m",
+    "correct_answer": "B. 0,2 m",
+    "mean": "k = 2π/λ → 10π = 2π/λ → λ = 0,2 m."
+  },
+  {
+    "index": 37,
+    "question": "Cepat rambat gelombang f = 50 Hz dan λ = 0,4 m adalah...",
+    "answer": "A. 20 m/s\nB. 125 m/s\nC. 0,008 m/s\nD. 200 m/s\nE. 50 m/s",
+    "correct_answer": "A. 20 m/s",
+    "mean": "v = λf = 0,4 × 50 = 20 m/s."
+  },
+  {
+    "index": 38,
+    "question": "Bunyi termasuk gelombang...",
+    "answer": "A. Elektromagnetik transversal\nB. Mekanik longitudinal\nC. Elektromagnetik longitudinal\nD. Mekanik transversal\nE. Stasioner",
+    "correct_answer": "B. Mekanik longitudinal",
+    "mean": "Bunyi butuh medium dan arah getarnya sejajar arah rambat."
+  },
+  {
+    "index": 39,
+    "question": "TI 10 mesin identik jika satu mesin TI = 60 dB adalah...",
+    "answer": "A. 60 dB\nB. 70 dB\nC. 80 dB\nD. 100 dB\nE. 600 dB",
+    "correct_answer": "B. 70 dB",
+    "mean": "TIn = TI1 + 10 log n = 60 + 10 log 10 = 70 dB."
+  },
+  {
+    "index": 40,
+    "question": "Efek Doppler terjadi jika...",
+    "answer": "A. Ada gerak relatif sumber dan pengamat\nB. Suhu berubah\nC. Tekanan berubah\nD. Amplitudo berubah\nE. Medium berubah",
+    "correct_answer": "A. Ada gerak relatif sumber dan pengamat",
+    "mean": "Frekuensi berubah jika sumber dan pengamat bergerak relatif."
+  },
+  {
+    "index": 41,
+    "question": "Cermin cekung R = 20 cm memiliki jarak fokus...",
+    "answer": "A. 5 cm\nB. 10 cm\nC. 20 cm\nD. 40 cm\nE. 2 cm",
+    "correct_answer": "B. 10 cm",
+    "mean": "f = R/2 = 20/2 = 10 cm."
+  },
+  {
+    "index": 42,
+    "question": "Benda 15 cm di depan cermin cekung f = 10 cm. Jarak bayangannya...",
+    "answer": "A. 6 cm\nB. 25 cm\nC. 30 cm\nD. 5 cm\nE. 10 cm",
+    "correct_answer": "C. 30 cm",
+    "mean": "1/f = 1/s + 1/s' → 1/10 - 1/15 = 1/30 → s' = 30 cm."
+  },
+  {
+    "index": 43,
+    "question": "Lensa cembung f = 20 cm, bayangan nyata 60 cm. Jarak bendanya...",
+    "answer": "A. 10 cm\nB. 15 cm\nC. 30 cm\nD. 40 cm\nE. 80 cm",
+    "correct_answer": "C. 30 cm",
+    "mean": "1/s = 1/20 - 1/60 = 2/60 → s = 30 cm."
+  },
+  {
+    "index": 44,
+    "question": "Kekuatan lensa f = 50 cm adalah...",
+    "answer": "A. 0,5 D\nB. 2 D\nC. 5 D\nD. 50 D\nE. 0,02 D",
+    "correct_answer": "B. 2 D",
+    "mean": "P = 1/f(m) = 1/0,5 = 2 dioptri."
+  },
+  {
+    "index": 45,
+    "question": "Rabun dekat (hipermetropi) diperbaiki dengan lensa...",
+    "answer": "A. Cekung\nB. Cembung\nC. Silindris\nD. Plan\nE. Bifokal",
+    "correct_answer": "B. Cembung",
+    "mean": "Hipermetropi diperbaiki dengan lensa cembung (konvergen)."
+  },
+  {
+    "index": 46,
+    "question": "Interferensi cahaya terjadi karena...",
+    "answer": "A. Pembiasan\nB. Superposisi gelombang\nC. Pemantulan\nD. Difraksi\nE. Polarisasi",
+    "correct_answer": "B. Superposisi gelombang",
+    "mean": "Interferensi adalah superposisi dua gelombang koheren."
+  },
+  {
+    "index": 47,
+    "question": "Difraksi cahaya paling jelas jika...",
+    "answer": "A. Celah lebar\nB. λ < celah\nC. Celah seorde λ\nD. Intensitas besar\nE. Monokromatik",
+    "correct_answer": "C. Celah seorde λ",
+    "mean": "Difraksi jelas jika lebar celah sebanding atau lebih kecil dari panjang gelombang."
+  },
+  {
+    "index": 48,
+    "question": "Muatan 4 μC dan 9 μC berjarak 3 cm. Gaya Coulombnya (k = 9×10⁹) adalah...",
+    "answer": "A. 36 N\nB. 360 N\nC. 3,6 N\nD. 0,36 N\nE. 3600 N",
+    "correct_answer": "B. 360 N",
+    "mean": "F = kq1q2/r² = 360 N."
+  },
+  {
+    "index": 49,
+    "question": "Kuat medan listrik pada 2 m dari muatan 8 μC adalah...",
+    "answer": "A. 1,8×10⁴ N/C\nB. 1,8×10⁵ N/C\nC. 3,6×10⁴ N/C\nD. 3,6×10⁵ N/C\nE. 1,8×10³ N/C",
+    "correct_answer": "A. 1,8×10⁴ N/C",
+    "mean": "E = kq/r² = 1,8×10⁴ N/C."
+  },
+  {
+    "index": 50,
+    "question": "Kapasitor 4 μF diberi tegangan 12 V. Muatannya adalah...",
+    "answer": "A. 3 μC\nB. 48 μC\nC. 0,33 μC\nD. 16 μC\nE. 8 μC",
+    "correct_answer": "B. 48 μC",
+    "mean": "Q = CV = 4×12 = 48 μC."
+  },
+  {
+    "index": 51,
+    "question": "Hukum Ohm menyatakan...",
+    "answer": "A. V = IR\nB. V = I/R\nC. I = VR\nD. R = VI\nE. V = I²R",
+    "correct_answer": "A. V = IR",
+    "mean": "V = IR, tegangan sebanding dengan arus dan hambatan."
+  },
+  {
+    "index": 52,
+    "question": "Resistor 2Ω, 3Ω, 6Ω disusun paralel. Hambatan penggantinya...",
+    "answer": "A. 11 Ω\nB. 1 Ω\nC. 0,5 Ω\nD. 2 Ω\nE. 3 Ω",
+    "correct_answer": "B. 1 Ω",
+    "mean": "1/Rp = 1/2+1/3+1/6 = 1 → Rp = 1 Ω."
+  },
+  {
+    "index": 53,
+    "question": "Alat 100 W selama 5 jam menggunakan energi...",
+    "answer": "A. 0,5 kWh\nB. 5 kWh\nC. 20 kWh\nD. 500 kWh\nE. 0,1 kWh",
+    "correct_answer": "A. 0,5 kWh",
+    "mean": "W = P·t = 100 × 5 = 500 Wh = 0,5 kWh."
+  },
+  {
+    "index": 54,
+    "question": "Medan magnet di sekitar kawat berarus sebanding dengan...",
+    "answer": "A. Jarak\nB. Kuat arus\nC. Panjang kawat\nD. Hambatan\nE. Tegangan",
+    "correct_answer": "B. Kuat arus",
+    "mean": "B = μ₀I/(2πa), sebanding dengan kuat arus."
+  },
+  {
+    "index": 55,
+    "question": "Gaya Lorentz kawat 2 A, 0,5 m, B = 0,4 T tegak lurus adalah...",
+    "answer": "A. 0,4 N\nB. 0,8 N\nC. 0,2 N\nD. 4 N\nE. 0,04 N",
+    "correct_answer": "A. 0,4 N",
+    "mean": "F = BIL = 0,4 × 2 × 0,5 = 0,4 N."
+  },
+  {
+    "index": 56,
+    "question": "Induksi elektromagnetik terjadi jika...",
+    "answer": "A. Arus tetap\nB. Ada perubahan fluks magnetik\nC. Medan konstan\nD. Kawat diam\nE. Tidak ada medan",
+    "correct_answer": "B. Ada perubahan fluks magnetik",
+    "mean": "GGL induksi timbul jika ada perubahan fluks magnetik."
+  },
+  {
+    "index": 57,
+    "question": "Transformator step-up memiliki...",
+    "answer": "A. Np > Ns\nB. Np < Ns\nC. Np = Ns\nD. Vp > Vs\nE. Ip > Is",
+    "correct_answer": "B. Np < Ns",
+    "mean": "Step-up menaikkan tegangan, Ns > Np."
+  },
+  {
+    "index": 58,
+    "question": "Frekuensi resonansi LC dengan L = 0,1 H dan C = 10 μF adalah...",
+    "answer": "A. 50 Hz\nB. 100 Hz\nC. 159 Hz\nD. 200 Hz\nE. 500 Hz",
+    "correct_answer": "C. 159 Hz",
+    "mean": "f = 1/(2π√LC) ≈ 159 Hz."
+  },
+  {
+    "index": 59,
+    "question": "Satuan SI untuk besaran massa adalah...",
+    "answer": "A. meter\nB. kilogram\nC. sekon\nD. newton\nE. joule",
+    "correct_answer": "B. kilogram",
+    "mean": "Kilogram adalah satuan SI untuk massa."
+  },
+  {
+    "index": 60,
+    "question": "Dimensi dari besaran gaya adalah...",
+    "answer": "A. [M][L][T]⁻¹\nB. [M][L][T]⁻²\nC. [M][L]²[T]⁻²\nD. [M][L]⁻¹[T]⁻²\nE. [M][L][T]²",
+    "correct_answer": "B. [M][L][T]⁻²",
+    "mean": "F = ma, dimensinya [M][L][T]⁻²."
+  },
+  {
+    "index": 61,
+    "question": "Alat ukur panjang dengan ketelitian 0,01 mm adalah...",
+    "answer": "A. Mistar\nB. Jangka sorong\nC. Mikrometer sekrup\nD. Meteran\nE. Neraca",
+    "correct_answer": "C. Mikrometer sekrup",
+    "mean": "Mikrometer sekrup memiliki ketelitian 0,01 mm."
+  },
+  {
+    "index": 62,
+    "question": "Hasil 2,5 × 3,2 menurut angka penting adalah...",
+    "answer": "A. 8\nB. 8,0\nC. 8,00\nD. 8,000\nE. 80",
+    "correct_answer": "B. 8,0",
+    "mean": "Hasil perkalian mengikuti jumlah angka penting terkecil, yaitu 2 AP → 8,0."
+  },
+  {
+    "index": 63,
+    "question": "Vektor A = 3i + 4j memiliki besar...",
+    "answer": "A. 3\nB. 4\nC. 5\nD. 7\nE. 12",
+    "correct_answer": "C. 5",
+    "mean": "|A| = √(3² + 4²) = 5."
+  },
+  {
+    "index": 64,
+    "question": "Gerak lurus beraturan memiliki ciri...",
+    "answer": "A. Percepatan tetap\nB. Kecepatan tetap\nC. Kecepatan berubah\nD. Jarak berubah kuadratik\nE. Diam",
+    "correct_answer": "B. Kecepatan tetap",
+    "mean": "GLB memiliki kecepatan konstan, percepatan nol."
+  },
+  {
+    "index": 65,
+    "question": "Mobil dari diam dipercepat 2 m/s² selama 5 s. Kecepatan akhirnya...",
+    "answer": "A. 2 m/s\nB. 5 m/s\nC. 10 m/s\nD. 20 m/s\nE. 25 m/s",
+    "correct_answer": "C. 10 m/s",
+    "mean": "v = v₀ + at = 0 + 2×5 = 10 m/s."
+  },
+  {
+    "index": 66,
+    "question": "Jarak yang ditempuh benda dengan v = 10 m/s selama 4 s adalah...",
+    "answer": "A. 2,5 m\nB. 14 m\nC. 40 m\nD. 100 m\nE. 400 m",
+    "correct_answer": "C. 40 m",
+    "mean": "s = v·t = 10 × 4 = 40 m."
+  },
+  {
+    "index": 67,
+    "question": "Percepatan sentripetal benda v = 4 m/s, r = 2 m adalah...",
+    "answer": "A. 2 m/s²\nB. 4 m/s²\nC. 6 m/s²\nD. 8 m/s²\nE. 16 m/s²",
+    "correct_answer": "D. 8 m/s²",
+    "mean": "as = v²/r = 16/2 = 8 m/s²."
+  },
+  {
+    "index": 68,
+    "question": "Gaya 30 N bekerja pada benda 6 kg. Percepatannya...",
+    "answer": "A. 2 m/s²\nB. 5 m/s²\nC. 6 m/s²\nD. 24 m/s²\nE. 180 m/s²",
+    "correct_answer": "B. 5 m/s²",
+    "mean": "a = F/m = 30/6 = 5 m/s²."
+  },
+  {
+    "index": 69,
+    "question": "Berat benda 5 kg di tempat g = 9,8 m/s² adalah...",
+    "answer": "A. 5 N\nB. 49 N\nC. 98 N\nD. 14,8 N\nE. 0,5 N",
+    "correct_answer": "B. 49 N",
+    "mean": "w = mg = 5 × 9,8 = 49 N."
+  },
+  {
+    "index": 70,
+    "question": "Koefisien gesek statis 0,4 pada benda 10 kg (g = 10). Gaya gesek statis maksimumnya...",
+    "answer": "A. 4 N\nB. 40 N\nC. 100 N\nD. 400 N\nE. 0,4 N",
+    "correct_answer": "B. 40 N",
+    "mean": "fs maks = μs·N = 0,4 × 100 = 40 N."
+  },
+  {
+    "index": 71,
+    "question": "Usaha untuk mengangkat benda 5 kg setinggi 2 m (g = 10) adalah...",
+    "answer": "A. 10 J\nB. 50 J\nC. 100 J\nD. 200 J\nE. 500 J",
+    "correct_answer": "C. 100 J",
+    "mean": "W = mgh = 5 × 10 × 2 = 100 J."
+  },
+  {
+    "index": 72,
+    "question": "Daya untuk melakukan usaha 600 J dalam 3 s adalah...",
+    "answer": "A. 100 W\nB. 200 W\nC. 300 W\nD. 600 W\nE. 1800 W",
+    "correct_answer": "B. 200 W",
+    "mean": "P = W/t = 600/3 = 200 W."
+  },
+  {
+    "index": 73,
+    "question": "Benda 2 kg bergerak 3 m/s. Energi kinetiknya...",
+    "answer": "A. 3 J\nB. 6 J\nC. 9 J\nD. 12 J\nE. 18 J",
+    "correct_answer": "C. 9 J",
+    "mean": "Ek = ½mv² = ½ × 2 × 9 = 9 J."
+  },
+  {
+    "index": 74,
+    "question": "Benda jatuh dari 10 m, g = 10. Kecepatan saat menyentuh tanah...",
+    "answer": "A. 5 m/s\nB. 10 m/s\nC. 14,1 m/s\nD. 20 m/s\nE. 100 m/s",
+    "correct_answer": "C. 14,1 m/s",
+    "mean": "v = √(2gh) = √200 ≈ 14,1 m/s."
+  },
+  {
+    "index": 75,
+    "question": "Momentum benda 4 kg bergerak 2 m/s adalah...",
+    "answer": "A. 2 kg·m/s\nB. 4 kg·m/s\nC. 8 kg·m/s\nD. 16 kg·m/s\nE. 0,5 kg·m/s",
+    "correct_answer": "C. 8 kg·m/s",
+    "mean": "p = mv = 4 × 2 = 8 kg·m/s."
+  },
+  {
+    "index": 76,
+    "question": "Bola 0,5 kg menumbuk dinding dan memantul dengan perubahan kecepatan 10 m/s. Impulsnya...",
+    "answer": "A. 0,5 N·s\nB. 5 N·s\nC. 10 N·s\nD. 20 N·s\nE. 50 N·s",
+    "correct_answer": "B. 5 N·s",
+    "mean": "I = mΔv = 0,5 × 10 = 5 N·s."
+  },
+  {
+    "index": 77,
+    "question": "Koefisien restitusi tumbukan lenting sempurna adalah...",
+    "answer": "A. 0\nB. 0,5\nC. 1\nD. -1\nE. 2",
+    "correct_answer": "C. 1",
+    "mean": "Pada lenting sempurna, e = 1."
+  },
+  {
+    "index": 78,
+    "question": "Pegas dengan k = 50 N/m ditarik 0,4 m. Gaya pegasnya...",
+    "answer": "A. 2 N\nB. 12,5 N\nC. 20 N\nD. 200 N\nE. 0,2 N",
+    "correct_answer": "C. 20 N",
+    "mean": "F = kx = 50 × 0,4 = 20 N."
+  },
+  {
+    "index": 79,
+    "question": "Tekanan hidrostatis pada kedalaman 2 m (ρ = 1000, g = 10) adalah...",
+    "answer": "A. 2000 Pa\nB. 5000 Pa\nC. 10000 Pa\nD. 20000 Pa\nE. 200000 Pa",
+    "correct_answer": "D. 20000 Pa",
+    "mean": "P = ρgh = 1000 × 10 × 2 = 20000 Pa."
+  },
+  {
+    "index": 80,
+    "question": "Benda volume 0,02 m³ tercelup seluruhnya di air (ρ = 1000). Gaya apungnya...",
+    "answer": "A. 20 N\nB. 100 N\nC. 200 N\nD. 2000 N\nE. 0,2 N",
+    "correct_answer": "C. 200 N",
+    "mean": "Fa = ρgV = 1000 × 10 × 0,02 = 200 N."
+  },
+  {
+    "index": 81,
+    "question": "Debit air yang mengalir melalui pipa 0,01 m² dengan v = 2 m/s adalah...",
+    "answer": "A. 0,02 m³/s\nB. 0,2 m³/s\nC. 2 m³/s\nD. 20 m³/s\nE. 0,002 m³/s",
+    "correct_answer": "A. 0,02 m³/s",
+    "mean": "Q = Av = 0,01 × 2 = 0,02 m³/s."
+  },
+  {
+    "index": 82,
+    "question": "Suhu 300 K sama dengan...",
+    "answer": "A. 27°C\nB. 73°C\nC. 127°C\nD. 273°C\nE. 573°C",
+    "correct_answer": "A. 27°C",
+    "mean": "°C = K - 273 = 300 - 273 = 27°C."
+  },
+  {
+    "index": 83,
+    "question": "Kalor jenis air 4200 J/kg°C. Kalor untuk memanaskan 1 kg air 10°C adalah...",
+    "answer": "A. 420 J\nB. 4200 J\nC. 42000 J\nD. 420000 J\nE. 42 J",
+    "correct_answer": "C. 42000 J",
+    "mean": "Q = mcΔT = 1 × 4200 × 10 = 42000 J."
+  },
+  {
+    "index": 84,
+    "question": "Perpindahan kalor melalui aliran fluida disebut...",
+    "answer": "A. Konduksi\nB. Konveksi\nC. Radiasi\nD. Evaporasi\nE. Sublimasi",
+    "correct_answer": "B. Konveksi",
+    "mean": "Konveksi adalah perpindahan kalor melalui aliran zat cair atau gas."
+  },
+  {
+    "index": 85,
+    "question": "Gas pada suhu tetap V1 = 3 L, P1 = 2 atm, V2 = 1 L. P2 adalah...",
+    "answer": "A. 2 atm\nB. 3 atm\nC. 6 atm\nD. 1 atm\nE. 0,67 atm",
+    "correct_answer": "C. 6 atm",
+    "mean": "P1V1 = P2V2 → 2×3 = P2×1 → P2 = 6 atm."
+  },
+  {
+    "index": 86,
+    "question": "Persamaan gas ideal adalah...",
+    "answer": "A. PV = nRT\nB. P = F/A\nC. V = IR\nD. Q = mcΔT\nE. F = ma",
+    "correct_answer": "A. PV = nRT",
+    "mean": "PV = nRT adalah persamaan gas ideal."
+  },
+  {
+    "index": 87,
+    "question": "Getaran dengan periode 0,2 s memiliki frekuensi...",
+    "answer": "A. 0,2 Hz\nB. 2 Hz\nC. 5 Hz\nD. 10 Hz\nE. 20 Hz",
+    "correct_answer": "C. 5 Hz",
+    "mean": "f = 1/T = 1/0,2 = 5 Hz."
+  },
+  {
+    "index": 88,
+    "question": "Gelombang dengan λ = 2 m dan f = 10 Hz memiliki v...",
+    "answer": "A. 0,2 m/s\nB. 5 m/s\nC. 12 m/s\nD. 20 m/s\nE. 100 m/s",
+    "correct_answer": "D. 20 m/s",
+    "mean": "v = λf = 2 × 10 = 20 m/s."
+  },
+  {
+    "index": 89,
+    "question": "Bunyi merambat paling cepat pada medium...",
+    "answer": "A. Udara\nB. Air\nC. Zat padat\nD. Vakum\nE. Gas",
+    "correct_answer": "C. Zat padat",
+    "mean": "Bunyi merambat paling cepat pada zat padat karena partikelnya rapat."
+  },
+  {
+    "index": 90,
+    "question": "Taraf intensitas 100 mesin dengan TI1 = 50 dB adalah...",
+    "answer": "A. 50 dB\nB. 60 dB\nC. 70 dB\nD. 100 dB\nE. 5000 dB",
+    "correct_answer": "C. 70 dB",
+    "mean": "TIn = 50 + 10 log 100 = 50 + 20 = 70 dB."
+  },
+  {
+    "index": 91,
+    "question": "Cermin datar menghasilkan bayangan...",
+    "answer": "A. Nyata terbalik\nB. Maya tegak\nC. Nyata tegak\nD. Maya terbalik\nE. Diperbesar",
+    "correct_answer": "B. Maya tegak",
+    "mean": "Cermin datar menghasilkan bayangan maya, tegak, sama besar."
+  },
+  {
+    "index": 92,
+    "question": "Benda 20 cm di depan cermin cekung f = 15 cm. Jarak bayangan...",
+    "answer": "A. 30 cm\nB. 60 cm\nC. 40 cm\nD. 25 cm\nE. 35 cm",
+    "correct_answer": "B. 60 cm",
+    "mean": "1/s' = 1/15 - 1/20 = 1/60 → s' = 60 cm."
+  },
+  {
+    "index": 93,
+    "question": "Lensa cekung f = -20 cm, benda 30 cm di depan. Jarak bayangan...",
+    "answer": "A. -12 cm\nB. 12 cm\nC. -60 cm\nD. 60 cm\nE. -30 cm",
+    "correct_answer": "A. -12 cm",
+    "mean": "1/s' = 1/f - 1/s = -1/20 - 1/30 = -5/60 → s' = -12 cm (maya)."
+  },
+  {
+    "index": 94,
+    "question": "Rabun jauh (miopi) diperbaiki dengan lensa...",
+    "answer": "A. Cembung\nB. Cekung\nC. Silindris\nD. Bifokal\nE. Plan",
+    "correct_answer": "B. Cekung",
+    "mean": "Miopi diperbaiki dengan lensa cekung (divergen)."
+  },
+  {
+    "index": 95,
+    "question": "Peristiwa penguraian cahaya putih menjadi warna-warni disebut...",
+    "answer": "A. Interferensi\nB. Difraksi\nC. Dispersi\nD. Polarisasi\nE. Refleksi",
+    "correct_answer": "C. Dispersi",
+    "mean": "Dispersi adalah penguraian cahaya putih menjadi spektrum warna."
+  },
+  {
+    "index": 96,
+    "question": "Polarisasi cahaya menunjukkan bahwa cahaya adalah gelombang...",
+    "answer": "A. Longitudinal\nB. Transversal\nC. Mekanik\nD. Bunyi\nE. Elektromagnetik longitudinal",
+    "correct_answer": "B. Transversal",
+    "mean": "Polarisasi hanya terjadi pada gelombang transversal."
+  },
+  {
+    "index": 97,
+    "question": "Dua muatan 2 μC dan 3 μC berjarak 6 cm. Gaya Coulombnya (k = 9×10⁹)...",
+    "answer": "A. 15 N\nB. 1,5 N\nC. 150 N\nD. 0,15 N\nE. 1500 N",
+    "correct_answer": "A. 15 N",
+    "mean": "F = kq1q2/r² = (9×10⁹ × 6×10⁻¹²)/(36×10⁻⁴) = 15 N."
+  },
+  {
+    "index": 98,
+    "question": "Kuat medan listrik pada jarak 3 m dari muatan 27 μC adalah...",
+    "answer": "A. 9×10³ N/C\nB. 2,7×10⁴ N/C\nC. 2,7×10⁵ N/C\nD. 8,1×10⁴ N/C\nE. 9×10⁴ N/C",
+    "correct_answer": "B. 2,7×10⁴ N/C",
+    "mean": "E = kq/r² = (9×10⁹ × 27×10⁻⁶)/9 = 2,7×10⁴ N/C."
+  },
+  {
+    "index": 99,
+    "question": "Kapasitor 10 μF dihubungkan 5 V. Muatannya...",
+    "answer": "A. 2 μC\nB. 50 μC\nC. 0,5 μC\nD. 15 μC\nE. 5 μC",
+    "correct_answer": "B. 50 μC",
+    "mean": "Q = CV = 10 × 5 = 50 μC."
+  },
+  {
+    "index": 100,
+    "question": "Rangkaian seri 3Ω dan 6Ω dihubungkan 12 V. Kuat arusnya...",
+    "answer": "A. 1,33 A\nB. 2 A\nC. 4 A\nD. 0,75 A\nE. 6 A",
+    "correct_answer": "A. 1,33 A",
+    "mean": "Rs = 9 Ω, I = V/R = 12/9 ≈ 1,33 A."
+  },
+  {
+    "index": 101,
+    "question": "Hambatan kawat 2 m, ρ = 1,7×10⁻⁸ Ωm, A = 1×10⁻⁶ m² adalah...",
+    "answer": "A. 0,034 Ω\nB. 0,34 Ω\nC. 3,4 Ω\nD. 34 Ω\nE. 0,0034 Ω",
+    "correct_answer": "A. 0,034 Ω",
+    "mean": "R = ρL/A = (1,7×10⁻⁸ × 2)/10⁻⁶ = 0,034 Ω."
+  },
+  {
+    "index": 102,
+    "question": "Daya alat 220 V, 2 A adalah...",
+    "answer": "A. 110 W\nB. 222 W\nC. 440 W\nD. 220 W\nE. 44 W",
+    "correct_answer": "C. 440 W",
+    "mean": "P = VI = 220 × 2 = 440 W."
+  },
+  {
+    "index": 103,
+    "question": "Medan magnet pada jarak 0,1 m dari kawat berarus 10 A (μ₀ = 4π×10⁻⁷) adalah...",
+    "answer": "A. 2×10⁻⁵ T\nB. 2×10⁻⁴ T\nC. 4×10⁻⁵ T\nD. 4×10⁻⁶ T\nE. 2×10⁻⁶ T",
+    "correct_answer": "A. 2×10⁻⁵ T",
+    "mean": "B = μ₀I/(2πa) = (4π×10⁻⁷ × 10)/(2π × 0,1) = 2×10⁻⁵ T."
+  },
+  {
+    "index": 104,
+    "question": "Gaya Lorentz muatan 2 C bergerak 5 m/s dalam B = 0,3 T tegak lurus adalah...",
+    "answer": "A. 0,3 N\nB. 3 N\nC. 0,6 N\nD. 6 N\nE. 30 N",
+    "correct_answer": "B. 3 N",
+    "mean": "F = qvB = 2 × 5 × 0,3 = 3 N."
+  },
+  {
+    "index": 105,
+    "question": "GGL induksi kumparan 100 lilitan jika fluks berubah 0,02 Wb dalam 0,1 s adalah...",
+    "answer": "A. 2 V\nB. 20 V\nC. 200 V\nD. 0,2 V\nE. 2000 V",
+    "correct_answer": "B. 20 V",
+    "mean": "ε = -N ΔΦ/Δt = 100 × 0,02/0,1 = 20 V."
+  },
+  {
+    "index": 106,
+    "question": "Transformator dengan Np = 1000, Ns = 500, Vp = 220 V. Vs adalah...",
+    "answer": "A. 110 V\nB. 220 V\nC. 440 V\nD. 55 V\nE. 880 V",
+    "correct_answer": "A. 110 V",
+    "mean": "Vs = Vp × Ns/Np = 220 × 500/1000 = 110 V."
+  },
+  {
+    "index": 107,
+    "question": "Rangkaian RLC dengan XL = 30 Ω, XC = 10 Ω, R = 20 Ω. Impedansinya...",
+    "answer": "A. 20 Ω\nB. 22,4 Ω\nC. 28,3 Ω\nD. 40 Ω\nE. 60 Ω",
+    "correct_answer": "C. 28,3 Ω",
+    "mean": "Z = √(R² + (XL - XC)²) = √(400 + 400) ≈ 28,3 Ω."
+  },
+  {
+    "index": 108,
+    "question": "Satuan SI untuk suhu adalah...",
+    "answer": "A. Celsius\nB. Kelvin\nC. Fahrenheit\nD. Reamur\nE. Rankine",
+    "correct_answer": "B. Kelvin",
+    "mean": "Kelvin adalah satuan SI untuk suhu."
+  },
+  {
+    "index": 109,
+    "question": "Besaran turunan berikut yang memiliki satuan sama dengan joule adalah...",
+    "answer": "A. Daya\nB. Usaha\nC. Gaya\nD. Momentum\nE. Tekanan",
+    "correct_answer": "B. Usaha",
+    "mean": "Usaha dan energi memiliki satuan joule."
+  },
+  {
+    "index": 110,
+    "question": "Notasi ilmiah dari 0,00045 adalah...",
+    "answer": "A. 4,5×10⁻⁴\nB. 4,5×10⁻³\nC. 4,5×10³\nD. 45×10⁻⁵\nE. 4,5×10⁻⁵",
+    "correct_answer": "A. 4,5×10⁻⁴",
+    "mean": "0,00045 = 4,5 × 10⁻⁴."
+  },
+  {
+    "index": 111,
+    "question": "Hasil 5,67 + 2,3 menurut angka penting adalah...",
+    "answer": "A. 7,97\nB. 8,0\nC. 7,9\nD. 8\nE. 7,970",
+    "correct_answer": "B. 8,0",
+    "mean": "Penjumlahan mengikuti jumlah desimal terkecil, yaitu 1 desimal → 8,0."
+  },
+  {
+    "index": 112,
+    "question": "Vektor A = 6i - 8j memiliki besar...",
+    "answer": "A. 2\nB. 10\nC. 14\nD. 48\nE. 100",
+    "correct_answer": "B. 10",
+    "mean": "|A| = √(36 + 64) = 10."
+  },
+  {
+    "index": 113,
+    "question": "Perpindahan benda dari titik (0,0) ke (3,4) adalah...",
+    "answer": "A. 3\nB. 4\nC. 5\nD. 7\nE. 12",
+    "correct_answer": "C. 5",
+    "mean": "Perpindahan = √(3² + 4²) = 5."
+  },
+  {
+    "index": 114,
+    "question": "Benda bergerak 6 m/s selama 10 s. Jaraknya...",
+    "answer": "A. 0,6 m\nB. 16 m\nC. 60 m\nD. 600 m\nE. 6 m",
+    "correct_answer": "C. 60 m",
+    "mean": "s = vt = 6 × 10 = 60 m."
+  },
+  {
+    "index": 115,
+    "question": "Benda dipercepat dari 5 m/s ke 15 m/s dalam 2 s. Percepatannya...",
+    "answer": "A. 2,5 m/s²\nB. 5 m/s²\nC. 7,5 m/s²\nD. 10 m/s²\nE. 20 m/s²",
+    "correct_answer": "B. 5 m/s²",
+    "mean": "a = Δv/Δt = (15-5)/2 = 5 m/s²."
+  },
+  {
+    "index": 116,
+    "question": "Mobil dipercepat 3 m/s² dari diam. Jarak setelah 4 s adalah...",
+    "answer": "A. 6 m\nB. 12 m\nC. 24 m\nD. 48 m\nE. 96 m",
+    "correct_answer": "C. 24 m",
+    "mean": "s = ½at² = ½ × 3 × 16 = 24 m."
+  },
+  {
+    "index": 117,
+    "question": "Benda dilempar vertikal ke atas v₀ = 30 m/s. Waktu di titik tertinggi (g = 10)...",
+    "answer": "A. 1 s\nB. 2 s\nC. 3 s\nD. 4 s\nE. 5 s",
+    "correct_answer": "C. 3 s",
+    "mean": "t = v₀/g = 30/10 = 3 s."
+  },
+  {
+    "index": 118,
+    "question": "Kecepatan sudut benda T = 0,5 s adalah...",
+    "answer": "A. 2π rad/s\nB. 4π rad/s\nC. π rad/s\nD. 0,5π rad/s\nE. 8π rad/s",
+    "correct_answer": "B. 4π rad/s",
+    "mean": "ω = 2π/T = 2π/0,5 = 4π rad/s."
+  },
+  {
+    "index": 119,
+    "question": "Gaya sentripetal benda 2 kg, v = 4 m/s, r = 2 m adalah...",
+    "answer": "A. 4 N\nB. 8 N\nC. 16 N\nD. 32 N\nE. 2 N",
+    "correct_answer": "C. 16 N",
+    "mean": "Fs = mv²/r = 2 × 16/2 = 16 N."
+  },
+  {
+    "index": 120,
+    "question": "Hukum Newton III menyatakan...",
+    "answer": "A. F = ma\nB. Aksi = reaksi\nC. Benda mempertahankan keadaan\nD. Energi kekal\nE. Momentum kekal",
+    "correct_answer": "B. Aksi = reaksi",
+    "mean": "Setiap aksi menimbulkan reaksi yang sama besar dan berlawanan arah."
+  },
+  {
+    "index": 121,
+    "question": "Berat benda 10 kg di bulan (g = 1,6 m/s²) adalah...",
+    "answer": "A. 1,6 N\nB. 16 N\nC. 160 N\nD. 10 N\nE. 100 N",
+    "correct_answer": "B. 16 N",
+    "mean": "w = mg = 10 × 1,6 = 16 N."
+  },
+  {
+    "index": 122,
+    "question": "Gaya normal benda 5 kg di bidang miring 30° (g = 10) adalah...",
+    "answer": "A. 25 N\nB. 43,3 N\nC. 50 N\nD. 5 N\nE. 10 N",
+    "correct_answer": "B. 43,3 N",
+    "mean": "N = mg cos θ = 5 × 10 × cos 30° ≈ 43,3 N."
+  },
+  {
+    "index": 123,
+    "question": "Usaha total jika gaya 10 N searah perpindahan 5 m adalah...",
+    "answer": "A. 2 J\nB. 5 J\nC. 15 J\nD. 50 J\nE. 500 J",
+    "correct_answer": "D. 50 J",
+    "mean": "W = Fs = 10 × 5 = 50 J."
+  },
+  {
+    "index": 124,
+    "question": "Daya mesin yang melakukan usaha 3000 J dalam 10 s adalah...",
+    "answer": "A. 30 W\nB. 300 W\nC. 3000 W\nD. 30000 W\nE. 3 W",
+    "correct_answer": "B. 300 W",
+    "mean": "P = W/t = 3000/10 = 300 W."
+  },
+  {
+    "index": 125,
+    "question": "Energi kinetik benda jika massa digandakan dan v tetap...",
+    "answer": "A. Sama\nB. 2 kali\nC. 4 kali\nD. ½ kali\nE. ¼ kali",
+    "correct_answer": "B. 2 kali",
+    "mean": "Ek = ½mv², jika m digandakan maka Ek menjadi 2 kali."
+  },
+  {
+    "index": 126,
+    "question": "Benda 4 kg di ketinggian 3 m memiliki Ep (g = 10)...",
+    "answer": "A. 12 J\nB. 30 J\nC. 120 J\nD. 1200 J\nE. 7 J",
+    "correct_answer": "C. 120 J",
+    "mean": "Ep = mgh = 4 × 10 × 3 = 120 J."
+  },
+  {
+    "index": 127,
+    "question": "Momentum total dua benda 2 kg (3 m/s) dan 3 kg (2 m/s) searah adalah...",
+    "answer": "A. 6 kg·m/s\nB. 12 kg·m/s\nC. 0 kg·m/s\nD. 5 kg·m/s\nE. 30 kg·m/s",
+    "correct_answer": "B. 12 kg·m/s",
+    "mean": "p = m1v1 + m2v2 = 6 + 6 = 12 kg·m/s."
+  },
+  {
+    "index": 128,
+    "question": "Bola 1 kg jatuh dari 5 m dan memantul setinggi 1,25 m. Koefisien restitusinya...",
+    "answer": "A. 0,25\nB. 0,5\nC. 0,75\nD. 1\nE. 0",
+    "correct_answer": "B. 0,5",
+    "mean": "e = √(h'/h) = √(1,25/5) = √0,25 = 0,5."
+  },
+  {
+    "index": 129,
+    "question": "Pegas disusun seri k1 = 100, k2 = 100 N/m. Konstanta penggantinya...",
+    "answer": "A. 200 N/m\nB. 100 N/m\nC. 50 N/m\nD. 25 N/m\nE. 150 N/m",
+    "correct_answer": "C. 50 N/m",
+    "mean": "Seri: 1/ks = 1/100 + 1/100 → ks = 50 N/m."
+  },
+  {
+    "index": 130,
+    "question": "Tekanan 200 N pada luas 0,5 m² adalah...",
+    "answer": "A. 100 Pa\nB. 200 Pa\nC. 400 Pa\nD. 40 Pa\nE. 1000 Pa",
+    "correct_answer": "C. 400 Pa",
+    "mean": "P = F/A = 200/0,5 = 400 Pa."
+  },
+  {
+    "index": 131,
+    "question": "Hukum Pascal menyatakan...",
+    "answer": "A. Tekanan diteruskan ke segala arah\nB. Gaya apung\nC. Debit konstan\nD. Tekanan berbanding kecepatan\nE. Energi kekal",
+    "correct_answer": "A. Tekanan diteruskan ke segala arah",
+    "mean": "Tekanan yang diberikan pada fluida tertutup diteruskan ke segala arah sama besar."
+  },
+  {
+    "index": 132,
+    "question": "Benda massa jenis 800 kg/m³ dicelupkan ke air (1000 kg/m³). Benda akan...",
+    "answer": "A. Tenggelam\nB. Terapung\nC. Melayang\nD. Jatuh\nE. Hilang",
+    "correct_answer": "B. Terapung",
+    "mean": "ρbenda < ρair, sehingga benda terapung."
+  },
+  {
+    "index": 133,
+    "question": "Persamaan Bernoulli adalah...",
+    "answer": "A. P + ½ρv² + ρgh = konstan\nB. P1V1 = P2V2\nC. A1v1 = A2v2\nD. F = ma\nE. Q = mcΔT",
+    "correct_answer": "A. P + ½ρv² + ρgh = konstan",
+    "mean": "P + ½ρv² + ρgh = konstan berlaku untuk aliran fluida ideal."
+  },
+  {
+    "index": 134,
+    "question": "Kalor yang diperlukan untuk mengubah 1 kg es 0°C menjadi air 0°C (L = 334000 J/kg) adalah...",
+    "answer": "A. 334 J\nB. 3340 J\nC. 334000 J\nD. 3340000 J\nE. 33,4 J",
+    "correct_answer": "C. 334000 J",
+    "mean": "Q = mL = 1 × 334000 = 334000 J."
+  },
+  {
+    "index": 135,
+    "question": "Perpindahan kalor tanpa medium disebut...",
+    "answer": "A. Konduksi\nB. Konveksi\nC. Radiasi\nD. Evaporasi\nE. Sublimasi",
+    "correct_answer": "C. Radiasi",
+    "mean": "Radiasi adalah perpindahan kalor tanpa medium perantara."
+  },
+  {
+    "index": 136,
+    "question": "Gas ideal P = 2 atm, V = 4 L, T = 300 K. Jika T menjadi 600 K pada P tetap, V menjadi...",
+    "answer": "A. 2 L\nB. 4 L\nC. 6 L\nD. 8 L\nE. 16 L",
+    "correct_answer": "D. 8 L",
+    "mean": "V1/T1 = V2/T2 → 4/300 = V2/600 → V2 = 8 L."
+  },
+  {
+    "index": 137,
+    "question": "Energi kinetik rata-rata molekul gas pada suhu 300 K (k = 1,38×10⁻²³) adalah...",
+    "answer": "A. 6,21×10⁻²¹ J\nB. 6,21×10⁻²² J\nC. 6,21×10⁻²⁰ J\nD. 3,1×10⁻²¹ J\nE. 1,38×10⁻²³ J",
+    "correct_answer": "A. 6,21×10⁻²¹ J",
+    "mean": "Ek = (3/2)kT = 1,5 × 1,38×10⁻²³ × 300 ≈ 6,21×10⁻²¹ J."
+  },
+  {
+    "index": 138,
+    "question": "Getaran dengan amplitudo 4 cm, frekuensi 5 Hz. Simpangan maksimumnya...",
+    "answer": "A. 4 cm\nB. 5 cm\nC. 9 cm\nD. 20 cm\nE. 0,8 cm",
+    "correct_answer": "A. 4 cm",
+    "mean": "Simpangan maksimum sama dengan amplitudo, yaitu 4 cm."
+  },
+  {
+    "index": 139,
+    "question": "Gelombang stasioner terjadi karena...",
+    "answer": "A. Dua gelombang berlawanan arah\nB. Satu gelombang\nC. Pembiasan\nD. Difraksi\nE. Polarisasi",
+    "correct_answer": "A. Dua gelombang berlawanan arah",
+    "mean": "Gelombang stasioner terbentuk dari superposisi dua gelombang berlawanan arah."
+  },
+  {
+    "index": 140,
+    "question": "Nada dasar dawai panjang 0,5 m (v = 340 m/s) adalah...",
+    "answer": "A. 170 Hz\nB. 340 Hz\nC. 680 Hz\nD. 85 Hz\nE. 100 Hz",
+    "correct_answer": "B. 340 Hz",
+    "mean": "f = v/(2L) = 340/(2×0,5) = 340 Hz."
+  },
+  {
+    "index": 141,
+    "question": "Taraf intensitas bunyi berbanding...",
+    "answer": "A. Intensitas\nB. Logaritma intensitas\nC. Kuadrat intensitas\nD. Akar intensitas\nE. Kebalikan intensitas",
+    "correct_answer": "B. Logaritma intensitas",
+    "mean": "TI = 10 log(I/I₀), bergantung pada logaritma intensitas."
+  },
+  {
+    "index": 142,
+    "question": "Sifat bayangan pada cermin cembung selalu...",
+    "answer": "A. Nyata terbalik\nB. Maya tegak diperkecil\nC. Nyata tegak\nD. Maya terbalik\nE. Nyata diperbesar",
+    "correct_answer": "B. Maya tegak diperkecil",
+    "mean": "Cermin cembung selalu menghasilkan bayangan maya, tegak, diperkecil."
+  },
+  {
+    "index": 143,
+    "question": "Perbesaran lensa jika s = 20 cm, s' = 40 cm adalah...",
+    "answer": "A. 0,5\nB. 1\nC. 2\nD. 4\nE. 20",
+    "correct_answer": "C. 2",
+    "mean": "M = |s'/s| = 40/20 = 2."
+  },
+  {
+    "index": 144,
+    "question": "Cacat mata astigmatisme diperbaiki dengan lensa...",
+    "answer": "A. Cekung\nB. Cembung\nC. Silindris\nD. Bifokal\nE. Plan",
+    "correct_answer": "C. Silindris",
+    "mean": "Astigmatisme diperbaiki dengan lensa silindris."
+  },
+  {
+    "index": 145,
+    "question": "Cahaya merambat dari udara ke air, maka...",
+    "answer": "A. Cepat rambat bertambah\nB. Cepat rambat berkurang\nC. Tetap\nD. Frekuensi berubah\nE. Panjang gelombang bertambah",
+    "correct_answer": "B. Cepat rambat berkurang",
+    "mean": "Cahaya merambat lebih lambat di medium lebih rapat (air)."
+  },
+  {
+    "index": 146,
+    "question": "Sudut kritis terjadi jika...",
+    "answer": "A. n1 < n2\nB. n1 > n2\nC. n1 = n2\nD. Sudut datang 0\nE. Sudut bias 90°",
+    "correct_answer": "B. n1 > n2",
+    "mean": "Sudut kritis terjadi saat cahaya dari medium rapat ke renggang dengan sudut bias 90°."
+  },
+  {
+    "index": 147,
+    "question": "Dua muatan 5 μC dan 5 μC berjarak 10 cm. Gaya Coulombnya...",
+    "answer": "A. 2,25 N\nB. 22,5 N\nC. 225 N\nD. 0,225 N\nE. 2,25×10⁴ N",
+    "correct_answer": "B. 22,5 N",
+    "mean": "F = (9×10⁹ × 25×10⁻¹²)/0,01 = 22,5 N."
+  },
+  {
+    "index": 148,
+    "question": "Kuat medan listrik pada jarak 0,5 m dari muatan 5 μC adalah...",
+    "answer": "A. 1,8×10⁵ N/C\nB. 1,8×10⁴ N/C\nC. 9×10⁴ N/C\nD. 9×10⁵ N/C\nE. 1,8×10⁶ N/C",
+    "correct_answer": "A. 1,8×10⁵ N/C",
+    "mean": "E = kq/r² = (9×10⁹ × 5×10⁻⁶)/0,25 = 1,8×10⁵ N/C."
+  },
+  {
+    "index": 149,
+    "question": "Energi kapasitor 2 μF pada tegangan 10 V adalah...",
+    "answer": "A. 10⁻⁴ J\nB. 2×10⁻⁴ J\nC. 10⁻³ J\nD. 2×10⁻³ J\nE. 10⁻⁵ J",
+    "correct_answer": "A. 10⁻⁴ J",
+    "mean": "W = ½CV² = ½ × 2×10⁻⁶ × 100 = 10⁻⁴ J."
+  },
+  {
+    "index": 150,
+    "question": "Kuat arus jika 60 C mengalir dalam 30 s adalah...",
+    "answer": "A. 0,5 A\nB. 2 A\nC. 30 A\nD. 1800 A\nE. 5 A",
+    "correct_answer": "B. 2 A",
+    "mean": "I = Q/t = 60/30 = 2 A."
+  },
+  {
+    "index": 151,
+    "question": "Hambatan pengganti seri 4Ω, 6Ω, 10Ω adalah...",
+    "answer": "A. 20 Ω\nB. 10 Ω\nC. 2 Ω\nD. 0,5 Ω\nE. 1,9 Ω",
+    "correct_answer": "A. 20 Ω",
+    "mean": "Seri: Rs = 4 + 6 + 10 = 20 Ω."
+  },
+  {
+    "index": 152,
+    "question": "Energi listrik setrika 300 W selama 2 jam adalah...",
+    "answer": "A. 0,6 kWh\nB. 6 kWh\nC. 150 kWh\nD. 600 kWh\nE. 60 kWh",
+    "correct_answer": "A. 0,6 kWh",
+    "mean": "W = 300 × 2 = 600 Wh = 0,6 kWh."
+  },
+  {
+    "index": 153,
+    "question": "Arah medan magnet di sekitar kawat berarus ditentukan dengan...",
+    "answer": "A. Kaidah tangan kanan\nB. Kaidah tangan kiri\nC. Hukum Ohm\nD. Hukum Faraday\nE. Hukum Lenz",
+    "correct_answer": "A. Kaidah tangan kanan",
+    "mean": "Kaidah tangan kanan menentukan arah medan magnet di sekitar kawat berarus."
+  },
+  {
+    "index": 154,
+    "question": "Gaya Lorentz muatan 3 μC bergerak 4×10⁵ m/s dalam B = 0,2 T tegak lurus adalah...",
+    "answer": "A. 0,24 N\nB. 2,4 N\nC. 0,024 N\nD. 24 N\nE. 2,4×10⁻³ N",
+    "correct_answer": "A. 0,24 N",
+    "mean": "F = qvB = 3×10⁻⁶ × 4×10⁵ × 0,2 = 0,24 N."
+  },
+  {
+    "index": 155,
+    "question": "Hukum Lenz berkaitan dengan...",
+    "answer": "A. Arah GGL induksi\nB. Besar GGL\nC. Arah arus listrik\nD. Hambatan\nE. Daya",
+    "correct_answer": "A. Arah GGL induksi",
+    "mean": "Hukum Lenz menyatakan arah arus induksi menentang perubahan fluks."
+  },
+  {
+    "index": 156,
+    "question": "Efisiensi transformator jika Pp = 100 W dan Ps = 80 W adalah...",
+    "answer": "A. 20%\nB. 80%\nC. 100%\nD. 180%\nE. 8%",
+    "correct_answer": "B. 80%",
+    "mean": "η = Ps/Pp × 100% = 80/100 × 100% = 80%."
+  },
+  {
+    "index": 157,
+    "question": "Reaktansi induktif L = 0,5 H pada f = 100/π Hz adalah...",
+    "answer": "A. 50 Ω\nB. 100 Ω\nC. 25 Ω\nD. 200 Ω\nE. 5 Ω",
+    "correct_answer": "B. 100 Ω",
+    "mean": "XL = ωL = 2πfL = 2π × (100/π) × 0,5 = 100 Ω."
+  },
+  {
+    "index": 158,
+    "question": "Reaktansi kapasitif C = 10 μF pada ω = 1000 rad/s adalah...",
+    "answer": "A. 10 Ω\nB. 100 Ω\nC. 1000 Ω\nD. 0,1 Ω\nE. 1 Ω",
+    "correct_answer": "B. 100 Ω",
+    "mean": "XC = 1/(ωC) = 1/(1000 × 10⁻⁵) = 100 Ω."
+  },
+  {
+    "index": 159,
+    "question": "Satuan SI untuk kuat arus listrik adalah...",
+    "answer": "A. volt\nB. ampere\nC. ohm\nD. watt\nE. coulomb",
+    "correct_answer": "B. ampere",
+    "mean": "Ampere adalah satuan SI untuk kuat arus listrik."
+  },
+  {
+    "index": 160,
+    "question": "Besaran berikut yang termasuk besaran pokok adalah...",
+    "answer": "A. Kecepatan\nB. Gaya\nC. Suhu\nD. Tekanan\nE. Usaha",
+    "correct_answer": "C. Suhu",
+    "mean": "Suhu termasuk besaran pokok dengan satuan Kelvin."
+  },
+  {
+    "index": 161,
+    "question": "Dimensi dari besaran energi adalah...",
+    "answer": "A. [M][L]²[T]⁻²\nB. [M][L][T]⁻²\nC. [M][L]²[T]⁻¹\nD. [M][L][T]⁻¹\nE. [M][L]⁻¹[T]⁻²",
+    "correct_answer": "A. [M][L]²[T]⁻²",
+    "mean": "Energi = gaya × jarak, dimensinya [M][L]²[T]⁻²."
+  },
+  {
+    "index": 162,
+    "question": "Ketelitian mistar adalah...",
+    "answer": "A. 0,1 cm\nB. 0,01 cm\nC. 0,001 cm\nD. 1 cm\nE. 0,5 cm",
+    "correct_answer": "A. 0,1 cm",
+    "mean": "Mistar memiliki ketelitian 1 mm atau 0,1 cm."
+  },
+  {
+    "index": 163,
+    "question": "Hasil 10,5 : 2,1 menurut angka penting adalah...",
+    "answer": "A. 5\nB. 5,0\nC. 5,00\nD. 5,000\nE. 50",
+    "correct_answer": "B. 5,0",
+    "mean": "Pembagian mengikuti angka penting terkecil, yaitu 2 AP → 5,0."
+  },
+  {
+    "index": 164,
+    "question": "Resultan dua vektor 3 N dan 4 N yang saling tegak lurus adalah...",
+    "answer": "A. 1 N\nB. 5 N\nC. 7 N\nD. 12 N\nE. 25 N",
+    "correct_answer": "B. 5 N",
+    "mean": "R = √(3² + 4²) = 5 N."
+  },
+  {
+    "index": 165,
+    "question": "Benda bergerak 4 m ke utara lalu 3 m ke timur. Jarak totalnya...",
+    "answer": "A. 1 m\nB. 5 m\nC. 7 m\nD. 12 m\nE. 25 m",
+    "correct_answer": "C. 7 m",
+    "mean": "Jarak = 4 + 3 = 7 m (skalar)."
+  },
+  {
+    "index": 166,
+    "question": "Kecepatan akhir benda v₀ = 10 m/s, a = 2 m/s², t = 5 s adalah...",
+    "answer": "A. 10 m/s\nB. 15 m/s\nC. 20 m/s\nD. 25 m/s\nE. 30 m/s",
+    "correct_answer": "C. 20 m/s",
+    "mean": "v = v₀ + at = 10 + 10 = 20 m/s."
+  },
+  {
+    "index": 167,
+    "question": "Jarak benda dipercepat dari diam a = 4 m/s² selama 5 s adalah...",
+    "answer": "A. 20 m\nB. 40 m\nC. 50 m\nD. 100 m\nE. 200 m",
+    "correct_answer": "C. 50 m",
+    "mean": "s = ½at² = ½ × 4 × 25 = 50 m."
+  },
+  {
+    "index": 168,
+    "question": "Bola dilempar vertikal ke atas v₀ = 15 m/s. Tinggi maksimum (g = 10)...",
+    "answer": "A. 11,25 m\nB. 22,5 m\nC. 15 m\nD. 30 m\nE. 1,5 m",
+    "correct_answer": "A. 11,25 m",
+    "mean": "h = v₀²/(2g) = 225/20 = 11,25 m."
+  },
+  {
+    "index": 169,
+    "question": "Benda bergerak melingkar T = 2 s. Frekuensinya...",
+    "answer": "A. 0,5 Hz\nB. 2 Hz\nC. 4 Hz\nD. 0,25 Hz\nE. 1 Hz",
+    "correct_answer": "A. 0,5 Hz",
+    "mean": "f = 1/T = 1/2 = 0,5 Hz."
+  },
+  {
+    "index": 170,
+    "question": "Percepatan sentripetal benda ω = 4 rad/s, r = 0,5 m adalah...",
+    "answer": "A. 2 m/s²\nB. 4 m/s²\nC. 8 m/s²\nD. 16 m/s²\nE. 0,5 m/s²",
+    "correct_answer": "C. 8 m/s²",
+    "mean": "as = ω²r = 16 × 0,5 = 8 m/s²."
+  },
+  {
+    "index": 171,
+    "question": "Gaya 60 N pada benda 12 kg. Percepatannya...",
+    "answer": "A. 2 m/s²\nB. 5 m/s²\nC. 12 m/s²\nD. 72 m/s²\nE. 720 m/s²",
+    "correct_answer": "B. 5 m/s²",
+    "mean": "a = F/m = 60/12 = 5 m/s²."
+  },
+  {
+    "index": 172,
+    "question": "Berat benda 8 kg (g = 10) adalah...",
+    "answer": "A. 8 N\nB. 18 N\nC. 80 N\nD. 800 N\nE. 0,8 N",
+    "correct_answer": "C. 80 N",
+    "mean": "w = mg = 8 × 10 = 80 N."
+  },
+  {
+    "index": 173,
+    "question": "Gaya gesek kinetis benda 5 kg dengan μk = 0,2 (g = 10) adalah...",
+    "answer": "A. 1 N\nB. 10 N\nC. 100 N\nD. 0,1 N\nE. 50 N",
+    "correct_answer": "B. 10 N",
+    "mean": "fk = μk·N = 0,2 × 50 = 10 N."
+  },
+  {
+    "index": 174,
+    "question": "Usaha gaya 25 N dengan perpindahan 8 m searah adalah...",
+    "answer": "A. 3,125 J\nB. 33 J\nC. 200 J\nD. 2000 J\nE. 17 J",
+    "correct_answer": "C. 200 J",
+    "mean": "W = Fs = 25 × 8 = 200 J."
+  },
+  {
+    "index": 175,
+    "question": "Daya untuk usaha 1200 J dalam 4 s adalah...",
+    "answer": "A. 300 W\nB. 4800 W\nC. 0,003 W\nD. 120 W\nE. 30 W",
+    "correct_answer": "A. 300 W",
+    "mean": "P = W/t = 1200/4 = 300 W."
+  },
+  {
+    "index": 176,
+    "question": "Energi kinetik benda 6 kg bergerak 10 m/s adalah...",
+    "answer": "A. 30 J\nB. 60 J\nC. 300 J\nD. 600 J\nE. 6000 J",
+    "correct_answer": "C. 300 J",
+    "mean": "Ek = ½mv² = ½ × 6 × 100 = 300 J."
+  },
+  {
+    "index": 177,
+    "question": "Benda 3 kg di ketinggian 8 m (g = 10) memiliki Ep...",
+    "answer": "A. 24 J\nB. 240 J\nC. 2400 J\nD. 80 J\nE. 11 J",
+    "correct_answer": "B. 240 J",
+    "mean": "Ep = mgh = 3 × 10 × 8 = 240 J."
+  },
+  {
+    "index": 178,
+    "question": "Momentum benda 5 kg bergerak 6 m/s adalah...",
+    "answer": "A. 11 kg·m/s\nB. 30 kg·m/s\nC. 1,2 kg·m/s\nD. 0,83 kg·m/s\nE. 300 kg·m/s",
+    "correct_answer": "B. 30 kg·m/s",
+    "mean": "p = mv = 5 × 6 = 30 kg·m/s."
+  },
+  {
+    "index": 179,
+    "question": "Impuls gaya 40 N selama 0,25 s adalah...",
+    "answer": "A. 10 N·s\nB. 40 N·s\nC. 160 N·s\nD. 0,1 N·s\nE. 100 N·s",
+    "correct_answer": "A. 10 N·s",
+    "mean": "I = F·Δt = 40 × 0,25 = 10 N·s."
+  },
+  {
+    "index": 180,
+    "question": "Koefisien restitusi tumbukan tidak lenting sama sekali adalah...",
+    "answer": "A. 0\nB. 0,5\nC. 1\nD. -1\nE. 2",
+    "correct_answer": "A. 0",
+    "mean": "Pada tumbukan tidak lenting sama sekali, e = 0 dan benda menyatu."
+  },
+  {
+    "index": 181,
+    "question": "Pegas disusun paralel k1 = 200, k2 = 300 N/m. Konstanta penggantinya...",
+    "answer": "A. 120 N/m\nB. 250 N/m\nC. 500 N/m\nD. 100 N/m\nE. 600 N/m",
+    "correct_answer": "C. 500 N/m",
+    "mean": "Paralel: kp = k1 + k2 = 200 + 300 = 500 N/m."
+  },
+  {
+    "index": 182,
+    "question": "Tekanan hidrostatis pada kedalaman 4 m (ρ = 1000, g = 10)...",
+    "answer": "A. 4000 Pa\nB. 40000 Pa\nC. 400 Pa\nD. 400000 Pa\nE. 1000 Pa",
+    "correct_answer": "B. 40000 Pa",
+    "mean": "P = ρgh = 1000 × 10 × 4 = 40000 Pa."
+  },
+  {
+    "index": 183,
+    "question": "Benda volume 0,5 m³ tercelup setengah di air (ρ = 1000, g = 10). Gaya apungnya...",
+    "answer": "A. 500 N\nB. 2500 N\nC. 5000 N\nD. 250 N\nE. 50000 N",
+    "correct_answer": "B. 2500 N",
+    "mean": "Fa = ρgVtercelup = 1000 × 10 × 0,25 = 2500 N."
+  },
+  {
+    "index": 184,
+    "question": "Debit fluida Q = 0,5 m³/s melalui pipa A = 0,25 m². Kecepatannya...",
+    "answer": "A. 0,5 m/s\nB. 2 m/s\nC. 0,125 m/s\nD. 12,5 m/s\nE. 5 m/s",
+    "correct_answer": "B. 2 m/s",
+    "mean": "v = Q/A = 0,5/0,25 = 2 m/s."
+  },
+  {
+    "index": 185,
+    "question": "Suhu 127°C sama dengan...",
+    "answer": "A. 400 K\nB. 254 K\nC. 300 K\nD. 127 K\nE. 500 K",
+    "correct_answer": "A. 400 K",
+    "mean": "K = 127 + 273 = 400 K."
+  },
+  {
+    "index": 186,
+    "question": "Kalor untuk memanaskan 3 kg air (c = 4200) naik 30°C adalah...",
+    "answer": "A. 378000 J\nB. 37800 J\nC. 12600 J\nD. 126000 J\nE. 3780 J",
+    "correct_answer": "A. 378000 J",
+    "mean": "Q = mcΔT = 3 × 4200 × 30 = 378000 J."
+  },
+  {
+    "index": 187,
+    "question": "Perpindahan kalor dari matahari ke bumi terjadi secara...",
+    "answer": "A. Konduksi\nB. Konveksi\nC. Radiasi\nD. Evaporasi\nE. Konduksi dan konveksi",
+    "correct_answer": "C. Radiasi",
+    "mean": "Radiasi, karena tidak memerlukan medium perantara."
+  },
+  {
+    "index": 188,
+    "question": "Gas P1 = 3 atm, T1 = 300 K, T2 = 400 K pada V tetap. P2 adalah...",
+    "answer": "A. 2 atm\nB. 3 atm\nC. 4 atm\nD. 5 atm\nE. 6 atm",
+    "correct_answer": "C. 4 atm",
+    "mean": "P1/T1 = P2/T2 → 3/300 = P2/400 → P2 = 4 atm."
+  },
+  {
+    "index": 189,
+    "question": "Getaran dengan f = 4 Hz memiliki periode...",
+    "answer": "A. 0,25 s\nB. 0,4 s\nC. 2,5 s\nD. 4 s\nE. 8 s",
+    "correct_answer": "A. 0,25 s",
+    "mean": "T = 1/f = 1/4 = 0,25 s."
+  },
+  {
+    "index": 190,
+    "question": "Gelombang dengan v = 340 m/s, f = 170 Hz memiliki λ...",
+    "answer": "A. 0,5 m\nB. 2 m\nC. 1 m\nD. 5 m\nE. 10 m",
+    "correct_answer": "B. 2 m",
+    "mean": "λ = v/f = 340/170 = 2 m."
+  },
+  {
+    "index": 191,
+    "question": "Bunyi ultrasonik memiliki frekuensi...",
+    "answer": "A. < 20 Hz\nB. 20-20000 Hz\nC. > 20000 Hz\nD. 0 Hz\nE. 20000 Hz",
+    "correct_answer": "C. > 20000 Hz",
+    "mean": "Ultrasonik memiliki frekuensi di atas 20000 Hz."
+  },
+  {
+    "index": 192,
+    "question": "Taraf intensitas 1000 mesin dengan TI1 = 30 dB adalah...",
+    "answer": "A. 30 dB\nB. 40 dB\nC. 50 dB\nD. 60 dB\nE. 30000 dB",
+    "correct_answer": "D. 60 dB",
+    "mean": "TIn = 30 + 10 log 1000 = 30 + 30 = 60 dB."
+  },
+  {
+    "index": 193,
+    "question": "Cermin cekung f = 12 cm, benda 18 cm di depan. Jarak bayangan...",
+    "answer": "A. 24 cm\nB. 36 cm\nC. 6 cm\nD. 30 cm\nE. 18 cm",
+    "correct_answer": "B. 36 cm",
+    "mean": "1/s' = 1/12 - 1/18 = 1/36 → s' = 36 cm."
+  },
+  {
+    "index": 194,
+    "question": "Lensa cembung f = 15 cm, benda 10 cm di depan. Jarak bayangan...",
+    "answer": "A. -30 cm\nB. 30 cm\nC. 6 cm\nD. -6 cm\nE. 25 cm",
+    "correct_answer": "A. -30 cm",
+    "mean": "1/s' = 1/15 - 1/10 = -1/30 → s' = -30 cm (maya)."
+  },
+  {
+    "index": 195,
+    "question": "Kekuatan lensa f = -25 cm adalah...",
+    "answer": "A. 4 D\nB. -4 D\nC. 0,25 D\nD. -0,25 D\nE. 25 D",
+    "correct_answer": "B. -4 D",
+    "mean": "P = 1/f(m) = 1/(-0,25) = -4 dioptri."
+  },
+  {
+    "index": 196,
+    "question": "Perbesaran mikroskop jika Mob = 10, Moc = 5 adalah...",
+    "answer": "A. 2\nB. 15\nC. 50\nD. 5\nE. 10",
+    "correct_answer": "C. 50",
+    "mean": "Mtotal = Mob × Moc = 10 × 5 = 50."
+  },
+  {
+    "index": 197,
+    "question": "Dua muatan 6 μC dan 4 μC berjarak 2 cm. Gaya Coulombnya...",
+    "answer": "A. 54 N\nB. 540 N\nC. 5,4 N\nD. 0,54 N\nE. 5400 N",
+    "correct_answer": "B. 540 N",
+    "mean": "F = (9×10⁹ × 24×10⁻¹²)/(4×10⁻⁴) = 540 N."
+  },
+  {
+    "index": 198,
+    "question": "Kuat medan listrik pada jarak 1 m dari muatan 1 μC adalah...",
+    "answer": "A. 9×10³ N/C\nB. 9×10⁴ N/C\nC. 9×10⁵ N/C\nD. 9×10² N/C\nE. 9×10⁶ N/C",
+    "correct_answer": "A. 9×10³ N/C",
+    "mean": "E = kq/r² = 9×10⁹ × 10⁻⁶ = 9×10³ N/C."
+  },
+  {
+    "index": 199,
+    "question": "Kapasitor 5 μF dan 10 μF disusun paralel. Kapasitansi totalnya...",
+    "answer": "A. 3,33 μF\nB. 15 μF\nC. 50 μF\nD. 5 μF\nE. 2 μF",
+    "correct_answer": "B. 15 μF",
+    "mean": "Paralel: Cp = C1 + C2 = 5 + 10 = 15 μF."
+  },
+  {
+    "index": 200,
+    "question": "Rangkaian seri R = 3Ω, L = 0,1 H, C = 1000 μF pada ω = 100 rad/s. Impedansinya...",
+    "answer": "A. 3 Ω\nB. 5 Ω\nC. 10 Ω\nD. 15 Ω\nE. 20 Ω",
+    "correct_answer": "A. 3 Ω",
+    "mean": "XL = 10 Ω, XC = 10 Ω, Z = √(3² + 0²) = 3 Ω."
+  },
+  {
+    "index": 201,
+    "question": "Satuan SI untuk besaran waktu adalah...",
+    "answer": "A. menit\nB. jam\nC. sekon\nD. hari\nE. tahun",
+    "correct_answer": "C. sekon",
+    "mean": "Sekon (detik) adalah satuan SI untuk waktu."
+  },
+  {
+    "index": 202,
+    "question": "Satuan SI untuk besaran suhu adalah...",
+    "answer": "A. Celsius\nB. Kelvin\nC. Fahrenheit\nD. Reamur\nE. Rankine",
+    "correct_answer": "B. Kelvin",
+    "mean": "Kelvin adalah satuan SI untuk suhu."
+  },
+  {
+    "index": 203,
+    "question": "Satuan SI untuk besaran jumlah zat adalah...",
+    "answer": "A. gram\nB. mol\nC. liter\nD. kandela\nE. ampere",
+    "correct_answer": "B. mol",
+    "mean": "Mol adalah satuan SI untuk jumlah zat."
+  },
+  {
+    "index": 204,
+    "question": "Satuan SI untuk besaran intensitas cahaya adalah...",
+    "answer": "A. lumen\nB. lux\nC. kandela\nD. watt\nE. candela/m²",
+    "correct_answer": "C. kandela",
+    "mean": "Kandela adalah satuan SI untuk intensitas cahaya."
+  },
+  {
+    "index": 205,
+    "question": "Dimensi dari besaran percepatan adalah...",
+    "answer": "A. [L][T]⁻¹\nB. [L][T]⁻²\nC. [L][T]\nD. [L]²[T]⁻¹\nE. [L]⁻¹[T]",
+    "correct_answer": "B. [L][T]⁻²",
+    "mean": "Percepatan = kecepatan/waktu, dimensinya [L][T]⁻²."
+  },
+  {
+    "index": 206,
+    "question": "Dimensi dari besaran tekanan adalah...",
+    "answer": "A. [M][L][T]⁻²\nB. [M][L]⁻¹[T]⁻²\nC. [M][L]²[T]⁻²\nD. [M][L][T]⁻¹\nE. [M][L]⁻²[T]⁻²",
+    "correct_answer": "B. [M][L]⁻¹[T]⁻²",
+    "mean": "Tekanan = gaya/luas, dimensinya [M][L]⁻¹[T]⁻²."
+  },
+  {
+    "index": 207,
+    "question": "Dimensi dari besaran daya adalah...",
+    "answer": "A. [M][L]²[T]⁻³\nB. [M][L]²[T]⁻²\nC. [M][L][T]⁻²\nD. [M][L]²[T]⁻¹\nE. [M][L]⁻¹[T]⁻²",
+    "correct_answer": "A. [M][L]²[T]⁻³",
+    "mean": "Daya = usaha/waktu, dimensinya [M][L]²[T]⁻³."
+  },
+  {
+    "index": 208,
+    "question": "Dimensi dari besaran momentum adalah...",
+    "answer": "A. [M][L][T]⁻¹\nB. [M][L][T]⁻²\nC. [M][L]²[T]⁻¹\nD. [M][L]²[T]⁻²\nE. [M][L]⁻¹[T]⁻²",
+    "correct_answer": "A. [M][L][T]⁻¹",
+    "mean": "Momentum = massa × kecepatan, dimensinya [M][L][T]⁻¹."
+  },
+  {
+    "index": 209,
+    "question": "Hasil pengukuran mikrometer sekrup skala utama 2,5 mm dan skala nonius 0,15 mm adalah...",
+    "answer": "A. 2,65 mm\nB. 2,515 mm\nC. 2,15 mm\nD. 2,015 mm\nE. 2,50 mm",
+    "correct_answer": "A. 2,65 mm",
+    "mean": "Hasil = 2,5 + 0,15 = 2,65 mm."
+  },
+  {
+    "index": 210,
+    "question": "Ketelitian mikrometer sekrup adalah...",
+    "answer": "A. 0,1 mm\nB. 0,01 mm\nC. 0,001 mm\nD. 1 mm\nE. 0,5 mm",
+    "correct_answer": "B. 0,01 mm",
+    "mean": "Mikrometer sekrup memiliki ketelitian 0,01 mm."
+  },
+  {
+    "index": 211,
+    "question": "Notasi ilmiah dari 2500000 adalah...",
+    "answer": "A. 2,5×10⁵\nB. 2,5×10⁶\nC. 25×10⁵\nD. 2,5×10⁷\nE. 0,25×10⁷",
+    "correct_answer": "B. 2,5×10⁶",
+    "mean": "2500000 = 2,5 × 10⁶."
+  },
+  {
+    "index": 212,
+    "question": "Hasil 12,34 - 1,2 menurut angka penting adalah...",
+    "answer": "A. 11,14\nB. 11,1\nC. 11\nD. 11,140\nE. 11,2",
+    "correct_answer": "B. 11,1",
+    "mean": "Pengurangan mengikuti 1 desimal → 11,1."
+  },
+  {
+    "index": 213,
+    "question": "Resultan vektor 5 N dan 12 N saling tegak lurus adalah...",
+    "answer": "A. 7 N\nB. 13 N\nC. 17 N\nD. 60 N\nE. 169 N",
+    "correct_answer": "B. 13 N",
+    "mean": "R = √(25 + 144) = 13 N."
+  },
+  {
+    "index": 214,
+    "question": "Komponen vektor 10 N dengan sudut 30° terhadap horizontal adalah...",
+    "answer": "A. 5 N\nB. 8,66 N\nC. 10 N\nD. 0,5 N\nE. 20 N",
+    "correct_answer": "B. 8,66 N",
+    "mean": "Fx = F cos 30° = 10 × 0,866 = 8,66 N."
+  },
+  {
+    "index": 215,
+    "question": "Benda bergerak 5 m ke kanan lalu 5 m ke kiri. Perpindahannya...",
+    "answer": "A. 10 m\nB. 5 m\nC. 0 m\nD. 25 m\nE. 2,5 m",
+    "correct_answer": "C. 0 m",
+    "mean": "Perpindahan = 5 - 5 = 0 m karena kembali ke titik awal."
+  },
+  {
+    "index": 216,
+    "question": "Mobil dipercepat dari 10 m/s menjadi 20 m/s dalam 5 s. Percepatannya...",
+    "answer": "A. 1 m/s²\nB. 2 m/s²\nC. 3 m/s²\nD. 5 m/s²\nE. 10 m/s²",
+    "correct_answer": "B. 2 m/s²",
+    "mean": "a = (20-10)/5 = 2 m/s²."
+  },
+  {
+    "index": 217,
+    "question": "Benda dengan v = 8 m/s diperlambat 2 m/s². Waktu berhenti...",
+    "answer": "A. 2 s\nB. 4 s\nC. 6 s\nD. 8 s\nE. 16 s",
+    "correct_answer": "B. 4 s",
+    "mean": "t = v/a = 8/2 = 4 s."
+  },
+  {
+    "index": 218,
+    "question": "Bola jatuh bebas dari 45 m (g = 10). Kecepatan saat menyentuh tanah...",
+    "answer": "A. 15 m/s\nB. 20 m/s\nC. 30 m/s\nD. 45 m/s\nE. 90 m/s",
+    "correct_answer": "C. 30 m/s",
+    "mean": "v = √(2gh) = √900 = 30 m/s."
+  },
+  {
+    "index": 219,
+    "question": "Benda dilempar vertikal ke atas v₀ = 40 m/s. Waktu kembalinya ke tanah (g = 10)...",
+    "answer": "A. 2 s\nB. 4 s\nC. 6 s\nD. 8 s\nE. 10 s",
+    "correct_answer": "D. 8 s",
+    "mean": "t total = 2v₀/g = 80/10 = 8 s."
+  },
+  {
+    "index": 220,
+    "question": "Benda bergerak melingkar 60 rpm. Kecepatan sudutnya...",
+    "answer": "A. π rad/s\nB. 2π rad/s\nC. 60π rad/s\nD. π/2 rad/s\nE. 120π rad/s",
+    "correct_answer": "B. 2π rad/s",
+    "mean": "60 rpm = 1 putaran/s → ω = 2π rad/s."
+  },
+  {
+    "index": 221,
+    "question": "Mobil menikung dengan r = 50 m dan v = 10 m/s. Percepatan sentripetalnya...",
+    "answer": "A. 0,5 m/s²\nB. 2 m/s²\nC. 5 m/s²\nD. 10 m/s²\nE. 500 m/s²",
+    "correct_answer": "B. 2 m/s²",
+    "mean": "as = v²/r = 100/50 = 2 m/s²."
+  },
+  {
+    "index": 222,
+    "question": "Balok 20 kg di lantai dengan gaya 100 N. Jika μk = 0,3 (g = 10), percepatannya...",
+    "answer": "A. 1 m/s²\nB. 2 m/s²\nC. 3 m/s²\nD. 5 m/s²\nE. 10 m/s²",
+    "correct_answer": "B. 2 m/s²",
+    "mean": "fk = 0,3 × 200 = 60 N, Ftotal = 40 N, a = 40/20 = 2 m/s²."
+  },
+  {
+    "index": 223,
+    "question": "Benda 5 kg di bidang miring 37° (sin 37° = 0,6). Gaya gravitasi sejajar bidang...",
+    "answer": "A. 30 N\nB. 40 N\nC. 50 N\nD. 60 N\nE. 20 N",
+    "correct_answer": "A. 30 N",
+    "mean": "F = mg sin θ = 5 × 10 × 0,6 = 30 N."
+  },
+  {
+    "index": 224,
+    "question": "Benda 2 kg bergerak 6 m/s. Energi kinetiknya...",
+    "answer": "A. 12 J\nB. 18 J\nC. 36 J\nD. 72 J\nE. 6 J",
+    "correct_answer": "C. 36 J",
+    "mean": "Ek = ½mv² = ½ × 2 × 36 = 36 J."
+  },
+  {
+    "index": 225,
+    "question": "Benda 5 kg pada ketinggian 10 m (g = 10) memiliki Ep...",
+    "answer": "A. 50 J\nB. 250 J\nC. 500 J\nD. 5000 J\nE. 100 J",
+    "correct_answer": "C. 500 J",
+    "mean": "Ep = mgh = 5 × 10 × 10 = 500 J."
+  },
+  {
+    "index": 226,
+    "question": "Bola 1 kg jatuh dari 20 m. Energi kinetik saat di tanah (g = 10)...",
+    "answer": "A. 20 J\nB. 100 J\nC. 200 J\nD. 400 J\nE. 2000 J",
+    "correct_answer": "C. 200 J",
+    "mean": "Ek = mgh = 1 × 10 × 20 = 200 J (energi mekanik kekal)."
+  },
+  {
+    "index": 227,
+    "question": "Benda 4 kg bergerak 5 m/s menumbuk benda 6 kg yang diam. Jika menyatu, kecepatan setelah tumbukan...",
+    "answer": "A. 1 m/s\nB. 2 m/s\nC. 3 m/s\nD. 4 m/s\nE. 5 m/s",
+    "correct_answer": "B. 2 m/s",
+    "mean": "m1v1 = (m1+m2)v' → 20 = 10v' → v' = 2 m/s."
+  },
+  {
+    "index": 228,
+    "question": "Momentum benda 5 kg bergerak 8 m/s adalah...",
+    "answer": "A. 13 kg·m/s\nB. 40 kg·m/s\nC. 0,625 kg·m/s\nD. 1,6 kg·m/s\nE. 400 kg·m/s",
+    "correct_answer": "B. 40 kg·m/s",
+    "mean": "p = mv = 5 × 8 = 40 kg·m/s."
+  },
+  {
+    "index": 229,
+    "question": "Bola 0,2 kg dipukul dengan gaya 100 N selama 0,05 s. Impulsnya...",
+    "answer": "A. 0,5 N·s\nB. 5 N·s\nC. 50 N·s\nD. 2000 N·s\nE. 0,005 N·s",
+    "correct_answer": "B. 5 N·s",
+    "mean": "I = FΔt = 100 × 0,05 = 5 N·s."
+  },
+  {
+    "index": 230,
+    "question": "Pegas dengan k = 400 N/m dimampatkan 0,1 m. Energi potensialnya...",
+    "answer": "A. 2 J\nB. 4 J\nC. 20 J\nD. 40 J\nE. 0,2 J",
+    "correct_answer": "A. 2 J",
+    "mean": "Ep = ½kx² = ½ × 400 × 0,01 = 2 J."
+  },
+  {
+    "index": 231,
+    "question": "Tekanan hidrostatis pada kedalaman 10 m (ρ = 1000, g = 10)...",
+    "answer": "A. 10000 Pa\nB. 100000 Pa\nC. 1000 Pa\nD. 1000000 Pa\nE. 100 Pa",
+    "correct_answer": "B. 100000 Pa",
+    "mean": "P = ρgh = 1000 × 10 × 10 = 100000 Pa."
+  },
+  {
+    "index": 232,
+    "question": "Benda volume 0,1 m³ tercelup seluruhnya di air (ρ = 1000, g = 10). Gaya apungnya...",
+    "answer": "A. 100 N\nB. 1000 N\nC. 10000 N\nD. 10 N\nE. 1 N",
+    "correct_answer": "B. 1000 N",
+    "mean": "Fa = ρgV = 1000 × 10 × 0,1 = 1000 N."
+  },
+  {
+    "index": 233,
+    "question": "Pipa besar A1 = 0,04 m², v1 = 2 m/s. Pipa kecil A2 = 0,02 m². v2 adalah...",
+    "answer": "A. 1 m/s\nB. 2 m/s\nC. 4 m/s\nD. 8 m/s\nE. 0,5 m/s",
+    "correct_answer": "C. 4 m/s",
+    "mean": "A1v1 = A2v2 → 0,08 = 0,02v2 → v2 = 4 m/s."
+  },
+  {
+    "index": 234,
+    "question": "Kalor untuk menguapkan 0,5 kg air (U = 2260000 J/kg) adalah...",
+    "answer": "A. 113000 J\nB. 1130000 J\nC. 4520000 J\nD. 226000 J\nE. 2260000 J",
+    "correct_answer": "B. 1130000 J",
+    "mean": "Q = mU = 0,5 × 2260000 = 1130000 J."
+  },
+  {
+    "index": 235,
+    "question": "Konversi 400 K ke Celsius adalah...",
+    "answer": "A. 127°C\nB. 273°C\nC. 100°C\nD. 400°C\nE. 673°C",
+    "correct_answer": "A. 127°C",
+    "mean": "°C = 400 - 273 = 127°C."
+  },
+  {
+    "index": 236,
+    "question": "Gas dengan P = 1 atm, V = 5 L, T = 250 K dipanaskan menjadi 500 K pada P tetap. V menjadi...",
+    "answer": "A. 2,5 L\nB. 5 L\nC. 10 L\nD. 20 L\nE. 1 L",
+    "correct_answer": "C. 10 L",
+    "mean": "V1/T1 = V2/T2 → 5/250 = V2/500 → V2 = 10 L."
+  },
+  {
+    "index": 237,
+    "question": "Getaran dengan amplitudo 10 cm dan periode 0,5 s memiliki frekuensi...",
+    "answer": "A. 0,5 Hz\nB. 1 Hz\nC. 2 Hz\nD. 5 Hz\nE. 10 Hz",
+    "correct_answer": "C. 2 Hz",
+    "mean": "f = 1/T = 1/0,5 = 2 Hz."
+  },
+  {
+    "index": 238,
+    "question": "Gelombang dengan λ = 0,5 m dan v = 10 m/s memiliki frekuensi...",
+    "answer": "A. 5 Hz\nB. 10 Hz\nC. 20 Hz\nD. 0,05 Hz\nE. 50 Hz",
+    "correct_answer": "C. 20 Hz",
+    "mean": "f = v/λ = 10/0,5 = 20 Hz."
+  },
+  {
+    "index": 239,
+    "question": "Bunyi audiosonik memiliki frekuensi...",
+    "answer": "A. < 20 Hz\nB. 20-20000 Hz\nC. > 20000 Hz\nD. 0 Hz\nE. > 200000 Hz",
+    "correct_answer": "B. 20-20000 Hz",
+    "mean": "Audiosonik adalah bunyi yang dapat didengar manusia, 20-20000 Hz."
+  },
+  {
+    "index": 240,
+    "question": "Sumber bunyi menjauh dari pengamat, maka frekuensi yang didengar...",
+    "answer": "A. Lebih tinggi\nB. Lebih rendah\nC. Sama\nD. Nol\nE. Tak hingga",
+    "correct_answer": "B. Lebih rendah",
+    "mean": "Efek Doppler: sumber menjauh membuat frekuensi terdengar lebih rendah."
+  },
+  {
+    "index": 241,
+    "question": "Cermin cekung f = 8 cm, benda 24 cm di depan. Jarak bayangan...",
+    "answer": "A. 6 cm\nB. 12 cm\nC. 16 cm\nD. 24 cm\nE. 32 cm",
+    "correct_answer": "B. 12 cm",
+    "mean": "1/s' = 1/8 - 1/24 = 2/24 → s' = 12 cm."
+  },
+  {
+    "index": 242,
+    "question": "Lensa cembung f = 10 cm, benda 15 cm di depan. Perbesarannya...",
+    "answer": "A. 1\nB. 2\nC. 3\nD. 0,5\nE. 1,5",
+    "correct_answer": "B. 2",
+    "mean": "1/s' = 1/10 - 1/15 = 1/30 → s' = 30 cm, M = 30/15 = 2."
+  },
+  {
+    "index": 243,
+    "question": "Cermin cembung f = -15 cm, benda 30 cm di depan. Jarak bayangan...",
+    "answer": "A. -10 cm\nB. 10 cm\nC. -30 cm\nD. 30 cm\nE. -15 cm",
+    "correct_answer": "A. -10 cm",
+    "mean": "1/s' = -1/15 - 1/30 = -3/30 → s' = -10 cm (maya)."
+  },
+  {
+    "index": 244,
+    "question": "Perbesaran lup maksimum dengan f = 5 cm (sn = 25 cm) adalah...",
+    "answer": "A. 5\nB. 6\nC. 25\nD. 30\nE. 4",
+    "correct_answer": "B. 6",
+    "mean": "M = sn/f + 1 = 25/5 + 1 = 6."
+  },
+  {
+    "index": 245,
+    "question": "Dua muatan 3 μC dan 12 μC berjarak 3 cm. Gaya Coulombnya...",
+    "answer": "A. 36 N\nB. 360 N\nC. 3,6 N\nD. 0,36 N\nE. 3600 N",
+    "correct_answer": "B. 360 N",
+    "mean": "F = kq1q2/r² = (9×10⁹ × 36×10⁻¹²)/(9×10⁻⁴) = 360 N."
+  },
+  {
+    "index": 246,
+    "question": "Potensial listrik pada jarak 3 m dari muatan 6 μC adalah...",
+    "answer": "A. 1,8×10⁴ V\nB. 1,8×10⁵ V\nC. 5,4×10⁴ V\nD. 5,4×10⁵ V\nE. 1,8×10³ V",
+    "correct_answer": "A. 1,8×10⁴ V",
+    "mean": "V = kq/r = (9×10⁹ × 6×10⁻⁶)/3 = 1,8×10⁴ V."
+  },
+  {
+    "index": 247,
+    "question": "Kapasitor 20 μF pada tegangan 50 V menyimpan muatan...",
+    "answer": "A. 1000 μC\nB. 100 μC\nC. 10 μC\nD. 10000 μC\nE. 2,5 μC",
+    "correct_answer": "A. 1000 μC",
+    "mean": "Q = CV = 20 × 50 = 1000 μC."
+  },
+  {
+    "index": 248,
+    "question": "Kuat arus pada rangkaian R = 20 Ω dengan V = 100 V adalah...",
+    "answer": "A. 0,2 A\nB. 2 A\nC. 5 A\nD. 20 A\nE. 2000 A",
+    "correct_answer": "C. 5 A",
+    "mean": "I = V/R = 100/20 = 5 A."
+  },
+  {
+    "index": 249,
+    "question": "Hambatan 2Ω, 4Ω, 4Ω disusun paralel. Hambatan penggantinya...",
+    "answer": "A. 10 Ω\nB. 1 Ω\nC. 2 Ω\nD. 4 Ω\nE. 0,5 Ω",
+    "correct_answer": "B. 1 Ω",
+    "mean": "1/Rp = 1/2 + 1/4 + 1/4 = 1 → Rp = 1 Ω."
+  },
+  {
+    "index": 250,
+    "question": "Medan magnet pada jarak 0,2 m dari kawat berarus 5 A (μ₀ = 4π×10⁻⁷) adalah...",
+    "answer": "A. 5×10⁻⁶ T\nB. 5×10⁻⁵ T\nC. 1×10⁻⁵ T\nD. 2×10⁻⁵ T\nE. 4×10⁻⁶ T",
+    "correct_answer": "A. 5×10⁻⁶ T",
+    "mean": "B = μ₀I/(2πa) = (4π×10⁻⁷ × 5)/(2π × 0,2) = 5×10⁻⁶ T."
+  }
+]
